@@ -1,0 +1,10 @@
+pandas
+duckdb
+langchain-mcp-adapters
+mcp>=1.30,<2.0.0
+python-dotenv
+langchain
+langchain-groq
+portkey-ai
+fastapi
+redactor

@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,gender,date_of_birth,age,email,phone,city,state,country,zip_code,education,department,job_title,hire_date,years_of_experience,salary,performance_score,is_active,employee_code
+CUST-00001,James,Khan,Male,1990-01-23,36,james.khan@outlook.com,(632) 232-0488,Chicago,IL,USA,22280,Associate,Finance,Finance Manager,2013-04-19,13.5,143000,3.5,True,EMP-ZZPQK5
+CUST-00002,Arjun,Hernandez,Male,1996-01-19,30,arjun.hernandez@outlook.com,(470) 244-7527,Seattle,WA,USA,80284,High School,Engineering,QA Engineer,2018-01-15,8.8,131500,1.9,True,EMP-W5NGCX
+CUST-00003,Jennifer,Clark,Female,1999-04-13,27,jennifer.clark@yahoo.com,(918) 899-1169,Phoenix,AZ,USA,89840,Bachelor,Marketing,Content Writer,2024-02-03,2.7,60500,2.3,True,EMP-9XUY41
+CUST-00004,John,Rossi,Male,1980-02-15,46,john.rossi@outlook.com,(871) 711-6482,Los Angeles,CA,USA,94259,Bachelor,Data,Data Engineer,2025-06-25,1.3,168500,2.2,True,EMP-T0PVN9
+CUST-00005,Omar,Taylor,Male,2001-11-26,24,omar.taylor@gmail.com,(590) 810-7668,Chicago,IL,USA,79352,Bachelor,Finance,Finance Manager,2022-11-24,3.9,132000,4.1,True,EMP-ZYTJXE
+CUST-00006,Susan,Thomas,Female,1989-06-14,37,susan.thomas@gmail.com,(823) 403-2504,Chicago,IL,USA,59009,Master,HR,HR Manager,2012-05-21,14.4,131000,4.5,False,EMP-7VREN9
+CUST-00007,Sarah,Johnson,Female,1968-11-10,57,sarah.johnson@yahoo.com,(328) 331-7787,Los Angeles,CA,USA,82063,Associate,Finance,Finance Manager,2015-11-26,10.9,151500,4.1,True,EMP-HT0HL9
+CUST-00008,Fatima,Moore,Female,1998-02-04,28,fatima.moore@example.com,(207) 272-0964,Houston,TX,USA,40007,High School,Engineering,Software Engineer,2022-10-16,4.0,78000,4.1,True,EMP-IYHE7U
+CUST-00009,Sarah,Rossi,Female,1979-01-06,47,sarah.rossi@example.com,(946) 255-1612,Los Angeles,CA,USA,17944,Bachelor,Engineering,DevOps Engineer,2019-10-13,7.0,134000,3.9,True,EMP-GTFGQ5
+CUST-00010,Wei,Rossi,Male,1998-10-26,27,wei.rossi@mail.com,(370) 616-7956,Austin,TX,USA,73092,Associate,HR,Recruiter,2019-03-02,7.7,124500,4.2,True,EMP-AO72KZ
+CUST-00011,Elizabeth,Miller,Female,1991-10-30,34,elizabeth.miller@outlook.com,(688) 714-8701,Atlanta,GA,USA,30635,High School,Finance,Finance Manager,2024-02-28,2.7,63500,1.9,True,EMP-VYIE6I
+CUST-00012,Mateo,Williams,Male,1963-07-26,63,mateo.williams@example.com,(444) 471-6484,Atlanta,GA,USA,27154,Bachelor,HR,Recruiter,2012-02-05,14.7,137000,3.1,False,EMP-7AWUDT
+CUST-00013,Elizabeth,Lopez,Female,1990-04-08,36,elizabeth.lopez@gmail.com,(869) 741-0128,Phoenix,AZ,USA,97538,Master,Data,Data Engineer,2020-10-29,6.0,171000,4.4,True,EMP-5J60FK
+CUST-00014,Ryan,Miller,Male,1973-06-08,53,ryan.miller@outlook.com,(203) 541-2143,Phoenix,AZ,USA,93507,PhD,Support,Support Agent,2006-02-21,20.7,50500,3.8,True,EMP-PAC56T
+CUST-00015,Elena,Jackson,Female,1977-12-05,48,elena.jackson@yahoo.com,(566) 415-4088,New York,NY,USA,97416,High School,Sales,Sales Manager,2013-03-07,13.6,154500,4.2,True,EMP-WF7593
+CUST-00016,Mary,Garcia,Female,1979-09-08,47,mary.garcia@outlook.com,(239) 681-3644,Miami,FL,USA,36158,Master,Support,Support Lead,2010-07-26,16.3,59500,2.9,True,EMP-5IXOKC
+CUST-00017,Sophia,Kim,Female,1980-09-12,46,sophia.kim@mail.com,(794) 471-0626,Boston,MA,USA,24208,Bachelor,Sales,Account Executive,2026-01-25,0.8,48000,3.7,True,EMP-VSNUJZ
+CUST-00018,Omar,Rossi,Male,1962-09-09,64,omar.rossi@mail.com,(521) 879-2041,Houston,TX,USA,49363,Bachelor,Sales,Sales Manager,2014-09-04,12.2,63500,3.0,True,EMP-KEP7Y6
+CUST-00019,Priya,Jackson,Female,1986-02-24,40,priya.jackson@gmail.com,(652) 891-3501,Houston,TX,USA,77000,Bachelor,Marketing,Content Writer,2024-08-15,2.2,92500,3.6,True,EMP-XWD8IL
+CUST-00020,William,Smith,Male,1990-06-01,36,william.smith@gmail.com,(935) 913-6291,Atlanta,GA,USA,74799,Bachelor,Support,Support Agent,2012-08-19,14.2,68500,3.6,True,EMP-11DPG8
+CUST-00021,Patricia,Jackson,Female,1998-05-22,28,patricia.jackson@yahoo.com,(973) 653-8270,Chicago,IL,USA,65933,Master,Support,Support Lead,2024-03-18,2.6,65000,4.2,True,EMP-RJIW1S
+CUST-00022,Anthony,Thomas,Male,1987-01-29,39,anthony.thomas@gmail.com,(592) 910-2503,Phoenix,AZ,USA,38043,High School,Sales,Account Executive,2015-03-04,11.7,149000,2.8,True,EMP-C3O18A
+CUST-00023,Isabella,Smith,Female,1986-04-18,40,isabella.smith@outlook.com,(699) 424-4471,Springfield,IL,USA,67125,Bachelor,HR,Recruiter,2023-10-07,3.1,98500,2.8,True,EMP-OFQEWA
+CUST-00024,Elena,Lee,Female,2000-08-25,26,elena.lee@gmail.com,(665) 534-5529,Springfield,IL,USA,59692,Bachelor,Data,ML Engineer,2026-03-07,0.6,85000,2.6,True,EMP-AT9MX2
+CUST-00025,James,Davis,Male,2004-08-14,22,james.davis@yahoo.com,(676) 916-4198,Chicago,IL,USA,58351,Associate,Data,Data Analyst,2025-05-10,1.5,118000,3.8,True,EMP-LU7U6N
+CUST-00026,Robert,Lee,Male,1999-09-22,27,robert.lee@yahoo.com,(242) 555-8728,Phoenix,AZ,USA,66148,Bachelor,Support,Support Agent,2026-09-25,0.1,67500,3.2,True,EMP-43D8W3
+CUST-00027,Arjun,Garcia,Male,1964-02-16,62,arjun.garcia@mail.com,(948) 806-4397,Atlanta,GA,USA,52245,Master,Support,Support Agent,2025-08-17,1.2,58000,2.7,True,EMP-1UYMRL
+CUST-00028,Jessica,Lopez,Female,1984-02-21,42,jessica.lopez@outlook.com,(287) 447-6658,Atlanta,GA,USA,74038,Bachelor,Finance,Accountant,2024-09-27,2.1,82000,3.6,True,EMP-R2DHYL
+CUST-00029,Isabella,Jackson,Female,1983-05-06,43,isabella.jackson@mail.com,(436) 323-3155,Miami,FL,USA,51359,High School,HR,HR Manager,2012-06-02,14.4,87500,4.5,True,EMP-G0JV1V
+CUST-00030,Daniel,Martinez,Male,1981-12-31,44,daniel.martinez@yahoo.com,(766) 499-2068,Phoenix,AZ,USA,93606,Master,Engineering,QA Engineer,2020-11-18,5.9,144000,2.0,True,EMP-KRM8J5
+CUST-00031,Robert,Wilson,Male,2001-07-23,25,robert.wilson@example.com,(287) 454-1940,Austin,TX,USA,83147,Master,Finance,Finance Manager,2022-04-20,4.5,74000,3.4,True,EMP-1N6KVP
+CUST-00032,Mateo,Khan,Male,1992-08-16,34,mateo.khan@gmail.com,(202) 618-7381,Houston,TX,USA,87832,Bachelor,Sales,Sales Rep,2014-10-28,12.0,72500,2.5,True,EMP-ZQY72W
+CUST-00033,Arjun,Brown,Male,1991-08-28,35,arjun.brown@mail.com,(966) 782-4728,Chicago,IL,USA,67560,High School,Sales,Sales Manager,2015-03-11,11.6,63000,2.7,True,EMP-JTPV60
+CUST-00034,Mary,Williams,Female,1962-07-22,64,mary.williams@yahoo.com,(974) 379-7708,Atlanta,GA,USA,78021,Bachelor,Engineering,DevOps Engineer,2022-02-25,4.7,157500,2.3,True,EMP-WRDMLY
+CUST-00035,Ryan,Anderson,Male,1987-09-05,39,ryan.anderson@example.com,(531) 318-6622,Springfield,IL,USA,77449,Master,Support,Support Agent,2025-01-21,1.8,59000,3.6,True,EMP-OGN1W1
+CUST-00036,Anthony,Jackson,Male,1987-05-13,39,anthony.jackson@yahoo.com,(926) 362-5091,Miami,FL,USA,82199,High School,Marketing,Marketing Manager,2010-09-21,16.1,61500,2.0,False,EMP-6QE3RZ
+CUST-00037,Mei,Tanaka,Female,1975-02-02,51,mei.tanaka@example.com,(339) 271-4526,Denver,CO,USA,64387,Bachelor,HR,HR Manager,2008-03-30,18.6,91000,2.6,True,EMP-04UX5Q
+CUST-00038,Sophia,Hernandez,Female,1971-04-12,55,sophia.hernandez@mail.com,(439) 994-6730,Denver,CO,USA,15720,Bachelor,Sales,Account Executive,2024-07-03,2.3,64000,3.7,True,EMP-NX39RB
+CUST-00039,Linda,Clark,Female,1999-06-27,27,linda.clark@example.com,(680) 471-5546,Denver,CO,USA,91691,Bachelor,Engineering,Software Engineer,2021-08-13,5.2,127000,4.1,True,EMP-4NLZ15
+CUST-00040,Mateo,Williams,Male,1965-09-16,61,mateo.williams@yahoo.com,(920) 302-7269,Phoenix,AZ,USA,31805,Bachelor,Data,Data Analyst,2021-10-01,5.1,82000,1.7,True,EMP-KNFTU2
+CUST-00041,David,Williams,Male,1981-08-14,45,david.williams@mail.com,(460) 670-4183,Austin,TX,USA,97404,High School,Data,ML Engineer,2016-02-29,10.7,195000,4.2,True,EMP-FPMVXP
+CUST-00042,Fatima,Clark,Female,1993-04-15,33,fatima.clark@outlook.com,(916) 502-0359,Denver,CO,USA,96275,Bachelor,Engineering,Software Engineer,2019-04-28,7.5,129000,3.4,True,EMP-0BVR6K
+CUST-00043,Mateo,Rossi,Male,1991-08-22,35,mateo.rossi@outlook.com,(340) 843-1591,Houston,TX,USA,92242,Bachelor,HR,Recruiter,2017-08-15,9.2,105500,3.9,True,EMP-NE6LOH
+CUST-00044,Yuki,Moore,Female,1995-02-09,31,yuki.moore@outlook.com,(277) 344-3696,Denver,CO,USA,98647,Master,Support,Support Lead,2019-04-23,7.5,74500,4.6,True,EMP-N2ATQY
+CUST-00045,Elena,Wilson,Female,1999-09-11,27,elena.wilson@outlook.com,(824) 426-1035,Houston,TX,USA,93283,Master,Marketing,SEO Analyst,2020-04-12,6.5,103500,3.5,True,EMP-BB9EIT
+CUST-00046,Fatima,Lopez,Female,1979-07-28,47,fatima.lopez@mail.com,(830) 617-4583,Miami,FL,USA,14288,Bachelor,Finance,Accountant,2008-06-19,18.4,169500,3.1,False,EMP-4DYT9M
+CUST-00047,Emily,Miller,Female,1975-11-16,50,emily.miller@gmail.com,(541) 449-2063,Austin,TX,USA,84000,Associate,Data,Data Scientist,2019-05-24,7.4,152000,3.4,True,EMP-I12VJ9
+CUST-00048,Luca,Rodriguez,Male,1998-09-04,28,luca.rodriguez@yahoo.com,(216) 378-4347,New York,NY,USA,16868,High School,Data,ML Engineer,2019-03-02,7.7,118500,3.3,True,EMP-R2SDS8
+CUST-00049,Omar,Martinez,Male,1963-10-16,62,omar.martinez@example.com,(654) 275-1323,New York,NY,USA,52219,Bachelor,Marketing,Marketing Specialist,2024-01-03,2.8,79500,2.1,True,EMP-VZNVKS
+CUST-00050,Linda,Rossi,Female,1964-08-29,62,linda.rossi@gmail.com,(547) 664-6532,Boston,MA,USA,64524,Master,Finance,Financial Analyst,2024-05-31,2.4,77000,3.1,True,EMP-NF7C3D
+CUST-00051,Kevin,Rossi,Male,1969-10-31,56,kevin.rossi@yahoo.com,(881) 968-6929,Atlanta,GA,USA,16743,PhD,HR,HR Manager,2017-08-07,9.2,78500,2.8,True,EMP-SFR4MU
+CUST-00052,Anthony,Lee,Male,1978-07-15,48,anthony.lee@yahoo.com,(910) 473-0474,Atlanta,GA,USA,33647,Bachelor,HR,Recruiter,2020-02-21,6.7,98500,4.3,True,EMP-GFXC08
+CUST-00053,Omar,Miller,Male,1979-05-21,47,omar.miller@example.com,(810) 286-0861,Seattle,WA,USA,30392,Associate,Data,Data Analyst,2013-04-20,13.5,124000,3.6,True,EMP-XRPJ1E
+CUST-00054,Linda,Martinez,Female,1974-06-27,52,linda.martinez@mail.com,(409) 508-3460,Austin,TX,USA,27987,Master,Sales,Account Executive,2006-01-08,20.8,83000,2.8,True,EMP-0GNZS4
+CUST-00055,Jennifer,Wilson,Female,1977-10-10,48,jennifer.wilson@gmail.com,(855) 627-4743,Denver,CO,USA,25096,Bachelor,Engineering,DevOps Engineer,2024-05-03,2.5,109500,2.3,False,EMP-QYNPDP
+CUST-00056,Yuki,Williams,Female,1986-03-23,40,yuki.williams@example.com,(722) 398-5724,Houston,TX,USA,56019,Master,Sales,Sales Manager,2024-06-22,2.4,62000,3.9,True,EMP-FHV1XG
+CUST-00057,Fatima,Singh,Female,1968-05-17,58,fatima.singh@mail.com,(842) 523-2473,Austin,TX,USA,67640,High School,HR,Recruiter,2019-06-04,7.4,99000,3.5,True,EMP-VMCQBN
+CUST-00058,Jennifer,Kim,Female,1966-08-01,60,jennifer.kim@gmail.com,(242) 660-9366,Boston,MA,USA,95437,Associate,Marketing,Marketing Manager,2015-05-19,11.4,109000,3.2,False,EMP-Q349DX
+CUST-00059,Matthew,Chen,Male,1977-06-26,49,matthew.chen@example.com,(993) 546-9795,Boston,MA,USA,16863,Master,HR,HR Manager,2008-07-24,18.3,89000,2.8,True,EMP-UNJ48V
+CUST-00060,Ryan,Williams,Male,1962-12-12,63,ryan.williams@mail.com,(925) 286-5072,Seattle,WA,USA,83259,Bachelor,Sales,Account Executive,2026-09-15,0.1,101000,3.9,True,EMP-30YSXP
+CUST-00061,Mary,Lopez,Female,1994-01-18,32,mary.lopez@outlook.com,(502) 303-8317,Seattle,WA,USA,80748,Master,Support,Support Agent,2025-11-27,0.9,43500,3.6,True,EMP-WVFGYW
+CUST-00062,Wei,Johnson,Male,1982-09-12,44,wei.johnson@example.com,(659) 439-8749,Miami,FL,USA,41348,Bachelor,Data,ML Engineer,2026-09-30,0.1,112000,4.2,True,EMP-YUP12S
+CUST-00063,Susan,Tanaka,Female,1966-12-10,59,susan.tanaka@yahoo.com,(928) 728-2042,Phoenix,AZ,USA,47363,High School,Engineering,Senior Engineer,2019-05-20,7.4,141000,2.7,False,EMP-FP8HQM
+CUST-00064,Arjun,Johnson,Male,1973-04-10,53,arjun.johnson@example.com,(931) 865-5493,Houston,TX,USA,29142,High School,Marketing,SEO Analyst,2006-10-31,20.0,95000,4.3,True,EMP-31QW6A
+CUST-00065,William,Jackson,Male,1972-05-04,54,william.jackson@mail.com,(854) 837-7489,Los Angeles,CA,USA,18232,High School,Support,Support Lead,2011-06-19,15.4,58000,3.4,True,EMP-SIFPWI
+CUST-00066,Susan,Nguyen,Female,1972-04-02,54,susan.nguyen@gmail.com,(599) 681-0713,Los Angeles,CA,USA,93318,Bachelor,HR,Recruiter,2017-03-16,9.6,93000,2.6,True,EMP-2M0W10
+CUST-00067,Elizabeth,Johnson,Female,1971-03-23,55,elizabeth.johnson@outlook.com,(846) 386-2209,Austin,TX,USA,18270,Master,Data,ML Engineer,2023-08-17,3.2,156000,1.6,True,EMP-25LLO3
+CUST-00068,Emily,Johnson,Female,1987-04-01,39,emily.johnson@yahoo.com,(609) 961-7204,New York,NY,USA,60678,Bachelor,Support,Support Agent,2022-09-15,4.1,52500,3.2,True,EMP-7S20CV
+CUST-00069,Luca,Martinez,Male,1998-11-10,27,luca.martinez@outlook.com,(906) 654-5759,Seattle,WA,USA,68606,High School,Finance,Financial Analyst,2022-04-25,4.5,88500,3.5,True,EMP-X2CYOS
+CUST-00070,James,Jones,Male,1962-05-13,64,james.jones@mail.com,(780) 233-9913,New York,NY,USA,30111,Bachelor,Data,Data Engineer,2006-07-05,20.3,116500,2.9,True,EMP-UTOXIE
+CUST-00071,Carlos,Moore,Male,1969-11-30,56,carlos.moore@example.com,(910) 702-3279,Phoenix,AZ,USA,26074,High School,Support,Support Agent,2010-11-03,16.0,82000,3.1,False,EMP-QDY4LM
+CUST-00072,Luca,Jackson,Male,1985-12-20,40,luca.jackson@outlook.com,(429) 324-3292,Miami,FL,USA,28202,Associate,Finance,Financial Analyst,2026-10-19,0.0,114500,1.5,True,EMP-N2TWDL
+CUST-00073,Yuki,Anderson,Female,1968-11-07,57,yuki.anderson@example.com,(331) 998-9032,Chicago,IL,USA,93859,Bachelor,Sales,Sales Rep,2019-05-30,7.4,59000,3.1,False,EMP-BEFFLZ
+CUST-00074,Yuki,Martinez,Female,1989-01-09,37,yuki.martinez@gmail.com,(714) 856-2762,Austin,TX,USA,87569,Master,HR,HR Generalist,2016-02-27,10.7,64500,2.3,True,EMP-6M7B5C
+CUST-00075,Jessica,Singh,Female,1979-08-13,47,jessica.singh@mail.com,(509) 694-4012,Austin,TX,USA,99783,Bachelor,Engineering,QA Engineer,2016-03-03,10.7,203500,1.9,True,EMP-PRHVLZ
+CUST-00076,Priya,Jones,Female,1973-07-15,53,priya.jones@outlook.com,(299) 251-4754,Los Angeles,CA,USA,60351,Master,Sales,Account Executive,2010-06-04,16.4,110000,2.6,True,EMP-FLUL1R
+CUST-00077,Isabella,Martinez,Female,2003-11-16,22,isabella.martinez@example.com,(251) 488-8108,Springfield,IL,USA,88317,Master,HR,HR Manager,2026-07-25,0.3,108500,3.6,True,EMP-ADEJNO
+CUST-00078,Brian,Johnson,Male,1970-01-08,56,brian.johnson@mail.com,(486) 838-1946,Seattle,WA,USA,26864,PhD,HR,Recruiter,2011-06-23,15.4,64500,2.9,False,EMP-UNFVOB
+CUST-00079,William,Chen,Male,1975-06-23,51,william.chen@outlook.com,(526) 366-6438,Denver,CO,USA,90805,Master,Data,Data Engineer,2018-08-07,8.2,185000,3.4,True,EMP-SRURAL
+CUST-00080,Arjun,Lee,Male,1961-08-19,65,arjun.lee@outlook.com,(792) 791-3728,New York,NY,USA,16731,Bachelor,HR,HR Generalist,2015-08-24,11.2,76000,3.3,True,EMP-1N3IUZ
+CUST-00081,James,Thomas,Male,1978-12-17,47,james.thomas@outlook.com,(953) 944-1020,Springfield,IL,USA,28098,Bachelor,Finance,Finance Manager,2009-07-29,17.3,117000,2.8,True,EMP-SLG6MM
+CUST-00082,Grace,Taylor,Female,1990-02-20,36,grace.taylor@yahoo.com,(921) 412-8011,Boston,MA,USA,51555,Bachelor,Sales,Sales Manager,2016-01-17,10.8,152000,4.4,True,EMP-JEYN93
+CUST-00083,Joshua,Johnson,Male,2000-03-26,26,joshua.johnson@outlook.com,(477) 775-4450,Denver,CO,USA,27992,High School,Finance,Finance Manager,2023-11-17,3.0,125500,3.4,True,EMP-YTWBOZ
+CUST-00084,William,Smith,Male,1995-04-27,31,william.smith@mail.com,(492) 861-0969,Austin,TX,USA,21725,Bachelor,Marketing,Content Writer,2021-05-09,5.5,104000,3.3,True,EMP-76G5G7
+CUST-00085,Isabella,Garcia,Female,2002-10-05,23,isabella.garcia@outlook.com,(856) 756-8590,Phoenix,AZ,USA,74738,Master,HR,HR Generalist,2026-05-19,0.4,52500,4.1,True,EMP-GEFQJG
+CUST-00086,Ashley,Lee,Female,1994-08-09,32,ashley.lee@yahoo.com,(389) 343-7822,Austin,TX,USA,52415,Master,Marketing,Marketing Specialist,2024-08-04,2.2,87500,2.6,True,EMP-18K0AX
+CUST-00087,John,Nguyen,Male,1976-03-06,50,john.nguyen@gmail.com,(518) 906-1923,Chicago,IL,USA,93717,Master,Marketing,SEO Analyst,2020-05-22,6.4,93500,2.9,True,EMP-8RQ9NZ
+CUST-00088,Aisha,Rossi,Female,1990-09-14,36,aisha.rossi@yahoo.com,(777) 314-1011,Atlanta,GA,USA,81781,Master,Support,Support Agent,2012-11-01,14.0,71500,3.4,True,EMP-LSEHUD
+CUST-00089,Patricia,Thomas,Female,1973-05-01,53,patricia.thomas@yahoo.com,(222) 605-4169,Denver,CO,USA,10395,Master,HR,HR Manager,2006-04-18,20.5,105500,1.9,True,EMP-ZTC69Q
+CUST-00090,Mei,Garcia,Female,1964-08-26,62,mei.garcia@yahoo.com,(584) 282-8835,Springfield,IL,USA,27431,Bachelor,Sales,Account Executive,2024-12-28,1.8,80500,2.1,False,EMP-OE9419
+CUST-00091,Aisha,Anderson,Female,1981-01-26,45,aisha.anderson@mail.com,(983) 315-0527,Houston,TX,USA,96533,Bachelor,Marketing,Marketing Specialist,2012-10-06,14.1,72500,2.6,True,EMP-VQY5IB
+CUST-00092,Sarah,Jackson,Female,2001-12-11,24,sarah.jackson@yahoo.com,(812) 991-5253,Boston,MA,USA,41051,Bachelor,Sales,Sales Rep,2023-04-25,3.5,122500,4.7,True,EMP-OJUV0G
+CUST-00093,Aisha,Taylor,Female,1983-08-26,43,aisha.taylor@gmail.com,(507) 585-3012,Austin,TX,USA,80507,Bachelor,Marketing,Content Writer,2022-08-17,4.2,91500,2.7,True,EMP-36U8UE
+CUST-00094,Anthony,Miller,Male,1963-11-10,62,anthony.miller@outlook.com,(474) 586-9911,Denver,CO,USA,89026,High School,Support,Support Agent,2013-04-28,13.5,49000,2.4,True,EMP-0UR5L8
+CUST-00095,Daniel,Miller,Male,1975-02-02,51,daniel.miller@gmail.com,(994) 489-6236,Miami,FL,USA,71112,Bachelor,HR,Recruiter,2020-10-14,6.0,65500,2.8,True,EMP-5Q201L
+CUST-00096,Kevin,Hernandez,Male,2003-07-16,23,kevin.hernandez@example.com,(937) 627-4836,Houston,TX,USA,29976,Associate,Finance,Accountant,2024-10-25,2.0,58500,2.9,True,EMP-RXYJ38
+CUST-00097,Fatima,Garcia,Female,1994-12-11,31,fatima.garcia@outlook.com,(260) 736-0554,Miami,FL,USA,19742,Master,HR,HR Manager,2025-12-14,0.9,58000,1.7,True,EMP-EWCFHQ
+CUST-00098,Mateo,Kim,Male,1975-09-03,51,mateo.kim@mail.com,(939) 481-8777,Denver,CO,USA,47576,High School,Engineering,QA Engineer,2005-02-24,21.7,167000,3.9,False,EMP-DDFGS3
+CUST-00099,Priya,Williams,Female,1980-05-23,46,priya.williams@outlook.com,(869) 865-0519,Atlanta,GA,USA,22255,Bachelor,Data,ML Engineer,2020-08-21,6.2,99500,3.4,True,EMP-AGRP2U
+CUST-00100,Omar,Johnson,Male,1992-09-19,34,omar.johnson@yahoo.com,(756) 777-0539,Atlanta,GA,USA,33508,Master,Marketing,SEO Analyst,2019-01-30,7.7,56000,1.4,True,EMP-F337KU
+CUST-00101,Aisha,Hernandez,Female,1997-09-18,29,aisha.hernandez@example.com,(437) 277-5580,Miami,FL,USA,89320,Master,Engineering,Engineering Manager,2023-08-14,3.2,162000,3.0,True,EMP-BJ9RM7
+CUST-00102,Susan,Nguyen,Female,1963-04-13,63,susan.nguyen@mail.com,(474) 357-6225,Los Angeles,CA,USA,93086,Associate,Support,Support Lead,2018-11-16,8.0,54500,2.8,True,EMP-ALMJEG
+CUST-00103,Aisha,Jackson,Female,1978-11-22,47,aisha.jackson@mail.com,(594) 212-4781,New York,NY,USA,64238,Bachelor,Engineering,Software Engineer,2012-12-09,13.9,167500,3.7,True,EMP-9ISYGJ
+CUST-00104,Isabella,Jones,Female,1995-05-11,31,isabella.jones@gmail.com,(452) 938-8123,Phoenix,AZ,USA,87831,Bachelor,Marketing,Marketing Manager,2019-05-12,7.5,93500,2.0,True,EMP-8LW2LM
+CUST-00105,Joshua,Hernandez,Male,1961-01-11,65,joshua.hernandez@mail.com,(911) 848-8044,Denver,CO,USA,85481,Master,Sales,Account Executive,2008-12-26,17.8,165000,2.9,True,EMP-OEUVTY
+CUST-00106,Wei,Chen,Male,1977-02-27,49,wei.chen@yahoo.com,(342) 848-4961,Miami,FL,USA,41722,Bachelor,Engineering,Senior Engineer,2023-05-15,3.5,174500,3.7,True,EMP-C9ROS7
+CUST-00107,Aisha,Johnson,Female,1961-07-02,65,aisha.johnson@outlook.com,(563) 370-0725,Atlanta,GA,USA,83822,PhD,Finance,Finance Manager,2025-07-05,1.3,64000,3.5,False,EMP-L2DDH0
+CUST-00108,Wei,Lopez,Male,1976-09-12,50,wei.lopez@example.com,(502) 625-1406,Atlanta,GA,USA,25213,Master,Finance,Finance Manager,2016-03-23,10.6,82000,2.2,True,EMP-QHRRPZ
+CUST-00109,Jennifer,Martinez,Female,1997-10-12,28,jennifer.martinez@gmail.com,(449) 728-2858,Seattle,WA,USA,82339,Associate,Finance,Finance Manager,2019-03-24,7.6,129500,3.1,True,EMP-2WGXO0
+CUST-00110,Wei,Lee,Male,1980-10-03,45,wei.lee@example.com,(791) 304-8796,Miami,FL,USA,34505,Bachelor,Data,Data Scientist,2009-08-13,17.2,122500,3.1,True,EMP-5SXVWV
+CUST-00111,Sophia,Clark,Female,1965-12-28,60,sophia.clark@example.com,(337) 520-1931,Austin,TX,USA,41270,Bachelor,Finance,Accountant,2022-12-16,3.9,86500,2.9,True,EMP-NVUPRT
+CUST-00112,Luca,Garcia,Male,1986-12-11,39,luca.garcia@example.com,(209) 696-2236,Chicago,IL,USA,35575,Master,Sales,Sales Manager,2025-11-19,0.9,85000,3.2,True,EMP-YO4RCB
+CUST-00113,Joshua,Johnson,Male,1986-12-26,39,joshua.johnson3684@mail.com,(786) 316-4389,Denver,CO,USA,81186,Master,HR,Recruiter,2023-08-27,3.2,101500,3.3,True,EMP-1PHP0X
+CUST-00114,Joshua,Clark,Male,1977-02-12,49,joshua.clark@gmail.com,(442) 414-9632,Seattle,WA,USA,55957,Master,Support,Support Lead,2023-04-27,3.5,41000,2.3,True,EMP-HHCMKT
+CUST-00115,Ashley,Martinez,Female,1988-06-20,38,ashley.martinez@mail.com,(260) 483-2078,Austin,TX,USA,27392,Associate,Support,Support Lead,2011-02-20,15.7,52500,4.0,True,EMP-YRUJOQ
+CUST-00116,Brian,Moore,Male,1961-04-07,65,brian.moore@outlook.com,(295) 948-7511,Denver,CO,USA,93209,Bachelor,Marketing,SEO Analyst,2012-05-05,14.5,114500,4.1,True,EMP-O83RLK
+CUST-00117,Hiroshi,Clark,Male,1984-09-14,42,hiroshi.clark@example.com,(361) 651-7479,New York,NY,USA,10088,PhD,Engineering,QA Engineer,2007-03-27,19.6,180500,2.4,True,EMP-EXF7JX
+CUST-00118,Jennifer,Lopez,Female,2002-04-21,24,jennifer.lopez@yahoo.com,(418) 688-1276,Austin,TX,USA,27393,Bachelor,Sales,Sales Manager,2024-04-24,2.5,85500,3.6,True,EMP-Z39PEC
+CUST-00119,Jennifer,Khan,Female,1999-03-10,27,jennifer.khan@gmail.com,(856) 893-2340,Seattle,WA,USA,18966,Bachelor,Sales,Sales Rep,2021-07-15,5.3,85500,3.5,True,EMP-MH07WP
+CUST-00120,Robert,Brown,Male,1998-07-29,28,robert.brown@yahoo.com,(483) 860-1380,Miami,FL,USA,42527,Bachelor,Marketing,SEO Analyst,2022-12-10,3.9,126500,3.8,True,EMP-4XKSS0
+CUST-00121,Patricia,Rossi,Female,1974-04-16,52,patricia.rossi@yahoo.com,(212) 569-5185,Los Angeles,CA,USA,27299,Bachelor,Data,ML Engineer,2016-03-16,10.6,160000,2.9,True,EMP-181ACJ
+CUST-00122,John,Rossi,Male,1973-02-24,53,john.rossi@example.com,(855) 749-8808,Austin,TX,USA,90746,Associate,Finance,Accountant,2016-03-28,10.6,145500,2.8,True,EMP-H3TOW4
+CUST-00123,Joshua,Chen,Male,1989-10-30,36,joshua.chen@example.com,(882) 959-2877,Houston,TX,USA,25655,High School,Engineering,Senior Engineer,2019-09-30,7.1,94500,3.7,True,EMP-8S2ZGE
+CUST-00124,Linda,Singh,Female,1984-05-07,42,linda.singh@gmail.com,(708) 666-8368,Phoenix,AZ,USA,57202,High School,HR,HR Manager,2006-06-08,20.4,80500,2.3,True,EMP-16YE0A
+CUST-00125,Matthew,Johnson,Male,1982-04-15,44,matthew.johnson@example.com,(931) 958-6870,Chicago,IL,USA,39427,Bachelor,Data,ML Engineer,2025-11-20,0.9,169000,4.3,True,EMP-3UEYBI
+CUST-00126,Brian,Williams,Male,1987-03-09,39,brian.williams@example.com,(511) 957-3974,Seattle,WA,USA,70807,Bachelor,Engineering,QA Engineer,2020-05-27,6.4,135500,4.9,True,EMP-0T2F7A
+CUST-00127,Mary,Hernandez,Female,1963-04-11,63,mary.hernandez@gmail.com,(703) 261-2332,Miami,FL,USA,46677,High School,Finance,Accountant,2011-11-25,14.9,83000,4.2,True,EMP-ZN9DDE
+CUST-00128,Jennifer,Lee,Female,2002-05-11,24,jennifer.lee@mail.com,(602) 917-5345,Austin,TX,USA,51688,Bachelor,Data,Data Scientist,2024-04-29,2.5,100500,1.9,True,EMP-2VFFQO
+CUST-00129,Jessica,Thomas,Female,1976-02-13,50,jessica.thomas@outlook.com,(817) 241-3522,Los Angeles,CA,USA,52964,High School,Engineering,Senior Engineer,2008-07-15,18.3,206500,4.6,True,EMP-BK3G84
+CUST-00130,Michael,Thomas,Male,1996-12-02,29,michael.thomas@gmail.com,(610) 581-1376,New York,NY,USA,86326,Bachelor,Engineering,Software Engineer,2026-04-25,0.5,157500,1.5,True,EMP-6PE63L
+CUST-00131,Wei,Johnson,Male,1969-05-10,57,wei.johnson@yahoo.com,(419) 391-4505,Miami,FL,USA,46681,Bachelor,Marketing,Content Writer,2016-02-17,10.7,57500,1.6,True,EMP-IKOTCK
+CUST-00132,Arjun,Miller,Male,1990-08-19,36,arjun.miller@mail.com,(757) 696-5636,Boston,MA,USA,84141,Bachelor,Support,Support Lead,2011-06-09,15.4,97000,2.6,True,EMP-VB3K3Q
+CUST-00133,Elena,Davis,Female,1999-02-04,27,elena.davis@yahoo.com,(982) 424-9432,Austin,TX,USA,60911,Bachelor,Data,Data Scientist,2022-12-27,3.8,130500,2.3,True,EMP-3Z6BZ8
+CUST-00134,Hiroshi,Miller,Male,1971-03-08,55,hiroshi.miller@example.com,(739) 689-0011,Chicago,IL,USA,53481,Master,Marketing,Content Writer,2005-11-07,21.0,67500,3.9,True,EMP-G25CFZ
+CUST-00135,Michael,Clark,Male,1981-11-07,44,michael.clark@mail.com,(530) 339-2580,Seattle,WA,USA,67261,Master,Finance,Financial Analyst,2026-02-16,0.7,113000,3.5,True,EMP-8Y72IV
+CUST-00136,Brian,Martinez,Male,1996-12-30,29,brian.martinez@outlook.com,(781) 233-2983,Miami,FL,USA,88956,Bachelor,Engineering,Engineering Manager,2024-11-15,2.0,181000,2.5,True,EMP-7F0I9G
+CUST-00137,Ryan,Thomas,Male,1989-01-16,37,ryan.thomas@gmail.com,(249) 595-7179,Houston,TX,USA,65004,PhD,Finance,Financial Analyst,2011-07-10,15.3,110000,3.2,True,EMP-TDR5XY
+CUST-00138,Wei,Williams,Male,1986-10-11,39,wei.williams@gmail.com,(949) 276-8962,Seattle,WA,USA,22203,Bachelor,Sales,Sales Manager,2009-05-07,17.5,66500,4.2,True,EMP-PXVPBL
+CUST-00139,Arjun,Chen,Male,1971-02-13,55,arjun.chen@mail.com,(702) 357-0893,Austin,TX,USA,57294,High School,Sales,Sales Rep,2011-09-03,15.2,84500,2.7,True,EMP-VHAGKC
+CUST-00140,Joshua,Rossi,Male,1975-06-08,51,joshua.rossi@example.com,(590) 578-3056,Austin,TX,USA,68428,High School,Sales,Account Executive,2007-01-17,19.8,129500,3.2,True,EMP-JC1YDM
+CUST-00141,Elena,Davis,Female,2002-04-17,24,elena.davis@mail.com,(441) 687-4896,Boston,MA,USA,20348,Bachelor,Marketing,Marketing Specialist,2026-01-01,0.8,98000,3.2,False,EMP-2YWE1G
+CUST-00142,Daniel,Rossi,Male,1996-10-22,29,daniel.rossi@yahoo.com,(809) 464-5238,Springfield,IL,USA,18783,High School,Engineering,Engineering Manager,2024-08-30,2.2,123000,3.0,True,EMP-JQ52WS
+CUST-00143,Linda,Anderson,Female,1996-07-17,30,linda.anderson@yahoo.com,(998) 303-4687,Atlanta,GA,USA,80206,Master,HR,Recruiter,2025-07-04,1.3,110500,2.6,True,EMP-URGOWY
+CUST-00144,Patricia,Wilson,Female,1961-01-30,65,patricia.wilson@outlook.com,(510) 518-4593,New York,NY,USA,74437,Master,Finance,Finance Manager,2015-08-29,11.2,163000,2.0,True,EMP-E9P3JP
+CUST-00145,Daniel,Thomas,Male,1979-06-06,47,daniel.thomas@yahoo.com,(518) 926-8303,Boston,MA,USA,62872,High School,Support,Support Agent,2013-05-22,13.4,86000,2.3,True,EMP-HCBBMH
+CUST-00146,Fatima,Moore,Female,1990-04-09,36,fatima.moore2030@gmail.com,(558) 552-2679,Denver,CO,USA,43903,Master,HR,HR Manager,2021-01-02,5.8,63000,2.0,True,EMP-B42HHI
+CUST-00147,Anthony,Kim,Male,1972-10-11,53,anthony.kim@example.com,(208) 429-4135,Austin,TX,USA,89736,Master,Engineering,DevOps Engineer,2015-08-20,11.2,208500,3.7,True,EMP-J64QHK
+CUST-00148,Elena,Brown,Female,1973-09-05,53,elena.brown@gmail.com,(693) 265-5509,Seattle,WA,USA,46239,Bachelor,HR,Recruiter,2019-07-10,7.3,96000,2.6,True,EMP-6KF162
+CUST-00149,Olivia,Nguyen,Female,2004-08-31,22,olivia.nguyen@yahoo.com,(797) 925-9372,Denver,CO,USA,34892,Bachelor,Sales,Sales Manager,2025-09-23,1.1,125000,2.5,True,EMP-26YS44
+CUST-00150,Joshua,Brown,Male,1997-02-10,29,joshua.brown@example.com,(543) 870-1463,Miami,FL,USA,39131,Bachelor,Support,Support Lead,2024-04-08,2.6,69000,3.1,False,EMP-NVQEBW
+CUST-00151,Carlos,Miller,Male,1998-09-14,28,carlos.miller@mail.com,(405) 550-6704,Springfield,IL,USA,84632,Master,HR,Recruiter,2022-05-07,4.5,78500,2.2,True,EMP-GCL9LC
+CUST-00152,Emily,Miller,Female,1968-12-21,57,emily.miller@yahoo.com,(639) 613-7029,Denver,CO,USA,72573,Bachelor,Support,Support Agent,2022-02-16,4.7,72500,3.3,True,EMP-861TAA
+CUST-00153,Matthew,Chen,Male,1985-12-06,40,matthew.chen@outlook.com,(505) 497-7469,Los Angeles,CA,USA,78195,Bachelor,Marketing,SEO Analyst,2017-04-16,9.5,106000,3.1,True,EMP-E9R1F6
+CUST-00154,Mary,Davis,Female,1997-01-17,29,mary.davis@yahoo.com,(238) 584-4190,Miami,FL,USA,80088,Bachelor,Engineering,Engineering Manager,2024-08-12,2.2,131000,4.8,True,EMP-XAYPNT
+CUST-00155,Elizabeth,Miller,Female,1986-05-04,40,elizabeth.miller@gmail.com,(628) 307-8381,Austin,TX,USA,90962,High School,Engineering,Software Engineer,2021-11-10,5.0,140000,3.9,True,EMP-V239MO
+CUST-00156,John,Jackson,Male,1992-09-17,34,john.jackson@example.com,(787) 885-8095,Denver,CO,USA,29548,Master,Sales,Sales Manager,2018-04-06,8.6,53000,1.9,True,EMP-6XQ9JB
+CUST-00157,John,Clark,Male,1982-09-12,44,john.clark@outlook.com,(209) 341-2793,Seattle,WA,USA,53078,Bachelor,Marketing,Marketing Manager,2021-07-26,5.3,59500,4.5,True,EMP-0NMEOQ
+CUST-00158,Isabella,Rossi,Female,1963-12-25,62,isabella.rossi@example.com,(306) 626-9678,Los Angeles,CA,USA,73265,Master,Data,ML Engineer,2020-08-13,6.2,159000,2.3,True,EMP-MBY49E
+CUST-00159,Linda,Anderson,Female,2002-11-02,23,linda.anderson@example.com,(961) 790-9257,Phoenix,AZ,USA,39358,PhD,Finance,Finance Manager,2024-10-05,2.1,58500,4.1,True,EMP-YWP0RX
+CUST-00160,Elizabeth,Tanaka,Female,1965-10-28,60,elizabeth.tanaka@mail.com,(369) 276-8055,New York,NY,USA,52026,Associate,Finance,Financial Analyst,2025-12-16,0.9,69500,1.7,True,EMP-XOIQ2Q
+CUST-00161,Fatima,Hernandez,Female,1974-08-31,52,fatima.hernandez@gmail.com,(293) 818-4990,New York,NY,USA,76628,Bachelor,Engineering,QA Engineer,2014-01-18,12.8,145000,4.5,True,EMP-BIQUWR
+CUST-00162,Fatima,Brown,Female,1963-01-22,63,fatima.brown@gmail.com,(734) 582-1741,New York,NY,USA,16000,Master,Sales,Account Executive,2012-12-19,13.9,147500,2.2,True,EMP-ZDVG7O
+CUST-00163,Jessica,Chen,Female,1999-05-01,27,jessica.chen@outlook.com,(803) 716-2205,New York,NY,USA,75382,High School,Finance,Finance Manager,2026-08-08,0.2,66000,1.7,False,EMP-4RS7GU
+CUST-00164,Michael,Wilson,Male,1967-03-14,59,michael.wilson@mail.com,(480) 607-5617,Boston,MA,USA,48557,Bachelor,Marketing,Content Writer,2014-05-23,12.4,148000,2.2,True,EMP-5S4TL0
+CUST-00165,Daniel,Miller,Male,1987-09-17,39,daniel.miller@mail.com,(715) 755-5281,Seattle,WA,USA,25126,Master,Finance,Finance Manager,2010-12-22,15.9,180000,3.2,True,EMP-YP04K4
+CUST-00166,Omar,Brown,Male,1980-12-14,45,omar.brown@gmail.com,(493) 899-4105,New York,NY,USA,29192,Master,Finance,Finance Manager,2006-04-09,20.6,93500,3.9,True,EMP-TMQWYU
+CUST-00167,Luca,Wilson,Male,1973-09-22,53,luca.wilson@yahoo.com,(901) 520-9046,Phoenix,AZ,USA,17051,High School,Finance,Financial Analyst,2019-11-27,6.9,67000,2.4,True,EMP-4PIWZN
+CUST-00168,Daniel,Martinez,Male,1994-09-15,32,daniel.martinez@example.com,(485) 769-4329,Los Angeles,CA,USA,27048,Associate,Data,Data Engineer,2018-11-24,7.9,164500,1.2,True,EMP-7B7V1W
+CUST-00169,Isabella,Rossi,Female,1970-04-02,56,isabella.rossi@mail.com,(269) 717-2611,Los Angeles,CA,USA,64516,Bachelor,Support,Support Lead,2020-11-15,6.0,53500,2.0,True,EMP-HLMH1T
+CUST-00170,Michael,Nguyen,Male,1977-02-01,49,michael.nguyen@outlook.com,(528) 590-1857,Austin,TX,USA,60577,Bachelor,HR,HR Manager,2025-08-09,1.2,87500,2.7,False,EMP-3N2QB6
+CUST-00171,Ryan,Moore,Male,1998-12-25,27,ryan.moore@gmail.com,(418) 901-6950,Boston,MA,USA,23621,Associate,HR,HR Manager,2019-01-31,7.7,99000,4.1,True,EMP-P3CYAZ
+CUST-00172,Robert,Williams,Male,1994-02-06,32,robert.williams@gmail.com,(614) 643-5183,Boston,MA,USA,12213,Bachelor,Engineering,Software Engineer,2020-02-08,6.7,193000,3.3,True,EMP-W1VZC7
+CUST-00173,Joshua,Rossi,Male,1966-11-14,59,joshua.rossi@outlook.com,(685) 360-8740,Phoenix,AZ,USA,38818,High School,Support,Support Lead,2025-10-14,1.0,53500,3.9,True,EMP-KWK585
+CUST-00174,Mary,Jackson,Female,1995-12-03,30,mary.jackson@mail.com,(512) 415-5633,New York,NY,USA,37752,Bachelor,Engineering,Engineering Manager,2022-06-03,4.4,147500,2.2,True,EMP-WJEYUB
+CUST-00175,Aisha,Williams,Female,1962-11-04,63,aisha.williams@outlook.com,(331) 887-3842,Phoenix,AZ,USA,23113,Bachelor,Engineering,Software Engineer,2009-06-06,17.4,195000,4.2,True,EMP-QWLVUN
+CUST-00176,Mei,Garcia,Female,1985-02-04,41,mei.garcia@gmail.com,(895) 950-5432,Houston,TX,USA,72908,Bachelor,Finance,Financial Analyst,2022-08-05,4.2,118500,3.8,True,EMP-DXCK36
+CUST-00177,Anthony,Khan,Male,2000-10-10,25,anthony.khan@gmail.com,(417) 237-9037,Boston,MA,USA,44159,Bachelor,Finance,Finance Manager,2021-05-08,5.5,137500,3.2,True,EMP-NI10KQ
+CUST-00178,Brian,Lopez,Male,2005-09-05,21,brian.lopez@mail.com,(779) 779-2395,Houston,TX,USA,73373,Master,Support,Support Agent,2026-03-26,0.6,66000,2.5,True,EMP-CNBH6N
+CUST-00179,Fatima,Johnson,Female,1964-03-14,62,fatima.johnson@gmail.com,(469) 792-8918,Los Angeles,CA,USA,84732,Associate,Finance,Finance Manager,2026-09-21,0.1,99500,2.9,True,EMP-6CJ9IO
+CUST-00180,Isabella,Rossi,Female,1972-12-11,53,isabella.rossi9900@gmail.com,(391) 361-5934,Denver,CO,USA,88908,Master,Data,Data Analyst,2010-02-28,16.7,95000,3.6,True,EMP-LEYRVX
+CUST-00181,Mary,Davis,Female,1997-07-21,29,mary.davis@gmail.com,(257) 370-4231,Atlanta,GA,USA,33597,Bachelor,Data,ML Engineer,2019-07-06,7.3,150500,3.4,True,EMP-AZXKDQ
+CUST-00182,Isabella,Garcia,Female,1979-08-04,47,isabella.garcia@yahoo.com,(470) 371-5614,Chicago,IL,USA,69437,Bachelor,Support,Support Agent,2018-01-26,8.8,79500,2.5,True,EMP-DH4SPF
+CUST-00183,David,Taylor,Male,1966-10-20,59,david.taylor@mail.com,(817) 752-0019,Boston,MA,USA,98940,Bachelor,HR,HR Manager,2021-11-16,5.0,58000,3.1,True,EMP-ZP7R1M
+CUST-00184,Arjun,Jones,Male,1975-01-28,51,arjun.jones@outlook.com,(926) 961-0116,Los Angeles,CA,USA,85757,Bachelor,Sales,Sales Manager,2018-06-03,8.4,139500,1.3,True,EMP-YLNFXJ
+CUST-00185,Elena,Lopez,Female,1988-09-13,38,elena.lopez@mail.com,(579) 772-9091,Springfield,IL,USA,73407,Bachelor,Support,Support Lead,2013-07-27,13.3,65000,3.4,True,EMP-OE5EI2
+CUST-00186,Michael,Miller,Male,1980-03-22,46,michael.miller@mail.com,(851) 205-1492,Boston,MA,USA,29048,Bachelor,HR,HR Manager,2020-08-20,6.2,100500,3.1,True,EMP-HCBN9W
+CUST-00187,Grace,Johnson,Female,1965-06-11,61,grace.johnson@yahoo.com,(399) 234-9822,Denver,CO,USA,76918,Bachelor,Engineering,Senior Engineer,2009-07-11,17.3,212500,3.5,True,EMP-MX9DJO
+CUST-00188,Priya,Lee,Female,1971-10-08,54,priya.lee@yahoo.com,(772) 796-5703,Miami,FL,USA,55544,PhD,Finance,Financial Analyst,2006-07-17,20.3,173000,2.5,False,EMP-QOAGSU
+CUST-00189,Olivia,Brown,Female,1989-07-03,37,olivia.brown@mail.com,(449) 975-5565,Atlanta,GA,USA,70142,Bachelor,Sales,Sales Manager,2025-07-27,1.3,84500,4.1,True,EMP-JN2HZ2
+CUST-00190,Sophia,Moore,Female,2005-09-24,21,sophia.moore@mail.com,(277) 767-2924,Phoenix,AZ,USA,72463,Bachelor,Data,Data Scientist,2026-05-28,0.4,75500,4.2,True,EMP-8Y6RH0
+CUST-00191,Jessica,Davis,Female,1990-08-13,36,jessica.davis@yahoo.com,(704) 828-0108,Seattle,WA,USA,80972,PhD,Data,ML Engineer,2013-05-23,13.4,98500,2.9,True,EMP-65UJG1
+CUST-00192,Priya,Davis,Female,1996-10-28,29,priya.davis@mail.com,(603) 902-2863,Boston,MA,USA,69925,PhD,Support,Support Lead,2021-09-30,5.1,59500,2.8,True,EMP-YNDN5G
+CUST-00193,Sarah,Rodriguez,Female,1966-03-25,60,sarah.rodriguez@example.com,(573) 610-4581,Seattle,WA,USA,69077,Associate,Data,Data Scientist,2016-03-09,10.6,133000,4.6,True,EMP-3Z2T4H
+CUST-00194,Carlos,Rossi,Male,1994-05-04,32,carlos.rossi@gmail.com,(456) 775-9303,Denver,CO,USA,16253,Bachelor,Data,Data Scientist,2026-08-06,0.2,121500,1.8,True,EMP-RWQMMU
+CUST-00195,Sophia,Smith,Female,1998-03-29,28,sophia.smith@example.com,(999) 491-5818,Austin,TX,USA,52610,Bachelor,HR,Recruiter,2021-03-25,5.6,91500,3.8,True,EMP-CWQ85X
+CUST-00196,Mei,Kim,Female,1969-04-26,57,mei.kim@mail.com,(927) 473-9918,Los Angeles,CA,USA,94494,Bachelor,Engineering,QA Engineer,2008-08-20,18.2,140000,3.9,False,EMP-0SQG4E
+CUST-00197,Anthony,Khan,Male,1979-11-22,46,anthony.khan3451@yahoo.com,(606) 736-1363,Los Angeles,CA,USA,23622,Bachelor,Engineering,Senior Engineer,2026-01-05,0.8,169500,1.9,False,EMP-OI0PES
+CUST-00198,James,Johnson,Male,1985-06-01,41,james.johnson@outlook.com,(914) 752-2900,Denver,CO,USA,87441,Bachelor,Support,Support Lead,2018-02-15,8.7,85000,3.3,True,EMP-LMT2PN
+CUST-00199,Elizabeth,Martinez,Female,2005-06-25,21,elizabeth.martinez@gmail.com,(973) 688-4908,Chicago,IL,USA,11197,Master,Sales,Account Executive,2026-05-27,0.4,85500,3.4,True,EMP-TG5PIZ
+CUST-00200,Priya,Davis,Female,2000-05-04,26,priya.davis@outlook.com,(901) 478-4664,Austin,TX,USA,94994,Master,Data,Data Engineer,2026-10-18,0.0,145500,3.0,True,EMP-GKWWJW
+CUST-00201,Ryan,Smith,Male,2002-07-01,24,ryan.smith@yahoo.com,(208) 438-1477,New York,NY,USA,29750,High School,Data,Data Scientist,2023-07-29,3.3,101000,2.8,True,EMP-29Q2L4
+CUST-00202,John,Rodriguez,Male,2001-07-06,25,john.rodriguez@example.com,(212) 324-4078,Denver,CO,USA,60436,Master,Data,ML Engineer,2023-01-29,3.8,171000,2.6,False,EMP-H0DXHO
+CUST-00203,Olivia,Garcia,Female,1970-06-24,56,olivia.garcia@gmail.com,(882) 423-1850,Los Angeles,CA,USA,40928,Bachelor,Sales,Account Executive,2015-10-18,11.0,121000,1.4,True,EMP-VOI8UY
+CUST-00204,Kevin,Singh,Male,1989-12-20,36,kevin.singh@gmail.com,(840) 261-0979,Denver,CO,USA,56598,Bachelor,Engineering,Engineering Manager,2025-05-21,1.4,142000,3.9,True,EMP-I9212P
+CUST-00205,James,Chen,Male,1982-12-08,43,james.chen@example.com,(701) 394-9284,Phoenix,AZ,USA,34461,Bachelor,Engineering,DevOps Engineer,2015-11-20,10.9,180000,3.7,True,EMP-36TCFK
+CUST-00206,Aisha,Lopez,Female,2005-08-23,21,aisha.lopez@example.com,(835) 444-5254,Boston,MA,USA,18302,Bachelor,Marketing,Marketing Manager,2026-04-05,0.6,112500,2.4,True,EMP-1FKOLD
+CUST-00207,John,Tanaka,Male,1993-10-17,32,john.tanaka@yahoo.com,(597) 873-8026,Houston,TX,USA,78920,Bachelor,Engineering,Engineering Manager,2024-11-20,1.9,94500,2.6,True,EMP-VC7HR6
+CUST-00208,Wei,Rossi,Male,1982-07-13,44,wei.rossi@gmail.com,(472) 741-0666,Miami,FL,USA,19225,Master,Marketing,Marketing Specialist,2023-06-10,3.4,77500,4.4,False,EMP-D0TGSI
+CUST-00209,Luca,Khan,Male,1978-11-24,47,luca.khan@mail.com,(306) 370-2955,Austin,TX,USA,82085,Bachelor,HR,Recruiter,2013-01-11,13.8,113500,3.6,True,EMP-V76T94
+CUST-00210,Mei,Tanaka,Female,1967-02-01,59,mei.tanaka@outlook.com,(568) 663-7331,Atlanta,GA,USA,62047,High School,HR,HR Generalist,2009-10-19,17.0,90000,4.7,True,EMP-S9KKH4
+CUST-00211,Anthony,Jackson,Male,1970-07-20,56,anthony.jackson@mail.com,(575) 796-4093,Atlanta,GA,USA,40539,Bachelor,Data,Data Engineer,2007-02-12,19.7,89500,2.0,True,EMP-7002G3
+CUST-00212,Mateo,Kim,Male,2003-07-23,23,mateo.kim@outlook.com,(644) 626-1974,Springfield,IL,USA,39716,Master,Engineering,Engineering Manager,2024-04-24,2.5,180000,4.3,True,EMP-WBSLUL
+CUST-00213,William,Johnson,Male,1977-08-01,49,william.johnson@example.com,(335) 544-1352,Atlanta,GA,USA,72371,Bachelor,HR,HR Generalist,2007-01-08,19.8,77500,3.3,True,EMP-OPZ1RH
+CUST-00214,Elena,Miller,Female,1966-06-26,60,elena.miller@mail.com,(789) 291-1843,Houston,TX,USA,98047,Bachelor,Data,Data Engineer,2006-08-10,20.2,121000,2.9,True,EMP-VAK9W9
+CUST-00215,Grace,Jones,Female,2003-01-28,23,grace.jones@example.com,(957) 255-3982,Houston,TX,USA,91396,Master,Finance,Financial Analyst,2026-02-04,0.7,69500,1.4,True,EMP-EQAHTH
+CUST-00216,Aisha,Taylor,Female,1996-09-20,30,aisha.taylor@mail.com,(461) 374-0984,Miami,FL,USA,47226,Associate,Finance,Finance Manager,2017-03-17,9.6,104000,3.5,True,EMP-XANJ4X
+CUST-00217,James,Martinez,Male,1991-04-13,35,james.martinez@example.com,(290) 390-3258,Boston,MA,USA,75621,PhD,Finance,Finance Manager,2014-03-26,12.6,165000,4.3,True,EMP-ITMOFM
+CUST-00218,Sophia,Kim,Female,1990-06-14,36,sophia.kim@outlook.com,(230) 768-4590,Phoenix,AZ,USA,39567,Associate,Support,Support Lead,2012-05-22,14.4,77500,3.6,True,EMP-N8WWII
+CUST-00219,Arjun,Martinez,Male,1984-05-17,42,arjun.martinez@mail.com,(407) 341-5062,Boston,MA,USA,78656,Master,Data,ML Engineer,2009-08-21,17.2,173500,4.8,False,EMP-F77LU8
+CUST-00220,David,Hernandez,Male,2004-03-12,22,david.hernandez@yahoo.com,(956) 480-2489,Springfield,IL,USA,34632,High School,Marketing,Content Writer,2025-11-07,1.0,80000,1.5,False,EMP-WVWVIA
+CUST-00221,Carlos,Jones,Male,1967-05-29,59,carlos.jones@mail.com,(367) 397-3707,Miami,FL,USA,14224,Bachelor,Finance,Accountant,2013-05-22,13.4,89500,4.3,False,EMP-IYHHG8
+CUST-00222,Grace,Taylor,Female,1976-02-04,50,grace.taylor@outlook.com,(520) 603-9370,Springfield,IL,USA,87831,Bachelor,Marketing,Marketing Specialist,2022-05-30,4.4,52500,3.3,True,EMP-3B9SO0
+CUST-00223,Yuki,Singh,Female,1993-02-27,33,yuki.singh@gmail.com,(501) 827-0893,Denver,CO,USA,77760,Master,Marketing,Marketing Manager,2020-10-30,6.0,115500,4.0,True,EMP-0E27ZE
+CUST-00224,Olivia,Thomas,Female,1994-05-21,32,olivia.thomas@gmail.com,(864) 928-2686,Atlanta,GA,USA,26193,High School,Finance,Finance Manager,2019-07-13,7.3,149000,3.1,True,EMP-SN2S8N
+CUST-00225,Patricia,Singh,Female,1984-07-16,42,patricia.singh@yahoo.com,(252) 629-5047,Austin,TX,USA,50569,Master,Support,Support Lead,2008-05-14,18.5,54000,2.7,True,EMP-68A1AR
+CUST-00226,Aisha,Rossi,Female,1967-06-10,59,aisha.rossi@gmail.com,(815) 814-0107,Houston,TX,USA,42075,Master,Data,Data Engineer,2018-03-17,8.6,157500,3.5,True,EMP-3BFXB4
+CUST-00227,Olivia,Williams,Female,1999-05-02,27,olivia.williams@gmail.com,(775) 381-7460,Chicago,IL,USA,85886,Bachelor,Data,Data Analyst,2023-03-10,3.6,138500,2.0,True,EMP-NNCPTK
+CUST-00228,Michael,Chen,Male,1984-06-26,42,michael.chen@outlook.com,(947) 844-8666,Springfield,IL,USA,21491,Bachelor,HR,HR Manager,2009-09-16,17.1,117500,3.5,True,EMP-ZP4JUW
+CUST-00229,Mateo,Lee,Male,1972-08-19,54,mateo.lee@example.com,(398) 201-1936,Denver,CO,USA,13143,Bachelor,Marketing,Marketing Specialist,2023-02-14,3.7,63000,3.7,True,EMP-WOBM3H
+CUST-00230,Joshua,Rodriguez,Male,1986-03-03,40,joshua.rodriguez@gmail.com,(605) 941-9321,Boston,MA,USA,90739,PhD,HR,HR Generalist,2014-04-07,12.6,118500,2.4,True,EMP-7RRBEF
+CUST-00231,Aisha,Hernandez,Female,1972-03-02,54,aisha.hernandez6783@gmail.com,(901) 539-5793,Atlanta,GA,USA,18678,PhD,Finance,Financial Analyst,2020-03-18,6.6,92500,4.0,True,EMP-NTFVGE
+CUST-00232,Olivia,Chen,Female,1988-04-29,38,olivia.chen@gmail.com,(737) 509-2867,Los Angeles,CA,USA,24710,Bachelor,Marketing,Marketing Specialist,2014-05-01,12.5,91000,3.8,False,EMP-PARSG7
+CUST-00233,Olivia,Jones,Female,1972-09-11,54,olivia.jones@gmail.com,(318) 204-5095,Chicago,IL,USA,15771,Bachelor,Data,Data Analyst,2021-04-02,5.6,76500,2.8,False,EMP-D10A1W
+CUST-00234,Ryan,Miller,Male,1987-02-19,39,ryan.miller@yahoo.com,(480) 317-0249,Boston,MA,USA,91650,Bachelor,Sales,Sales Rep,2025-05-01,1.5,85000,2.4,True,EMP-LFZKIC
+CUST-00235,Aisha,Thomas,Female,1996-10-15,29,aisha.thomas@gmail.com,(383) 921-9766,Denver,CO,USA,87693,Bachelor,Finance,Finance Manager,2017-07-26,9.3,76000,3.7,True,EMP-L3ZYT9
+CUST-00236,Elena,Jones,Female,1961-05-28,65,elena.jones@gmail.com,(437) 429-2354,Los Angeles,CA,USA,90863,Bachelor,Marketing,SEO Analyst,2011-12-18,14.9,125000,3.0,True,EMP-X25QBR
+CUST-00237,Isabella,Thomas,Female,1987-03-28,39,isabella.thomas@yahoo.com,(309) 533-9111,Atlanta,GA,USA,95124,High School,HR,Recruiter,2010-11-09,16.0,101500,3.3,True,EMP-OWT9NM
+CUST-00238,Mei,Lee,Female,1971-09-21,55,mei.lee@outlook.com,(698) 317-9702,Houston,TX,USA,88128,Bachelor,Data,Data Analyst,2019-11-12,7.0,154000,4.0,True,EMP-8CD31N
+CUST-00239,Patricia,Williams,Female,1997-07-25,29,patricia.williams@yahoo.com,(498) 599-9468,Austin,TX,USA,68610,Associate,Support,Support Lead,2018-01-01,8.8,77000,2.7,True,EMP-Y77Z69
+CUST-00240,Mateo,Moore,Male,1997-02-28,29,mateo.moore@example.com,(567) 312-4623,New York,NY,USA,14087,Associate,Sales,Sales Manager,2024-02-27,2.7,134000,3.4,True,EMP-ZOPHGF
+CUST-00241,Sophia,Tanaka,Female,1996-02-25,30,sophia.tanaka@example.com,(698) 873-7155,Austin,TX,USA,27796,High School,Data,ML Engineer,2018-07-05,8.3,77000,4.1,False,EMP-Z7WQP3
+CUST-00242,Sophia,Davis,Female,1978-08-06,48,sophia.davis@yahoo.com,(620) 759-9442,New York,NY,USA,58099,High School,HR,HR Generalist,2016-03-04,10.7,121500,3.4,True,EMP-ERYF09
+CUST-00243,Fatima,Moore,Female,1972-08-08,54,fatima.moore@gmail.com,(900) 848-8834,Los Angeles,CA,USA,85973,Bachelor,Data,Data Analyst,2015-08-07,11.2,160500,4.2,True,EMP-AQ6ULM
+CUST-00244,Ashley,Garcia,Female,1961-08-02,65,ashley.garcia@gmail.com,(792) 373-9385,Miami,FL,USA,16765,Bachelor,Sales,Account Executive,2021-04-22,5.5,124000,3.9,True,EMP-KCS4KE
+CUST-00245,Emily,Clark,Female,2004-11-27,21,emily.clark@outlook.com,(379) 467-3869,Atlanta,GA,USA,73559,Associate,Data,Data Analyst,2026-08-29,0.2,143000,2.9,True,EMP-F7FR91
+CUST-00246,Wei,Khan,Male,1992-07-22,34,wei.khan@yahoo.com,(253) 371-7602,Miami,FL,USA,62264,Bachelor,Support,Support Lead,2020-09-27,6.1,41500,3.8,True,EMP-TNZRF5
+CUST-00247,Joshua,Rossi,Male,1972-09-14,54,joshua.rossi6259@outlook.com,(825) 867-4466,New York,NY,USA,53904,Bachelor,Engineering,Software Engineer,2025-08-01,1.2,131500,2.6,True,EMP-QYIY1S
+CUST-00248,Ryan,Jackson,Male,1961-10-05,64,ryan.jackson@gmail.com,(424) 942-4641,Los Angeles,CA,USA,43016,Associate,Engineering,Software Engineer,2014-03-23,12.6,101000,3.5,True,EMP-V6HVE8
+CUST-00249,Mateo,Jones,Male,1963-08-28,63,mateo.jones@example.com,(501) 678-1240,Atlanta,GA,USA,93726,Bachelor,Support,Support Lead,2026-09-11,0.1,42500,3.8,True,EMP-Y1J2JC
+CUST-00250,Olivia,Johnson,Female,1988-12-31,37,olivia.johnson@outlook.com,(860) 703-1776,Denver,CO,USA,28857,Bachelor,Engineering,QA Engineer,2020-01-12,6.8,202000,2.5,True,EMP-6ZDCUJ
+CUST-00251,Mary,Taylor,Female,1964-08-23,62,mary.taylor@yahoo.com,(600) 788-0060,New York,NY,USA,77552,Master,Engineering,QA Engineer,2019-11-28,6.9,128500,3.2,True,EMP-03CINY
+CUST-00252,Linda,Lee,Female,1983-03-20,43,linda.lee@mail.com,(574) 747-5571,Austin,TX,USA,20545,Master,Sales,Account Executive,2013-12-26,12.8,62500,3.5,True,EMP-BNGZ6W
+CUST-00253,Isabella,Williams,Female,1992-12-11,33,isabella.williams@example.com,(264) 753-5041,New York,NY,USA,75494,Bachelor,Data,ML Engineer,2013-07-27,13.3,178000,4.6,True,EMP-MMZOHX
+CUST-00254,Aisha,Jones,Female,1990-11-06,35,aisha.jones@mail.com,(833) 246-3976,New York,NY,USA,95037,High School,Finance,Accountant,2014-03-05,12.7,121000,3.5,False,EMP-3DW4C3
+CUST-00255,Carlos,Patel,Male,1990-11-02,35,carlos.patel@mail.com,(532) 323-9436,Houston,TX,USA,81550,High School,Marketing,Content Writer,2018-07-26,8.3,123500,3.8,True,EMP-MEFOZT
+CUST-00256,Sarah,Lee,Female,1996-11-21,29,sarah.lee@gmail.com,(206) 207-2939,Austin,TX,USA,21683,Master,HR,HR Manager,2021-03-21,5.6,106500,4.2,True,EMP-31YHXS
+CUST-00257,Sarah,Garcia,Female,1960-10-20,65,sarah.garcia@mail.com,(508) 556-6861,Atlanta,GA,USA,10599,Bachelor,Data,Data Scientist,2021-02-01,5.7,131000,2.1,True,EMP-DN1TH1
+CUST-00258,Anthony,Johnson,Male,1997-12-16,28,anthony.johnson@yahoo.com,(255) 860-5966,Austin,TX,USA,47363,Associate,Support,Support Lead,2023-04-28,3.5,59000,2.8,True,EMP-1B07G2
+CUST-00259,Yuki,Brown,Female,1990-05-16,36,yuki.brown@gmail.com,(435) 997-1804,Atlanta,GA,USA,52746,Associate,HR,HR Generalist,2018-04-24,8.5,84500,3.7,True,EMP-NHQR6F
+CUST-00260,Susan,Wilson,Female,1997-05-23,29,susan.wilson@outlook.com,(232) 908-9317,Miami,FL,USA,17818,Bachelor,Data,Data Analyst,2025-02-01,1.7,106000,4.1,True,EMP-GM5V2W
+CUST-00261,Hiroshi,Jackson,Male,2000-04-28,26,hiroshi.jackson@yahoo.com,(947) 638-4041,Boston,MA,USA,42483,Bachelor,Marketing,Content Writer,2023-06-06,3.4,95500,4.2,True,EMP-FUA9BQ
+CUST-00262,Arjun,Moore,Male,1975-09-22,51,arjun.moore@example.com,(949) 616-3571,Los Angeles,CA,USA,27394,Bachelor,Marketing,Content Writer,2016-02-10,10.7,76500,3.5,True,EMP-RKZ40A
+CUST-00263,Fatima,Singh,Female,1980-01-03,46,fatima.singh@yahoo.com,(594) 907-5454,Seattle,WA,USA,79588,High School,Finance,Financial Analyst,2015-06-01,11.4,141000,3.8,True,EMP-WUHYWM
+CUST-00264,Omar,Nguyen,Male,2001-11-26,24,omar.nguyen@outlook.com,(772) 921-1097,Springfield,IL,USA,83499,Master,Sales,Sales Rep,2024-08-11,2.2,102000,2.2,True,EMP-TX015Z
+CUST-00265,Ryan,Lopez,Male,1973-09-14,53,ryan.lopez@outlook.com,(739) 325-7703,Springfield,IL,USA,79717,Bachelor,Sales,Sales Manager,2006-03-23,20.6,65500,4.2,True,EMP-NYY95G
+CUST-00266,Jennifer,Williams,Female,1994-02-25,32,jennifer.williams@example.com,(409) 733-0371,Los Angeles,CA,USA,48426,Bachelor,Engineering,Engineering Manager,2018-09-11,8.1,116500,4.4,True,EMP-P0AGA2
+CUST-00267,Mei,Lee,Female,1968-09-05,58,mei.lee5347@example.com,(513) 375-4259,Miami,FL,USA,39724,Bachelor,HR,Recruiter,2023-11-19,2.9,85500,3.8,True,EMP-MQF7ZK
+CUST-00268,William,Garcia,Male,1997-10-22,28,william.garcia@yahoo.com,(924) 235-5192,Seattle,WA,USA,55068,High School,HR,Recruiter,2019-06-03,7.4,84500,3.3,True,EMP-K7ORFQ
+CUST-00269,Elizabeth,Smith,Female,1973-03-19,53,elizabeth.smith@mail.com,(787) 882-2409,Austin,TX,USA,84086,Master,Finance,Financial Analyst,2011-08-19,15.2,124000,2.8,True,EMP-RBYEAW
+CUST-00270,Wei,Lopez,Male,1984-10-29,41,wei.lopez@gmail.com,(484) 400-0369,Atlanta,GA,USA,20956,Bachelor,Finance,Financial Analyst,2009-05-18,17.5,136000,3.6,False,EMP-9ORVSC
+CUST-00271,Priya,Jones,Female,1982-04-16,44,priya.jones@example.com,(774) 289-3533,Seattle,WA,USA,68224,Master,Engineering,QA Engineer,2011-05-21,15.4,140500,3.9,True,EMP-38P6FV
+CUST-00272,William,Miller,Male,1975-06-26,51,william.miller@outlook.com,(619) 854-4478,Seattle,WA,USA,64331,Associate,Engineering,QA Engineer,2025-12-06,0.9,179000,3.7,True,EMP-EGNTB3
+CUST-00273,Isabella,Jackson,Female,1990-10-14,35,isabella.jackson@example.com,(327) 869-4713,New York,NY,USA,64677,Associate,Data,Data Scientist,2016-11-21,9.9,115500,1.5,True,EMP-R8VNRP
+CUST-00274,Isabella,Chen,Female,1982-06-20,44,isabella.chen@gmail.com,(527) 672-2219,Miami,FL,USA,56843,Associate,HR,Recruiter,2005-05-24,21.4,130000,2.9,True,EMP-8BKXCG
+CUST-00275,Michael,Patel,Male,1971-03-15,55,michael.patel@yahoo.com,(904) 571-1570,Seattle,WA,USA,80047,Bachelor,Support,Support Agent,2023-12-15,2.9,66000,1.4,True,EMP-NRM6DF
+CUST-00276,Daniel,Rossi,Male,1966-09-19,60,daniel.rossi@mail.com,(627) 671-1251,Boston,MA,USA,25278,Master,Support,Support Agent,2016-12-07,9.9,76000,3.2,True,EMP-N36V1M
+CUST-00277,Mary,Khan,Female,1990-12-05,35,mary.khan@gmail.com,(280) 635-1830,Miami,FL,USA,20188,High School,Data,ML Engineer,2026-06-07,0.4,89500,3.8,True,EMP-D2SCEJ
+CUST-00278,Joshua,Nguyen,Male,1998-12-03,27,joshua.nguyen@gmail.com,(292) 349-4544,Atlanta,GA,USA,85989,Bachelor,Data,Data Scientist,2025-08-03,1.2,163500,4.1,True,EMP-WSC31T
+CUST-00279,Joshua,Garcia,Male,2004-11-20,21,joshua.garcia@mail.com,(309) 385-5813,Houston,TX,USA,59756,Bachelor,HR,HR Manager,2026-05-02,0.5,69500,2.5,True,EMP-9EDE1Z
+CUST-00280,Robert,Hernandez,Male,1998-04-16,28,robert.hernandez@example.com,(431) 767-6672,Phoenix,AZ,USA,48088,PhD,Marketing,Marketing Manager,2025-09-25,1.1,102500,2.4,True,EMP-4RYG9R
+CUST-00281,Brian,Thomas,Male,1963-09-12,63,brian.thomas@mail.com,(959) 372-1060,Los Angeles,CA,USA,57672,PhD,Engineering,DevOps Engineer,2008-03-20,18.6,147500,2.4,True,EMP-OIPR11
+CUST-00282,Priya,Lopez,Female,1963-08-05,63,priya.lopez@example.com,(456) 701-8147,Springfield,IL,USA,40254,Bachelor,Marketing,Content Writer,2016-06-21,10.4,79500,1.5,True,EMP-3RAGVL
+CUST-00283,Grace,Patel,Female,2001-09-04,25,grace.patel@gmail.com,(702) 716-4287,Boston,MA,USA,81098,Bachelor,Support,Support Agent,2024-10-05,2.1,69500,4.5,True,EMP-P6NLNQ
+CUST-00284,David,Jackson,Male,1995-06-09,31,david.jackson@outlook.com,(891) 702-9073,Springfield,IL,USA,99833,Bachelor,Data,ML Engineer,2019-07-03,7.3,160500,3.2,True,EMP-SOR8WM
+CUST-00285,Olivia,Johnson,Female,1967-10-24,58,olivia.johnson@gmail.com,(840) 549-6235,Chicago,IL,USA,22759,Bachelor,Support,Support Lead,2013-03-21,13.6,62500,3.0,True,EMP-IILDY5
+CUST-00286,Ryan,Garcia,Male,1971-03-16,55,ryan.garcia@gmail.com,(473) 220-7695,New York,NY,USA,87068,High School,Marketing,SEO Analyst,2019-10-03,7.1,125500,2.9,True,EMP-U3DYMS
+CUST-00287,Susan,Patel,Female,1982-05-12,44,susan.patel@outlook.com,(748) 419-4708,Houston,TX,USA,44754,High School,Marketing,Marketing Manager,2019-04-03,7.6,125000,3.9,True,EMP-8ZUVJU
+CUST-00288,Mei,Miller,Female,2001-08-30,25,mei.miller@outlook.com,(624) 611-4116,Phoenix,AZ,USA,91915,Bachelor,HR,HR Manager,2026-07-05,0.3,65000,3.8,True,EMP-AZ5UH8
+CUST-00289,Emily,Kim,Female,1966-05-11,60,emily.kim@mail.com,(446) 354-4919,Atlanta,GA,USA,67067,Bachelor,Finance,Accountant,2019-01-22,7.8,69500,3.5,True,EMP-JKFYII
+CUST-00290,Daniel,Smith,Male,1986-05-26,40,daniel.smith@yahoo.com,(479) 339-0477,Denver,CO,USA,43868,Master,HR,Recruiter,2016-10-12,10.0,87000,3.6,True,EMP-48RA4D
+CUST-00291,Jennifer,Anderson,Female,1963-09-02,63,jennifer.anderson@outlook.com,(784) 952-8196,Los Angeles,CA,USA,25812,Bachelor,Marketing,SEO Analyst,2026-02-26,0.7,109500,3.2,True,EMP-V1L303
+CUST-00292,Arjun,Miller,Male,1998-12-29,27,arjun.miller@yahoo.com,(746) 583-1850,Houston,TX,USA,51482,Bachelor,Sales,Account Executive,2023-12-06,2.9,84500,3.6,False,EMP-57NZ3A
+CUST-00293,John,Chen,Male,1989-07-10,37,john.chen@yahoo.com,(324) 747-3872,Springfield,IL,USA,67986,Bachelor,Sales,Account Executive,2024-05-01,2.5,133000,4.3,False,EMP-K71K4F
+CUST-00294,Olivia,Rossi,Female,2003-02-18,23,olivia.rossi@example.com,(934) 632-1644,Los Angeles,CA,USA,31016,Bachelor,Support,Support Agent,2026-10-03,0.1,54000,2.9,True,EMP-30QABX
+CUST-00295,Elizabeth,Smith,Female,1993-08-18,33,elizabeth.smith@example.com,(986) 864-2131,Phoenix,AZ,USA,87858,Bachelor,Sales,Account Executive,2015-11-05,11.0,66500,3.1,True,EMP-EGVLKD
+CUST-00296,Susan,Wilson,Female,1969-01-23,57,susan.wilson@example.com,(291) 673-3248,New York,NY,USA,44312,Master,Engineering,Senior Engineer,2025-09-15,1.1,134500,1.7,True,EMP-VF8GUA
+CUST-00297,Fatima,Tanaka,Female,1998-01-23,28,fatima.tanaka@example.com,(964) 706-6259,Miami,FL,USA,27065,Bachelor,Data,Data Scientist,2021-02-19,5.7,183000,3.4,False,EMP-KYPOFK
+CUST-00298,Sarah,Patel,Female,1990-04-08,36,sarah.patel@example.com,(531) 909-6513,Atlanta,GA,USA,37815,Master,Finance,Finance Manager,2025-07-08,1.3,96500,3.1,True,EMP-CUB7QM
+CUST-00299,James,Rodriguez,Male,1966-04-14,60,james.rodriguez@mail.com,(794) 383-4264,Phoenix,AZ,USA,32264,Bachelor,Marketing,SEO Analyst,2020-01-21,6.8,82500,4.1,True,EMP-LTFEBE
+CUST-00300,Sophia,Anderson,Female,1989-08-10,37,sophia.anderson@outlook.com,(703) 982-2478,Phoenix,AZ,USA,82833,Master,HR,HR Manager,2017-01-08,9.8,87500,3.5,True,EMP-GBGQFQ
+CUST-00301,Carlos,Johnson,Male,1983-09-29,43,carlos.johnson@example.com,(326) 557-1533,Boston,MA,USA,36703,Master,Marketing,Content Writer,2015-04-08,11.6,101000,4.0,True,EMP-3UXH9A
+CUST-00302,Arjun,Williams,Male,1974-09-12,52,arjun.williams@yahoo.com,(582) 804-1737,Los Angeles,CA,USA,52406,Associate,Sales,Sales Rep,2005-08-01,21.2,90000,3.1,True,EMP-RWJXLB
+CUST-00303,Olivia,Khan,Female,1997-01-17,29,olivia.khan@mail.com,(760) 816-6248,New York,NY,USA,22130,Bachelor,Support,Support Agent,2025-03-21,1.6,48000,2.5,True,EMP-OAHNOX
+CUST-00304,Michael,Martinez,Male,1978-03-08,48,michael.martinez@example.com,(404) 701-7298,Austin,TX,USA,60867,Bachelor,HR,HR Manager,2007-12-12,18.9,89000,3.5,True,EMP-PNGWDS
+CUST-00305,Sarah,Kim,Female,1974-06-27,52,sarah.kim@yahoo.com,(689) 507-2434,Austin,TX,USA,26749,Bachelor,Finance,Financial Analyst,2016-10-08,10.1,74500,4.0,True,EMP-KBCBDP
+CUST-00306,Wei,Nguyen,Male,1989-03-31,37,wei.nguyen@mail.com,(673) 383-2985,Phoenix,AZ,USA,61505,High School,HR,Recruiter,2011-11-01,15.0,123500,4.1,True,EMP-VQYWJ8
+CUST-00307,Daniel,Garcia,Male,1967-02-10,59,daniel.garcia@gmail.com,(375) 871-7817,Austin,TX,USA,70314,Bachelor,Engineering,Engineering Manager,2014-09-24,12.1,160000,3.7,True,EMP-3WY8Y2
+CUST-00308,William,Jones,Male,1992-11-27,33,william.jones@gmail.com,(865) 447-7139,New York,NY,USA,92058,Master,Finance,Finance Manager,2017-03-22,9.6,152500,2.4,True,EMP-QRAFFZ
+CUST-00309,Isabella,Smith,Female,1968-02-02,58,isabella.smith@example.com,(305) 845-7074,Houston,TX,USA,64484,Master,Sales,Sales Manager,2017-10-09,9.1,136500,3.4,True,EMP-9BOS07
+CUST-00310,Sarah,Chen,Female,1971-10-10,54,sarah.chen@gmail.com,(684) 319-8106,Springfield,IL,USA,91618,Master,HR,Recruiter,2012-02-01,14.7,105000,3.1,True,EMP-F0QPSV
+CUST-00311,Grace,Clark,Female,1997-02-28,29,grace.clark@example.com,(952) 568-7738,Miami,FL,USA,31237,Bachelor,Finance,Financial Analyst,2022-05-18,4.5,148500,3.6,True,EMP-RGFR27
+CUST-00312,Ashley,Davis,Female,1969-10-25,56,ashley.davis@yahoo.com,(715) 232-1043,New York,NY,USA,54267,Bachelor,Sales,Sales Manager,2024-10-04,2.1,70000,2.5,True,EMP-R9211U
+CUST-00313,Omar,Patel,Male,2002-05-13,24,omar.patel@gmail.com,(304) 775-0687,Denver,CO,USA,76493,High School,Support,Support Agent,2023-08-16,3.2,78500,4.1,False,EMP-FKPS0D
+CUST-00314,Olivia,Tanaka,Female,1998-01-12,28,olivia.tanaka@yahoo.com,(717) 375-1396,Denver,CO,USA,44867,Bachelor,Marketing,Marketing Manager,2019-01-27,7.8,73000,2.9,True,EMP-F1PI2O
+CUST-00315,Fatima,Clark,Female,1962-04-04,64,fatima.clark@mail.com,(271) 286-5542,New York,NY,USA,51262,Bachelor,Marketing,Content Writer,2008-04-07,18.6,133500,3.1,True,EMP-B7FU99
+CUST-00316,Mei,Wilson,Female,1986-03-10,40,mei.wilson@mail.com,(917) 613-7310,Seattle,WA,USA,94394,Associate,Engineering,Engineering Manager,2025-07-19,1.3,103500,3.5,True,EMP-PM3X15
+CUST-00317,John,Jackson,Male,1980-12-04,45,john.jackson@outlook.com,(548) 975-2621,Boston,MA,USA,13069,High School,HR,HR Manager,2011-05-15,15.5,76500,3.4,True,EMP-109DCN
+CUST-00318,Linda,Johnson,Female,1977-03-02,49,linda.johnson@gmail.com,(795) 779-8737,Atlanta,GA,USA,88059,Associate,Finance,Financial Analyst,2005-02-12,21.7,121500,2.7,True,EMP-ZYZSIL
+CUST-00319,Kevin,Thomas,Male,1996-09-29,30,kevin.thomas@gmail.com,(687) 419-7309,Springfield,IL,USA,20233,Bachelor,Support,Support Lead,2021-08-15,5.2,42500,3.4,True,EMP-OJRPP7
+CUST-00320,Mei,Tanaka,Female,1996-06-15,30,mei.tanaka@yahoo.com,(741) 320-3483,Chicago,IL,USA,69694,Bachelor,Marketing,Content Writer,2024-12-22,1.9,82500,4.4,True,EMP-8VOEUB
+CUST-00321,Michael,Lopez,Male,1982-03-05,44,michael.lopez@outlook.com,(249) 512-4644,Phoenix,AZ,USA,38256,Associate,Marketing,Marketing Manager,2005-08-18,21.2,135500,1.1,True,EMP-CBRLQM
+CUST-00322,Isabella,Tanaka,Female,1996-12-10,29,isabella.tanaka@mail.com,(945) 533-1463,Boston,MA,USA,91889,Bachelor,Finance,Financial Analyst,2022-03-03,4.7,131000,3.0,False,EMP-MBYPJD
+CUST-00323,James,Lee,Male,1970-08-27,56,james.lee@outlook.com,(975) 254-9342,Los Angeles,CA,USA,78387,Associate,Finance,Financial Analyst,2017-07-19,9.3,74000,3.2,True,EMP-XT8JH3
+CUST-00324,Jennifer,Rossi,Female,1967-03-14,59,jennifer.rossi@mail.com,(384) 624-0394,Springfield,IL,USA,79193,Bachelor,HR,Recruiter,2006-01-04,20.8,100000,2.0,False,EMP-TKG1F8
+CUST-00325,John,Patel,Male,1993-10-14,32,john.patel@outlook.com,(531) 464-6152,Miami,FL,USA,25855,High School,Engineering,Senior Engineer,2020-09-07,6.1,127000,3.8,True,EMP-R1NECQ
+CUST-00326,Jennifer,Taylor,Female,1979-08-21,47,jennifer.taylor@gmail.com,(981) 768-2057,Houston,TX,USA,49926,Bachelor,Engineering,QA Engineer,2011-01-14,15.8,170000,1.9,True,EMP-H8N92T
+CUST-00327,Aisha,Thomas,Female,1966-02-26,60,aisha.thomas17@example.com,(456) 896-6228,Austin,TX,USA,56061,Master,Data,Data Scientist,2005-01-05,21.8,92500,3.4,True,EMP-B0UKOE
+CUST-00328,Luca,Rodriguez,Male,1992-08-08,34,luca.rodriguez@example.com,(970) 924-7417,Boston,MA,USA,45784,Associate,Support,Support Lead,2020-02-21,6.7,80000,2.8,True,EMP-VAYXAR
+CUST-00329,David,Anderson,Male,1961-09-26,65,david.anderson@mail.com,(279) 751-0507,Denver,CO,USA,98029,Bachelor,Support,Support Agent,2013-10-23,13.0,71000,2.9,True,EMP-3MG1ZA
+CUST-00330,Sophia,Miller,Female,2005-01-22,21,sophia.miller@example.com,(828) 840-4967,Miami,FL,USA,38986,Associate,Engineering,QA Engineer,2026-05-24,0.4,146000,4.6,True,EMP-RZVA9W
+CUST-00331,Anthony,Lee,Male,1973-12-27,52,anthony.lee@mail.com,(379) 266-9636,Boston,MA,USA,26809,Master,Data,Data Scientist,2019-10-20,7.0,162500,2.6,True,EMP-IS2GY9
+CUST-00332,Aisha,Thomas,Female,1985-05-10,41,aisha.thomas6998@gmail.com,(977) 244-3678,Springfield,IL,USA,16155,Bachelor,Sales,Account Executive,2008-09-24,18.1,133500,3.3,True,EMP-OM539I
+CUST-00333,Jennifer,Davis,Female,1995-03-18,31,jennifer.davis@yahoo.com,(224) 806-5477,Phoenix,AZ,USA,42821,Associate,Engineering,QA Engineer,2023-01-08,3.8,149500,2.5,True,EMP-BM271W
+CUST-00334,Wei,Lee,Male,1999-11-01,26,wei.lee@gmail.com,(263) 652-0897,New York,NY,USA,49514,Bachelor,Marketing,Marketing Manager,2023-07-07,3.3,119000,1.8,True,EMP-UKND1I
+CUST-00335,Wei,Wilson,Male,1978-08-14,48,wei.wilson@example.com,(729) 536-9630,Atlanta,GA,USA,35228,High School,Engineering,Software Engineer,2012-08-14,14.2,182000,3.4,True,EMP-2GUWJP
+CUST-00336,Susan,Davis,Female,2002-10-31,23,susan.davis@yahoo.com,(518) 797-8866,Chicago,IL,USA,29087,High School,Sales,Account Executive,2026-04-12,0.6,83000,3.5,True,EMP-8SXFI3
+CUST-00337,Arjun,Lopez,Male,1993-08-24,33,arjun.lopez@yahoo.com,(678) 814-5425,Houston,TX,USA,85813,Bachelor,Support,Support Lead,2015-07-15,11.3,59500,3.5,True,EMP-FQ2BHA
+CUST-00338,Matthew,Thomas,Male,1992-01-31,34,matthew.thomas@mail.com,(206) 571-0162,Denver,CO,USA,19664,Bachelor,Finance,Finance Manager,2020-06-08,6.4,139500,2.1,True,EMP-GV1BBH
+CUST-00339,Matthew,Rodriguez,Male,1984-07-10,42,matthew.rodriguez@yahoo.com,(221) 893-2248,Houston,TX,USA,59666,Bachelor,Data,Data Analyst,2009-05-25,17.4,87500,2.8,True,EMP-QNNGS2
+CUST-00340,Jennifer,Brown,Female,1997-01-06,29,jennifer.brown@yahoo.com,(851) 450-0756,Houston,TX,USA,90744,Bachelor,HR,HR Manager,2022-03-30,4.6,98500,2.7,True,EMP-IWKESV
+CUST-00341,Jessica,Khan,Female,1975-09-05,51,jessica.khan@gmail.com,(721) 583-8168,Atlanta,GA,USA,78012,Bachelor,Engineering,DevOps Engineer,2008-10-03,18.1,163500,3.7,True,EMP-R8RUW2
+CUST-00342,Daniel,Davis,Male,1977-01-29,49,daniel.davis@yahoo.com,(583) 460-9020,Springfield,IL,USA,21109,High School,Data,Data Analyst,2011-11-12,15.0,142500,2.7,True,EMP-IBSMQP
+CUST-00343,Isabella,Hernandez,Female,1980-10-13,45,isabella.hernandez@outlook.com,(501) 713-8401,Chicago,IL,USA,81650,Bachelor,Marketing,SEO Analyst,2010-03-31,16.6,84500,4.3,True,EMP-CBHHLK
+CUST-00344,Jessica,Chen,Female,1997-07-06,29,jessica.chen@mail.com,(613) 615-9501,Phoenix,AZ,USA,95892,High School,Engineering,Engineering Manager,2026-08-21,0.2,103500,4.7,False,EMP-5I0HIV
+CUST-00345,Fatima,Hernandez,Female,1978-09-23,48,fatima.hernandez5130@yahoo.com,(791) 331-5006,Springfield,IL,USA,11268,Bachelor,Data,Data Engineer,2014-11-03,12.0,139000,2.8,True,EMP-YO2TLA
+CUST-00346,William,Jones,Male,1969-08-19,57,william.jones@outlook.com,(600) 265-8757,Atlanta,GA,USA,60650,Associate,HR,HR Generalist,2017-11-15,9.0,119500,2.8,False,EMP-XKGYG3
+CUST-00347,Mary,Garcia,Female,2001-04-16,25,mary.garcia@yahoo.com,(577) 730-0180,Phoenix,AZ,USA,32521,Bachelor,Data,ML Engineer,2023-04-23,3.5,102500,3.0,False,EMP-EP0O6H
+CUST-00348,Joshua,Anderson,Male,1995-08-06,31,joshua.anderson@example.com,(406) 207-2337,Atlanta,GA,USA,68422,High School,Sales,Account Executive,2022-08-03,4.2,67500,3.5,True,EMP-LURQBD
+CUST-00349,Sophia,Chen,Female,1980-08-09,46,sophia.chen@outlook.com,(593) 874-3005,Chicago,IL,USA,84529,High School,Marketing,Marketing Specialist,2010-08-03,16.2,76000,2.5,True,EMP-JWK6Z0
+CUST-00350,Carlos,Anderson,Male,1998-04-07,28,carlos.anderson@mail.com,(368) 458-3397,Los Angeles,CA,USA,76330,High School,Support,Support Agent,2020-03-06,6.7,62500,1.9,True,EMP-0N04OA
+CUST-00351,William,Hernandez,Male,1974-05-25,52,william.hernandez@example.com,(682) 485-2643,Los Angeles,CA,USA,32359,Master,Engineering,Engineering Manager,2017-04-20,9.5,169500,2.0,True,EMP-TOC1YF
+CUST-00352,Susan,Miller,Female,1962-06-30,64,susan.miller@gmail.com,(878) 933-1684,Houston,TX,USA,61199,Bachelor,Marketing,Marketing Manager,2020-08-17,6.2,54500,1.7,True,EMP-117NID
+CUST-00353,Mary,Smith,Female,1993-09-14,33,mary.smith@outlook.com,(880) 371-2736,Austin,TX,USA,15768,Bachelor,Engineering,Software Engineer,2018-12-12,7.9,203000,3.9,True,EMP-WW7OPI
+CUST-00354,Kevin,Hernandez,Male,2005-04-24,21,kevin.hernandez@yahoo.com,(485) 865-6045,Austin,TX,USA,15759,High School,Sales,Sales Rep,2026-01-07,0.8,79500,3.0,True,EMP-R9Z27U
+CUST-00355,Linda,Patel,Female,1965-09-22,61,linda.patel@outlook.com,(850) 979-5209,Springfield,IL,USA,97342,Bachelor,Finance,Financial Analyst,2025-09-26,1.1,140500,1.4,False,EMP-QS0SZA
+CUST-00356,Mateo,Singh,Male,1986-01-30,40,mateo.singh@gmail.com,(710) 503-3309,Miami,FL,USA,29879,Bachelor,Marketing,Marketing Specialist,2023-12-26,2.8,67000,2.5,True,EMP-9P5EL2
+CUST-00357,Omar,Rossi,Male,1964-02-25,62,omar.rossi@example.com,(255) 880-4068,New York,NY,USA,39156,Bachelor,Data,ML Engineer,2023-12-31,2.8,150000,3.3,True,EMP-WCR8B9
+CUST-00358,William,Williams,Male,1968-07-08,58,william.williams@yahoo.com,(938) 402-4012,Houston,TX,USA,65576,Associate,Data,Data Scientist,2016-05-19,10.4,88500,2.7,True,EMP-8H5R8M
+CUST-00359,Susan,Taylor,Female,1978-06-16,48,susan.taylor@example.com,(220) 980-6249,Atlanta,GA,USA,66019,Master,Finance,Financial Analyst,2014-09-21,12.1,148500,3.4,True,EMP-0JQQNV
+CUST-00360,Ryan,Jones,Male,1992-12-19,33,ryan.jones@example.com,(614) 625-6465,Houston,TX,USA,58908,Bachelor,Engineering,DevOps Engineer,2013-04-16,13.5,209500,3.5,True,EMP-OB7NUG
+CUST-00361,Emily,Singh,Female,1973-09-29,53,emily.singh@outlook.com,(634) 953-4043,Denver,CO,USA,41765,Bachelor,Finance,Financial Analyst,2020-06-11,6.4,97500,3.5,True,EMP-ZXJQYJ
+CUST-00362,James,Brown,Male,1964-09-29,62,james.brown@gmail.com,(393) 633-2716,Springfield,IL,USA,65950,Bachelor,Marketing,SEO Analyst,2020-11-02,6.0,99500,3.2,True,EMP-5V0175
+CUST-00363,Hiroshi,Singh,Male,1996-02-15,30,hiroshi.singh@outlook.com,(703) 201-1587,Miami,FL,USA,19154,Master,Data,ML Engineer,2025-05-23,1.4,110000,3.3,True,EMP-0GNZHG
+CUST-00364,Wei,Lee,Male,1994-01-11,32,wei.lee@yahoo.com,(618) 651-1789,New York,NY,USA,93418,Associate,Finance,Financial Analyst,2019-02-05,7.7,143000,1.9,True,EMP-CBIR1A
+CUST-00365,Mary,Nguyen,Female,2002-11-19,23,mary.nguyen@mail.com,(472) 697-7753,Houston,TX,USA,54175,Bachelor,HR,Recruiter,2023-01-15,3.8,74500,2.9,False,EMP-937XNC
+CUST-00366,Olivia,Rossi,Female,2005-05-22,21,olivia.rossi@gmail.com,(916) 969-4072,Miami,FL,USA,58290,Bachelor,Marketing,Marketing Manager,2026-03-13,0.6,47500,3.3,True,EMP-AW7LW5
+CUST-00367,Fatima,Davis,Female,1974-04-23,52,fatima.davis@mail.com,(687) 874-1645,Miami,FL,USA,60444,Bachelor,HR,HR Generalist,2022-10-23,4.0,54500,3.7,True,EMP-52ZBRD
+CUST-00368,Susan,Thomas,Female,1990-02-02,36,susan.thomas7900@mail.com,(229) 364-5349,Houston,TX,USA,60264,Master,Data,Data Scientist,2025-10-18,1.0,141500,3.7,True,EMP-8YX7WR
+CUST-00369,Sarah,Lee,Female,2001-08-26,25,sarah.lee@mail.com,(775) 647-3823,Seattle,WA,USA,39301,Bachelor,Marketing,SEO Analyst,2026-01-09,0.8,102500,1.9,True,EMP-070EN4
+CUST-00370,Elena,Khan,Female,1985-11-01,40,elena.khan@gmail.com,(573) 895-2069,Atlanta,GA,USA,78124,Bachelor,HR,HR Manager,2010-04-05,16.6,130000,2.5,True,EMP-TQF74R
+CUST-00371,Elizabeth,Patel,Female,1996-09-05,30,elizabeth.patel@outlook.com,(480) 923-9403,Miami,FL,USA,72689,Bachelor,Engineering,Senior Engineer,2023-09-20,3.1,112000,3.2,True,EMP-N9L3H0
+CUST-00372,John,Clark,Male,1974-04-19,52,john.clark@yahoo.com,(601) 545-6921,Phoenix,AZ,USA,98853,Bachelor,Support,Support Lead,2019-10-15,7.0,81500,3.8,True,EMP-TKZH4O
+CUST-00373,Ryan,Singh,Male,2002-09-29,24,ryan.singh@mail.com,(498) 348-3436,Phoenix,AZ,USA,38591,Master,Marketing,Content Writer,2026-09-02,0.2,57500,3.7,True,EMP-0UY9F8
+CUST-00374,Susan,Johnson,Female,1983-05-31,43,susan.johnson@gmail.com,(352) 842-6619,Chicago,IL,USA,42112,High School,Engineering,Senior Engineer,2007-08-20,19.2,231000,3.0,True,EMP-VG019Y
+CUST-00375,Wei,Clark,Male,1988-08-19,38,wei.clark@example.com,(856) 884-8351,Austin,TX,USA,39482,High School,Marketing,Marketing Manager,2017-03-29,9.6,54500,2.7,True,EMP-2GRXPU
+CUST-00376,Ryan,Williams,Male,1960-10-11,65,ryan.williams3030@example.com,(731) 798-8830,Springfield,IL,USA,95419,High School,HR,HR Generalist,2023-05-03,3.5,85500,4.5,False,EMP-GVGT2E
+CUST-00377,Hiroshi,Miller,Male,2000-07-14,26,hiroshi.miller@yahoo.com,(757) 375-6931,Phoenix,AZ,USA,96266,High School,Support,Support Lead,2021-05-24,5.4,42500,1.7,False,EMP-6KTFRL
+CUST-00378,Grace,Jackson,Female,1992-09-17,34,grace.jackson@mail.com,(420) 337-9865,Los Angeles,CA,USA,82361,Associate,Finance,Financial Analyst,2014-01-02,12.8,94500,2.7,True,EMP-PTJXFQ
+CUST-00379,Mei,Chen,Female,1971-01-13,55,mei.chen@yahoo.com,(931) 581-9234,Los Angeles,CA,USA,96155,Bachelor,Finance,Finance Manager,2021-06-08,5.4,86500,3.5,True,EMP-F9PAVC
+CUST-00380,Luca,Brown,Male,1978-11-03,47,luca.brown@mail.com,(431) 480-0161,Seattle,WA,USA,22838,Bachelor,Finance,Accountant,2006-12-30,19.8,111500,2.9,True,EMP-7G0L3R
+CUST-00381,Elena,Clark,Female,1970-02-16,56,elena.clark@outlook.com,(385) 553-8711,Atlanta,GA,USA,82308,Bachelor,Engineering,QA Engineer,2025-02-09,1.7,78000,3.2,True,EMP-ASFEN0
+CUST-00382,Kevin,Chen,Male,1962-08-08,64,kevin.chen@yahoo.com,(714) 493-4519,Springfield,IL,USA,66068,Bachelor,Finance,Finance Manager,2015-04-09,11.6,87000,4.2,True,EMP-K48OLD
+CUST-00383,Robert,Khan,Male,1999-12-24,26,robert.khan@yahoo.com,(210) 634-8334,Atlanta,GA,USA,27881,Bachelor,Engineering,Engineering Manager,2020-12-12,5.9,169500,3.6,True,EMP-TEAG3A
+CUST-00384,Aisha,Khan,Female,1990-09-04,36,aisha.khan@outlook.com,(982) 736-3687,Boston,MA,USA,32913,High School,Finance,Accountant,2024-08-30,2.2,61000,3.3,False,EMP-PNNE6I
+CUST-00385,Joshua,Martinez,Male,1987-02-13,39,joshua.martinez@example.com,(858) 727-0580,Houston,TX,USA,70693,Master,Engineering,QA Engineer,2024-07-20,2.3,146000,1.8,True,EMP-QKDM0O
+CUST-00386,Michael,Anderson,Male,1992-11-13,33,michael.anderson@example.com,(987) 872-4098,Boston,MA,USA,39634,Bachelor,HR,Recruiter,2016-06-13,10.4,86500,2.7,True,EMP-G3DP4F
+CUST-00387,Mei,Smith,Female,1992-11-26,33,mei.smith@outlook.com,(232) 364-3260,Houston,TX,USA,72822,PhD,Sales,Account Executive,2013-11-26,12.9,71000,2.1,True,EMP-RYE12O
+CUST-00388,Elizabeth,Brown,Female,2003-12-04,22,elizabeth.brown@gmail.com,(550) 639-9782,Chicago,IL,USA,11052,Bachelor,Sales,Account Executive,2026-10-21,0.0,46000,2.7,True,EMP-PW0GKE
+CUST-00389,Sarah,Nguyen,Female,1993-05-31,33,sarah.nguyen@example.com,(805) 844-2436,Miami,FL,USA,40065,High School,Support,Support Lead,2016-04-24,10.5,76500,1.6,False,EMP-7PWDBO
+CUST-00390,Sarah,Davis,Female,1978-06-03,48,sarah.davis@outlook.com,(487) 559-6849,New York,NY,USA,42370,Bachelor,HR,HR Generalist,2014-07-31,12.2,108000,2.3,True,EMP-XLKKVP
+CUST-00391,Isabella,Lopez,Female,1985-11-27,40,isabella.lopez@outlook.com,(569) 959-5920,Los Angeles,CA,USA,87189,Bachelor,Finance,Financial Analyst,2006-04-22,20.5,147000,2.5,True,EMP-VDDWVB
+CUST-00392,Daniel,Chen,Male,1998-11-08,27,daniel.chen@example.com,(746) 938-2517,Boston,MA,USA,15742,High School,HR,Recruiter,2022-11-05,4.0,69500,3.3,True,EMP-54696Q
+CUST-00393,Arjun,Williams,Male,1979-06-26,47,arjun.williams@example.com,(496) 246-9276,Boston,MA,USA,17968,Master,Support,Support Agent,2005-06-29,21.3,54000,3.8,True,EMP-Y58F1N
+CUST-00394,Priya,Patel,Female,1992-01-03,34,priya.patel@outlook.com,(725) 666-8254,New York,NY,USA,78822,Bachelor,Data,Data Scientist,2025-10-29,1.0,89500,2.7,True,EMP-EITKX7
+CUST-00395,Elizabeth,Rodriguez,Female,1964-02-05,62,elizabeth.rodriguez@gmail.com,(577) 532-1363,Houston,TX,USA,81994,Bachelor,HR,HR Generalist,2007-08-10,19.2,58500,3.0,True,EMP-LC33H8
+CUST-00396,Anthony,Smith,Male,1963-07-26,63,anthony.smith@mail.com,(841) 849-9901,Los Angeles,CA,USA,82204,Associate,Finance,Financial Analyst,2021-09-23,5.1,125000,2.5,True,EMP-U31FI0
+CUST-00397,Elizabeth,Taylor,Female,1974-01-01,52,elizabeth.taylor@gmail.com,(946) 384-4621,Denver,CO,USA,12758,Bachelor,Data,Data Scientist,2023-04-18,3.5,166500,4.0,True,EMP-GFPQXO
+CUST-00398,James,Patel,Male,1981-04-15,45,james.patel@gmail.com,(335) 454-1369,New York,NY,USA,45082,High School,Engineering,Engineering Manager,2023-07-17,3.3,76000,1.4,False,EMP-8D0MZH
+CUST-00399,Elena,Thomas,Female,1986-03-19,40,elena.thomas@yahoo.com,(326) 221-0729,Denver,CO,USA,23476,Bachelor,Data,Data Analyst,2012-06-20,14.4,91000,3.3,True,EMP-F6APFX
+CUST-00400,Brian,Nguyen,Male,1973-12-26,52,brian.nguyen@gmail.com,(541) 321-5906,Los Angeles,CA,USA,21115,Master,Data,Data Scientist,2007-04-14,19.5,215000,2.3,True,EMP-VYFYK3
+CUST-00401,Linda,Rodriguez,Female,1963-04-07,63,linda.rodriguez@example.com,(352) 996-2401,Phoenix,AZ,USA,51976,High School,Support,Support Lead,2025-05-06,1.5,65500,3.7,True,EMP-RCU8KD
+CUST-00402,David,Singh,Male,1983-03-13,43,david.singh@example.com,(541) 341-4028,Denver,CO,USA,60224,Bachelor,Marketing,Marketing Manager,2015-10-18,11.0,118500,3.3,True,EMP-TIDZS1
+CUST-00403,Robert,Davis,Male,2005-01-13,21,robert.davis@outlook.com,(557) 569-2283,New York,NY,USA,48626,Bachelor,Sales,Sales Manager,2026-10-13,0.0,85500,4.6,False,EMP-I3CE8Z
+CUST-00404,Mary,Chen,Female,1981-10-28,44,mary.chen@example.com,(361) 230-2406,Miami,FL,USA,57873,High School,Engineering,Senior Engineer,2019-11-13,7.0,152500,1.9,True,EMP-3FG00Z
+CUST-00405,Isabella,Anderson,Female,1977-08-27,49,isabella.anderson@outlook.com,(818) 969-2843,Miami,FL,USA,75967,Associate,Engineering,QA Engineer,2011-06-08,15.4,107000,4.0,True,EMP-5T37SZ
+CUST-00406,Susan,Rodriguez,Female,1972-04-11,54,susan.rodriguez@gmail.com,(963) 772-9913,Chicago,IL,USA,20119,Master,Finance,Financial Analyst,2009-10-02,17.1,115500,3.2,True,EMP-ONBNPJ
+CUST-00407,Robert,Lopez,Male,1983-10-15,42,robert.lopez@mail.com,(974) 516-3075,Houston,TX,USA,82311,Associate,Sales,Sales Rep,2008-08-26,18.2,118500,2.6,True,EMP-UB9RBD
+CUST-00408,Mary,Lopez,Female,1993-03-11,33,mary.lopez6524@mail.com,(617) 959-8250,Springfield,IL,USA,23238,Bachelor,Finance,Accountant,2021-12-25,4.8,151000,1.5,True,EMP-R5BFYC
+CUST-00409,Matthew,Miller,Male,1995-06-14,31,matthew.miller@yahoo.com,(334) 547-4765,Boston,MA,USA,57227,Bachelor,Finance,Financial Analyst,2022-10-29,4.0,119000,1.6,True,EMP-YI9V8U
+CUST-00410,Linda,Rossi,Female,1969-11-14,56,linda.rossi2337@outlook.com,(486) 790-5952,Denver,CO,USA,56316,High School,Engineering,Senior Engineer,2015-03-15,11.6,129000,3.7,True,EMP-991P77
+CUST-00411,Patricia,Lopez,Female,1980-04-27,46,patricia.lopez@outlook.com,(521) 582-1367,Atlanta,GA,USA,99417,Bachelor,Finance,Financial Analyst,2007-11-23,18.9,120000,2.6,True,EMP-YWX0I3
+CUST-00412,William,Clark,Male,1987-04-11,39,william.clark@gmail.com,(885) 295-5716,Chicago,IL,USA,71063,Bachelor,HR,HR Manager,2016-12-14,9.9,120500,4.2,True,EMP-D0771H
+CUST-00413,Jennifer,Hernandez,Female,1967-06-06,59,jennifer.hernandez@outlook.com,(359) 681-2384,Houston,TX,USA,93914,Associate,Finance,Finance Manager,2021-08-17,5.2,105500,1.6,True,EMP-N7NPRB
+CUST-00414,Arjun,Rodriguez,Male,1964-12-30,61,arjun.rodriguez@outlook.com,(662) 629-8597,Los Angeles,CA,USA,38063,Bachelor,Data,Data Engineer,2006-07-22,20.3,122000,2.4,True,EMP-6P8KH7
+CUST-00415,Isabella,Jackson,Female,1961-05-12,65,isabella.jackson@yahoo.com,(811) 403-1274,Seattle,WA,USA,97551,Bachelor,Finance,Accountant,2017-10-17,9.0,104000,2.8,False,EMP-700LFQ
+CUST-00416,Carlos,Clark,Male,1998-09-11,28,carlos.clark@outlook.com,(328) 849-7361,Springfield,IL,USA,93744,PhD,Sales,Sales Rep,2024-11-02,2.0,110500,1.6,True,EMP-GZ1VHH
+CUST-00417,Hiroshi,Smith,Male,1981-10-09,44,hiroshi.smith@outlook.com,(666) 623-6723,Phoenix,AZ,USA,56101,Bachelor,Sales,Sales Manager,2016-04-06,10.6,139000,3.1,False,EMP-M7QNTF
+CUST-00418,Priya,Martinez,Female,1965-02-23,61,priya.martinez@example.com,(306) 291-0269,Miami,FL,USA,90774,Master,HR,HR Generalist,2026-01-14,0.8,107000,3.2,True,EMP-7DPUBK
+CUST-00419,Jessica,Davis,Female,1970-04-14,56,jessica.davis@example.com,(675) 622-6484,Los Angeles,CA,USA,10996,Master,Data,Data Scientist,2024-03-17,2.6,120500,3.3,True,EMP-XL66YA
+CUST-00420,Patricia,Smith,Female,1996-04-09,30,patricia.smith@gmail.com,(640) 447-9105,Boston,MA,USA,61296,Associate,Support,Support Lead,2025-04-25,1.5,61000,4.0,True,EMP-UEW9G6
+CUST-00421,Arjun,Davis,Male,1997-06-16,29,arjun.davis@gmail.com,(466) 766-2605,Los Angeles,CA,USA,52258,Associate,Finance,Accountant,2024-06-21,2.4,127500,1.5,True,EMP-1FWT9U
+CUST-00422,William,Thomas,Male,1994-01-31,32,william.thomas@outlook.com,(587) 988-4267,Austin,TX,USA,96410,High School,Data,Data Analyst,2021-08-29,5.2,94000,4.4,True,EMP-WUDQVD
+CUST-00423,Emily,Garcia,Female,2001-06-11,25,emily.garcia@gmail.com,(275) 698-1250,Seattle,WA,USA,37563,Bachelor,Support,Support Lead,2023-03-02,3.7,54500,4.2,True,EMP-QFK6XW
+CUST-00424,Michael,Hernandez,Male,1975-08-11,51,michael.hernandez@outlook.com,(397) 820-0484,Atlanta,GA,USA,80248,High School,HR,HR Manager,2005-02-11,21.7,72000,3.8,True,EMP-N6BEDY
+CUST-00425,Anthony,Rodriguez,Male,1992-11-17,33,anthony.rodriguez@example.com,(646) 724-6552,Seattle,WA,USA,35304,Bachelor,Finance,Accountant,2025-05-15,1.5,113500,3.6,False,EMP-KOV1L2
+CUST-00426,Mei,Thomas,Female,1967-02-17,59,mei.thomas@example.com,(582) 847-1052,Seattle,WA,USA,68904,Associate,HR,HR Generalist,2007-06-01,19.4,110000,4.5,True,EMP-OV58TO
+CUST-00427,David,Rossi,Male,1978-01-04,48,david.rossi@outlook.com,(521) 325-0157,Seattle,WA,USA,51758,Bachelor,Data,Data Engineer,2006-08-19,20.2,114000,2.5,True,EMP-LICKHH
+CUST-00428,Grace,Rossi,Female,1969-08-27,57,grace.rossi@gmail.com,(250) 705-8169,Springfield,IL,USA,16133,PhD,Finance,Financial Analyst,2021-12-17,4.9,101000,2.1,True,EMP-VVIAA2
+CUST-00429,Wei,Martinez,Male,1979-10-19,46,wei.martinez@yahoo.com,(625) 940-4931,Boston,MA,USA,46002,Bachelor,HR,Recruiter,2005-11-17,21.0,87000,3.0,True,EMP-LWOZQ4
+CUST-00430,Kevin,Patel,Male,2004-01-23,22,kevin.patel@gmail.com,(941) 646-3708,New York,NY,USA,32307,High School,Support,Support Lead,2025-01-11,1.8,42000,3.9,True,EMP-AYB5BB
+CUST-00431,Jennifer,Rodriguez,Female,1961-08-10,65,jennifer.rodriguez@outlook.com,(329) 526-2424,Springfield,IL,USA,86563,Master,Sales,Account Executive,2020-09-02,6.2,67000,3.5,True,EMP-SIRRK1
+CUST-00432,Sarah,Williams,Female,1987-09-30,39,sarah.williams@outlook.com,(410) 911-1278,Los Angeles,CA,USA,19849,PhD,Sales,Sales Rep,2020-07-11,6.3,130500,2.5,True,EMP-QNRM31
+CUST-00433,Ashley,Chen,Female,1963-12-18,62,ashley.chen@example.com,(663) 835-8412,Boston,MA,USA,36610,Master,Engineering,Senior Engineer,2025-07-03,1.3,86500,1.8,True,EMP-Y8UDQD
+CUST-00434,Matthew,Smith,Male,1994-02-14,32,matthew.smith@example.com,(562) 641-3474,New York,NY,USA,29742,Bachelor,Marketing,Marketing Manager,2025-02-25,1.7,74000,3.3,True,EMP-JDX0PK
+CUST-00435,Susan,Patel,Female,1974-06-23,52,susan.patel8677@mail.com,(317) 254-0584,Springfield,IL,USA,85396,Bachelor,Engineering,Software Engineer,2020-04-12,6.5,85500,3.3,True,EMP-5ZOOH3
+CUST-00436,Isabella,Miller,Female,1992-03-26,34,isabella.miller@yahoo.com,(917) 837-7811,Austin,TX,USA,50019,Master,Sales,Sales Manager,2026-05-17,0.5,70000,2.5,True,EMP-CG6FAR
+CUST-00437,Mary,Garcia,Female,1961-10-05,64,mary.garcia1262@yahoo.com,(683) 312-0740,Atlanta,GA,USA,12279,Bachelor,Sales,Account Executive,2026-09-30,0.1,85500,4.0,True,EMP-GFDK0Q
+CUST-00438,Aisha,Rodriguez,Female,1989-04-05,37,aisha.rodriguez@example.com,(879) 810-7935,Denver,CO,USA,24779,Bachelor,Engineering,Engineering Manager,2017-11-28,8.9,121500,3.7,True,EMP-94XFRI
+CUST-00439,Sophia,Miller,Female,1993-04-12,33,sophia.miller@gmail.com,(660) 739-2866,Austin,TX,USA,44774,Master,Engineering,DevOps Engineer,2020-02-22,6.7,188500,4.2,True,EMP-P9LBSM
+CUST-00440,Arjun,Rossi,Male,1969-03-27,57,arjun.rossi@example.com,(897) 353-8571,Phoenix,AZ,USA,47982,Bachelor,Engineering,Senior Engineer,2026-09-29,0.1,71000,2.7,True,EMP-2ABKVB
+CUST-00441,Mary,Anderson,Female,1962-10-01,63,mary.anderson@outlook.com,(881) 987-9187,New York,NY,USA,30321,PhD,Sales,Sales Manager,2008-02-03,18.7,97000,2.6,False,EMP-HVCHRM
+CUST-00442,Mei,Wilson,Female,1989-03-04,37,mei.wilson@gmail.com,(792) 342-3268,Atlanta,GA,USA,42770,High School,Sales,Sales Manager,2013-11-20,12.9,117000,2.4,True,EMP-K7QG24
+CUST-00443,William,Moore,Male,1961-03-10,65,william.moore@example.com,(620) 672-0453,Boston,MA,USA,83257,High School,Finance,Financial Analyst,2020-12-25,5.8,95500,1.9,True,EMP-62UNW6
+CUST-00444,Patricia,Singh,Female,1997-04-25,29,patricia.singh@example.com,(255) 286-0896,Austin,TX,USA,45412,Master,Engineering,Software Engineer,2023-03-11,3.6,170500,2.8,True,EMP-KRLC0Y
+CUST-00445,Daniel,Moore,Male,1970-06-11,56,daniel.moore@yahoo.com,(518) 936-0105,Chicago,IL,USA,73564,Bachelor,Data,Data Scientist,2025-01-28,1.8,140500,2.1,True,EMP-VEDHR3
+CUST-00446,Priya,Johnson,Female,1986-04-26,40,priya.johnson@gmail.com,(827) 897-7194,Denver,CO,USA,96266,Bachelor,Data,ML Engineer,2025-05-25,1.4,92000,2.2,True,EMP-F0ISZH
+CUST-00447,Ashley,Martinez,Female,1968-06-09,58,ashley.martinez@gmail.com,(626) 635-2427,Seattle,WA,USA,13666,Bachelor,Finance,Accountant,2011-03-05,15.7,114500,3.4,True,EMP-KX6WB6
+CUST-00448,Wei,Khan,Male,1987-10-05,38,wei.khan@example.com,(923) 737-6399,Chicago,IL,USA,77245,High School,Sales,Sales Manager,2019-03-25,7.6,135500,2.2,True,EMP-UQ4F2X
+CUST-00449,Jennifer,Tanaka,Female,1981-05-30,45,jennifer.tanaka@example.com,(738) 465-2120,Atlanta,GA,USA,52477,Bachelor,Finance,Finance Manager,2009-01-17,17.8,135000,2.9,True,EMP-OB4FDD
+CUST-00450,Olivia,Singh,Female,1989-11-23,36,olivia.singh@yahoo.com,(826) 456-1875,Chicago,IL,USA,14904,Master,Finance,Accountant,2018-08-13,8.2,139000,3.1,True,EMP-WBGDQE
+CUST-00451,Daniel,Rodriguez,Male,1977-09-13,49,daniel.rodriguez@example.com,(396) 288-9537,Phoenix,AZ,USA,13177,Bachelor,Data,Data Analyst,2009-07-07,17.3,186000,2.4,True,EMP-6MOTCG
+CUST-00452,Jessica,Tanaka,Female,1969-05-31,57,jessica.tanaka@yahoo.com,(268) 649-7004,Boston,MA,USA,91981,Bachelor,Sales,Sales Rep,2012-12-30,13.8,124500,3.4,True,EMP-SDRBTA
+CUST-00453,Emily,Wilson,Female,2000-12-20,25,emily.wilson@outlook.com,(608) 833-0928,Phoenix,AZ,USA,81557,Bachelor,Engineering,Software Engineer,2023-09-16,3.1,174000,3.4,False,EMP-9XBPH5
+CUST-00454,William,Miller,Male,1984-09-04,42,william.miller@mail.com,(919) 983-0579,New York,NY,USA,55330,PhD,Data,ML Engineer,2016-01-27,10.8,88500,3.4,True,EMP-CT8JBB
+CUST-00455,Kevin,Anderson,Male,1986-01-25,40,kevin.anderson@example.com,(588) 898-0296,New York,NY,USA,82416,Bachelor,Engineering,QA Engineer,2007-08-04,19.2,201500,3.8,True,EMP-PPEP69
+CUST-00456,Sophia,Miller,Female,1977-10-30,48,sophia.miller@outlook.com,(749) 781-0750,Houston,TX,USA,11952,Master,Data,Data Scientist,2007-01-24,19.8,165000,3.9,True,EMP-EGBMXI
+CUST-00457,Elizabeth,Patel,Female,1975-09-02,51,elizabeth.patel@example.com,(922) 952-5848,Los Angeles,CA,USA,38873,Bachelor,Finance,Financial Analyst,2006-09-22,20.1,80000,4.4,True,EMP-KXSJZS
+CUST-00458,Kevin,Anderson,Male,1974-02-21,52,kevin.anderson@mail.com,(959) 766-3453,Los Angeles,CA,USA,26088,Bachelor,Data,Data Scientist,2025-06-16,1.4,81500,1.6,True,EMP-P18A4J
+CUST-00459,Ashley,Tanaka,Female,2002-02-20,24,ashley.tanaka@gmail.com,(429) 410-6214,Atlanta,GA,USA,34173,Bachelor,Marketing,Marketing Specialist,2025-10-11,1.1,47500,3.6,True,EMP-1761M3
+CUST-00460,Elena,Miller,Female,1984-08-14,42,elena.miller@gmail.com,(311) 766-6358,Springfield,IL,USA,98862,Bachelor,Support,Support Lead,2014-08-04,12.2,82500,3.1,True,EMP-1J8Q9I
+CUST-00461,Anthony,Rossi,Male,2000-02-05,26,anthony.rossi@outlook.com,(475) 875-4104,Boston,MA,USA,95594,Master,Sales,Sales Manager,2024-10-14,2.0,97500,1.4,True,EMP-X44PAA
+CUST-00462,Kevin,Taylor,Male,1992-04-27,34,kevin.taylor@mail.com,(265) 651-2945,New York,NY,USA,43817,Master,HR,Recruiter,2014-10-14,12.0,78000,2.6,True,EMP-IG5XIX
+CUST-00463,Omar,Clark,Male,1968-03-11,58,omar.clark@example.com,(463) 216-5789,New York,NY,USA,80836,Master,HR,HR Manager,2021-02-02,5.7,66500,2.5,True,EMP-SECHU3
+CUST-00464,Jennifer,Kim,Female,1986-12-13,39,jennifer.kim@example.com,(867) 583-7711,New York,NY,USA,48543,Bachelor,Sales,Sales Rep,2020-08-12,6.2,126000,2.9,True,EMP-FVDHLZ
+CUST-00465,Jessica,Wilson,Female,2003-09-02,23,jessica.wilson@mail.com,(429) 778-8249,Miami,FL,USA,85292,Bachelor,Data,ML Engineer,2026-02-19,0.7,147000,3.3,True,EMP-52VXSL
+CUST-00466,Hiroshi,Martinez,Male,1984-02-02,42,hiroshi.martinez@yahoo.com,(655) 950-6716,Seattle,WA,USA,57432,High School,Data,Data Analyst,2015-03-24,11.6,121000,4.3,True,EMP-VQPU3E
+CUST-00467,Arjun,Nguyen,Male,1962-12-10,63,arjun.nguyen@mail.com,(631) 717-2431,Atlanta,GA,USA,85499,Bachelor,Sales,Sales Rep,2022-11-07,4.0,75000,4.2,True,EMP-AEJT70
+CUST-00468,John,Tanaka,Male,2004-09-18,22,john.tanaka@example.com,(632) 562-2088,Chicago,IL,USA,62732,Bachelor,Engineering,Senior Engineer,2025-05-16,1.5,130500,3.7,True,EMP-66VW9B
+CUST-00469,Fatima,Anderson,Female,1978-02-26,48,fatima.anderson@example.com,(721) 285-2494,Denver,CO,USA,11020,Bachelor,Finance,Financial Analyst,2008-01-08,18.8,152500,3.6,True,EMP-LG0K1I
+CUST-00470,Olivia,Johnson,Female,1972-06-25,54,olivia.johnson@mail.com,(975) 382-2346,Atlanta,GA,USA,15496,Master,HR,HR Manager,2023-12-07,2.9,111500,4.2,True,EMP-PK5LMF
+CUST-00471,Emily,Taylor,Female,1990-12-26,35,emily.taylor@example.com,(344) 298-3388,Phoenix,AZ,USA,82373,Master,Sales,Sales Rep,2024-08-05,2.2,114000,1.5,False,EMP-8T2A3A
+CUST-00472,Joshua,Lee,Male,1977-06-24,49,joshua.lee@example.com,(322) 655-7082,Chicago,IL,USA,74651,Bachelor,Support,Support Agent,2015-03-07,11.6,57500,4.8,True,EMP-EMC20L
+CUST-00473,Emily,Thomas,Female,1961-11-07,64,emily.thomas@mail.com,(922) 733-5202,Miami,FL,USA,34955,Master,Finance,Finance Manager,2012-01-23,14.8,169500,4.0,True,EMP-8WIV5H
+CUST-00474,Anthony,Taylor,Male,1974-01-04,52,anthony.taylor@yahoo.com,(728) 940-3509,Miami,FL,USA,10419,Bachelor,Marketing,Marketing Manager,2011-05-05,15.5,71500,3.4,True,EMP-GPJNVW
+CUST-00475,Yuki,Nguyen,Female,1986-01-27,40,yuki.nguyen@yahoo.com,(756) 692-4840,Phoenix,AZ,USA,22652,Associate,Finance,Financial Analyst,2017-11-17,9.0,114000,3.0,True,EMP-IPG8XM
+CUST-00476,Elizabeth,Singh,Female,1974-08-04,52,elizabeth.singh@example.com,(618) 262-9212,Springfield,IL,USA,52361,Bachelor,Finance,Financial Analyst,2010-04-08,16.6,74500,3.0,True,EMP-PJBRHW
+CUST-00477,Joshua,Thomas,Male,1991-07-21,35,joshua.thomas@example.com,(825) 537-2117,Chicago,IL,USA,89293,Bachelor,HR,HR Manager,2016-08-16,10.2,115000,1.5,True,EMP-2LM1CB
+CUST-00478,Kevin,Jackson,Male,1995-07-02,31,kevin.jackson@yahoo.com,(539) 623-3532,Springfield,IL,USA,82476,Master,Support,Support Agent,2024-01-19,2.8,46500,1.6,True,EMP-7DORFK
+CUST-00479,Matthew,Johnson,Male,1998-04-12,28,matthew.johnson@outlook.com,(278) 275-8265,Austin,TX,USA,64444,High School,Marketing,Content Writer,2020-06-21,6.4,120000,2.0,True,EMP-O342P0
+CUST-00480,Emily,Thomas,Female,1999-02-13,27,emily.thomas@yahoo.com,(616) 774-4563,Austin,TX,USA,73353,Bachelor,HR,HR Manager,2025-04-14,1.5,71500,3.3,True,EMP-ARONTD
+CUST-00481,Hiroshi,Smith,Male,1991-05-17,35,hiroshi.smith@example.com,(845) 285-1562,Seattle,WA,USA,83516,Associate,Marketing,Marketing Manager,2024-08-18,2.2,55500,3.4,True,EMP-O4S41C
+CUST-00482,Emily,Anderson,Female,1983-12-17,42,emily.anderson@outlook.com,(906) 414-9214,New York,NY,USA,74058,Bachelor,Sales,Account Executive,2020-06-15,6.4,105000,4.5,True,EMP-QRT007
+CUST-00483,Jennifer,Wilson,Female,2004-12-22,21,jennifer.wilson@yahoo.com,(239) 634-8113,Boston,MA,USA,32376,Bachelor,Finance,Finance Manager,2025-05-05,1.5,71000,3.2,True,EMP-TOKPK7
+CUST-00484,Yuki,Hernandez,Female,1982-07-16,44,yuki.hernandez@mail.com,(931) 580-8509,Austin,TX,USA,89235,Bachelor,Data,ML Engineer,2008-03-05,18.7,124000,2.5,True,EMP-097FZR
+CUST-00485,Mei,Garcia,Female,2005-03-09,21,mei.garcia7709@gmail.com,(262) 839-7679,Miami,FL,USA,87916,Associate,Data,Data Engineer,2026-04-13,0.5,139500,3.5,False,EMP-MAGK6P
+CUST-00486,Sophia,Patel,Female,1989-07-15,37,sophia.patel@example.com,(421) 486-2921,Boston,MA,USA,44463,Bachelor,Finance,Accountant,2024-10-15,2.0,75000,3.9,True,EMP-1L1VJ3
+CUST-00487,Jessica,Garcia,Female,1991-01-19,35,jessica.garcia@gmail.com,(531) 279-0855,Los Angeles,CA,USA,27953,Bachelor,Support,Support Lead,2025-10-16,1.0,41500,3.1,True,EMP-K1IO1Z
+CUST-00488,Ashley,Tanaka,Female,1985-06-29,41,ashley.tanaka@mail.com,(484) 928-2341,Los Angeles,CA,USA,67310,Bachelor,HR,Recruiter,2024-11-21,1.9,61000,3.6,True,EMP-E6XG54
+CUST-00489,Mei,Miller,Female,1970-01-06,56,mei.miller@mail.com,(569) 738-3193,Springfield,IL,USA,10735,Bachelor,Sales,Account Executive,2009-01-06,17.8,161500,2.0,True,EMP-J7VBJR
+CUST-00490,Anthony,Rodriguez,Male,1968-10-16,57,anthony.rodriguez@gmail.com,(863) 968-8938,Miami,FL,USA,23616,High School,Marketing,Marketing Specialist,2018-08-18,8.2,107500,3.5,True,EMP-ZG4C4E
+CUST-00491,Patricia,Hernandez,Female,1971-02-20,55,patricia.hernandez@gmail.com,(524) 926-2772,Houston,TX,USA,86919,Master,Finance,Financial Analyst,2018-10-09,8.1,136500,3.3,False,EMP-O4YC3S
+CUST-00492,Jennifer,Garcia,Female,2003-02-19,23,jennifer.garcia@example.com,(203) 518-4485,Atlanta,GA,USA,83473,Bachelor,Data,Data Engineer,2026-04-18,0.5,84000,3.2,True,EMP-D7D7GD
+CUST-00493,Elena,Kim,Female,1994-10-06,31,elena.kim@gmail.com,(515) 897-3130,Houston,TX,USA,27397,Bachelor,Finance,Financial Analyst,2023-05-27,3.4,100500,3.7,True,EMP-FLIG5G
+CUST-00494,Emily,Chen,Female,1988-11-17,37,emily.chen@example.com,(846) 903-2793,Denver,CO,USA,14814,Master,Sales,Sales Manager,2021-12-24,4.8,83500,3.0,True,EMP-HZM32H
+CUST-00495,Jennifer,Moore,Female,1989-01-20,37,jennifer.moore@yahoo.com,(686) 343-7655,Denver,CO,USA,86915,Bachelor,Sales,Sales Manager,2010-09-15,16.1,160500,2.9,True,EMP-BZW5AP
+CUST-00496,Olivia,Kim,Female,1994-04-02,32,olivia.kim@gmail.com,(831) 667-9725,Phoenix,AZ,USA,85492,Bachelor,Data,ML Engineer,2025-06-21,1.4,125500,3.2,True,EMP-0VROB7
+CUST-00497,Omar,Brown,Male,1978-02-15,48,omar.brown@example.com,(811) 914-8586,Atlanta,GA,USA,36012,PhD,Marketing,Content Writer,2018-04-21,8.5,55000,2.1,True,EMP-88L12Q
+CUST-00498,Wei,Smith,Male,1992-12-28,33,wei.smith@yahoo.com,(941) 450-2525,Phoenix,AZ,USA,99746,Bachelor,Sales,Account Executive,2014-10-21,12.0,75500,1.2,True,EMP-DTOHRN
+CUST-00499,Sarah,Singh,Female,1980-12-05,45,sarah.singh@gmail.com,(890) 947-6956,Seattle,WA,USA,88241,Bachelor,Support,Support Agent,2025-12-23,0.9,41000,2.9,True,EMP-8A5GIN
+CUST-00500,Mateo,Patel,Male,2001-08-27,25,mateo.patel@example.com,(547) 593-2947,Houston,TX,USA,65798,Associate,Data,Data Engineer,2024-10-20,2.0,88000,3.0,True,EMP-B8PFY4
+CUST-00501,Jennifer,Lopez,Female,1964-04-25,62,jennifer.lopez@gmail.com,(211) 697-6581,New York,NY,USA,65372,Master,Data,Data Engineer,2012-02-27,14.7,101500,3.1,True,EMP-E36S2Z
+CUST-00502,Linda,Rossi,Female,1978-06-30,48,linda.rossi@yahoo.com,(924) 804-4224,Springfield,IL,USA,35901,Bachelor,Support,Support Lead,2020-02-19,6.7,43500,3.1,True,EMP-B5QBVN
+CUST-00503,Olivia,Nguyen,Female,2004-07-04,22,olivia.nguyen@outlook.com,(851) 236-9761,Phoenix,AZ,USA,24638,Bachelor,Data,Data Analyst,2025-10-28,1.0,104500,3.3,True,EMP-GTEFR6
+CUST-00504,Fatima,Chen,Female,1990-06-26,36,fatima.chen@mail.com,(941) 853-1656,Atlanta,GA,USA,60058,Bachelor,Marketing,Marketing Specialist,2011-11-29,14.9,66000,2.8,True,EMP-KOG0Z0
+CUST-00505,Arjun,Brown,Male,1969-02-11,57,arjun.brown@yahoo.com,(250) 583-9393,Phoenix,AZ,USA,71986,Associate,HR,Recruiter,2016-07-13,10.3,96500,2.7,True,EMP-GSBOGK
+CUST-00506,Arjun,Miller,Male,1979-09-02,47,arjun.miller@gmail.com,(299) 426-3683,Chicago,IL,USA,12368,Master,Sales,Sales Rep,2010-12-28,15.8,109500,1.8,True,EMP-Z3VWLO
+CUST-00507,Ryan,Hernandez,Male,1983-05-16,43,ryan.hernandez@outlook.com,(889) 599-4189,Chicago,IL,USA,62813,High School,Marketing,Marketing Specialist,2024-02-29,2.7,106000,3.5,True,EMP-MH9NKL
+CUST-00508,Mary,Jones,Female,1967-12-25,58,mary.jones@mail.com,(490) 769-8040,Atlanta,GA,USA,40765,Bachelor,Sales,Sales Manager,2017-09-02,9.2,96500,2.1,True,EMP-4DH9UG
+CUST-00509,Brian,Jackson,Male,1983-01-20,43,brian.jackson@example.com,(903) 848-5206,Springfield,IL,USA,75838,Bachelor,HR,Recruiter,2011-04-04,15.6,85500,2.5,True,EMP-1K7F5O
+CUST-00510,Luca,Tanaka,Male,1976-08-31,50,luca.tanaka@outlook.com,(628) 620-3094,Chicago,IL,USA,93416,High School,Finance,Accountant,2025-05-08,1.5,65000,2.2,True,EMP-9V08LI
+CUST-00511,Jennifer,Lopez,Female,1970-06-19,56,jennifer.lopez9853@example.com,(379) 683-3273,Houston,TX,USA,52300,High School,Support,Support Agent,2025-06-25,1.3,42500,4.2,True,EMP-QIV929
+CUST-00512,Mateo,Tanaka,Male,1995-02-03,31,mateo.tanaka@outlook.com,(616) 732-7703,Denver,CO,USA,60504,High School,Finance,Financial Analyst,2026-10-17,0.0,61000,4.5,False,EMP-TZV9ZP
+CUST-00513,Joshua,Rossi,Male,1980-10-01,46,joshua.rossi654@outlook.com,(468) 976-9499,Boston,MA,USA,24651,Master,Finance,Financial Analyst,2019-07-28,7.3,106000,3.0,True,EMP-62HDXC
+CUST-00514,Sarah,Singh,Female,1984-02-29,42,sarah.singh@outlook.com,(808) 236-2294,Miami,FL,USA,29401,Bachelor,Marketing,Marketing Specialist,2012-06-01,14.4,134000,2.5,True,EMP-NK8FWR
+CUST-00515,Ashley,Jones,Female,1996-08-07,30,ashley.jones@yahoo.com,(797) 510-2430,Phoenix,AZ,USA,86576,High School,Support,Support Lead,2021-04-23,5.5,50500,3.7,True,EMP-9OWGMF
+CUST-00516,Yuki,Lopez,Female,1974-08-28,52,yuki.lopez@example.com,(884) 266-5609,Chicago,IL,USA,39468,Bachelor,Support,Support Agent,2016-10-12,10.0,65000,2.2,True,EMP-0EHRUW
+CUST-00517,Omar,Davis,Male,1982-09-06,44,omar.davis@yahoo.com,(766) 747-8810,New York,NY,USA,20413,PhD,Marketing,Marketing Specialist,2019-01-19,7.8,60500,3.1,True,EMP-I2G74I
+CUST-00518,Susan,Johnson,Female,1988-07-09,38,susan.johnson@mail.com,(335) 735-4960,Phoenix,AZ,USA,17977,Associate,Engineering,Senior Engineer,2025-09-01,1.2,93000,3.4,True,EMP-QT2LWH
+CUST-00519,Wei,Williams,Male,1992-11-21,33,wei.williams@example.com,(640) 314-7252,Boston,MA,USA,94230,Associate,HR,HR Manager,2017-10-28,9.0,99000,3.5,True,EMP-A1VRGS
+CUST-00520,Ashley,Rodriguez,Female,1990-03-24,36,ashley.rodriguez@mail.com,(974) 386-7988,Phoenix,AZ,USA,10854,Bachelor,Finance,Finance Manager,2023-08-03,3.2,104000,3.2,True,EMP-CPK7PW
+CUST-00521,Daniel,Singh,Male,1991-01-18,35,daniel.singh@gmail.com,(507) 824-3445,Phoenix,AZ,USA,84843,Bachelor,HR,Recruiter,2018-11-06,8.0,76500,2.3,True,EMP-24VF89
+CUST-00522,Emily,Davis,Female,1975-03-05,51,emily.davis@outlook.com,(660) 515-6968,Seattle,WA,USA,83831,Bachelor,Data,ML Engineer,2011-11-14,15.0,130000,1.2,False,EMP-BOXFQJ
+CUST-00523,Daniel,Nguyen,Male,1987-04-10,39,daniel.nguyen@outlook.com,(404) 420-8240,New York,NY,USA,67685,Master,Sales,Sales Rep,2017-08-03,9.2,133000,1.9,True,EMP-07V882
+CUST-00524,Isabella,Davis,Female,1967-07-28,59,isabella.davis@outlook.com,(648) 491-1819,Springfield,IL,USA,71845,High School,Engineering,Software Engineer,2007-04-11,19.6,99000,2.8,True,EMP-OFFKHD
+CUST-00525,Ryan,Lee,Male,1963-02-11,63,ryan.lee@mail.com,(269) 916-5143,Boston,MA,USA,57347,Master,HR,Recruiter,2023-05-02,3.5,68500,3.8,True,EMP-LINH8J
+CUST-00526,William,Brown,Male,1978-04-21,48,william.brown@example.com,(582) 216-9268,Denver,CO,USA,67305,PhD,Support,Support Lead,2006-01-29,20.8,88500,3.9,True,EMP-UW0U92
+CUST-00527,Omar,Clark,Male,1969-05-28,57,omar.clark@gmail.com,(483) 676-7393,Atlanta,GA,USA,29949,Bachelor,Finance,Accountant,2009-04-13,17.5,154500,2.3,True,EMP-Q2086O
+CUST-00528,Mary,Patel,Female,2003-10-05,22,mary.patel@example.com,(986) 534-8722,Houston,TX,USA,69998,Bachelor,Sales,Sales Rep,2026-05-24,0.4,58500,3.8,True,EMP-M55F1H
+CUST-00529,Michael,Smith,Male,1966-10-21,59,michael.smith@mail.com,(435) 873-3421,Chicago,IL,USA,36437,Bachelor,HR,Recruiter,2012-10-26,14.0,137000,4.8,True,EMP-71A57E
+CUST-00530,Mary,Thomas,Female,1980-10-26,45,mary.thomas@yahoo.com,(327) 295-2868,Denver,CO,USA,76414,Master,Marketing,Marketing Specialist,2013-12-15,12.9,75500,2.3,True,EMP-70M9OH
+CUST-00531,Omar,Lopez,Male,1989-06-18,37,omar.lopez@example.com,(302) 563-5904,Los Angeles,CA,USA,50629,Master,Marketing,Marketing Manager,2010-05-13,16.5,59000,4.4,True,EMP-IZX35A
+CUST-00532,Olivia,Johnson,Female,1989-12-30,36,olivia.johnson@yahoo.com,(239) 262-9768,Atlanta,GA,USA,37502,Master,Engineering,DevOps Engineer,2012-11-14,14.0,162500,2.9,True,EMP-FG7803
+CUST-00533,Kevin,Brown,Male,2004-06-11,22,kevin.brown@yahoo.com,(528) 229-0423,Houston,TX,USA,53461,High School,Sales,Account Executive,2026-02-18,0.7,99500,1.6,True,EMP-6BNVSF
+CUST-00534,Kevin,Davis,Male,1978-11-03,47,kevin.davis@gmail.com,(337) 817-0011,Los Angeles,CA,USA,50819,Bachelor,Marketing,SEO Analyst,2015-06-02,11.4,146000,2.1,True,EMP-NWZR04
+CUST-00535,William,Davis,Male,1996-12-13,29,william.davis@mail.com,(829) 307-4092,Houston,TX,USA,39651,Bachelor,Finance,Finance Manager,2017-12-03,8.9,139000,3.6,True,EMP-9YSU51
+CUST-00536,Ryan,Anderson,Male,1962-12-14,63,ryan.anderson@outlook.com,(847) 249-3242,Atlanta,GA,USA,33877,High School,Finance,Finance Manager,2025-12-18,0.9,129500,1.6,True,EMP-FLURMW
+CUST-00537,Fatima,Miller,Female,1966-02-12,60,fatima.miller@example.com,(545) 545-3052,Boston,MA,USA,43460,Bachelor,Marketing,Marketing Manager,2007-08-24,19.2,131000,3.8,True,EMP-D41J2P
+CUST-00538,Luca,Jones,Male,1991-05-23,35,luca.jones@gmail.com,(663) 646-9065,Los Angeles,CA,USA,20874,PhD,Engineering,Engineering Manager,2024-05-06,2.5,156000,2.4,True,EMP-5SFY1H
+CUST-00539,Yuki,Patel,Female,1969-06-29,57,yuki.patel@yahoo.com,(743) 370-6135,Boston,MA,USA,30807,High School,Engineering,Senior Engineer,2022-12-13,3.9,138500,3.5,True,EMP-I7ZT8P
+CUST-00540,Anthony,Johnson,Male,1987-04-18,39,anthony.johnson@example.com,(200) 276-4117,Boston,MA,USA,82844,Bachelor,Marketing,Content Writer,2018-09-08,8.1,93000,4.3,True,EMP-8COF31
+CUST-00541,Brian,Rossi,Male,1964-05-02,62,brian.rossi@yahoo.com,(482) 343-6577,Springfield,IL,USA,26183,Master,HR,HR Manager,2009-05-04,17.5,79500,4.4,True,EMP-PY1AEL
+CUST-00542,Mateo,Taylor,Male,1963-05-13,63,mateo.taylor@yahoo.com,(972) 937-5593,Phoenix,AZ,USA,45665,Master,Support,Support Agent,2007-10-20,19.0,73500,3.0,False,EMP-EQV5Y2
+CUST-00543,Sarah,Moore,Female,2000-08-04,26,sarah.moore@gmail.com,(918) 642-6908,Atlanta,GA,USA,17425,Bachelor,Support,Support Lead,2025-01-25,1.8,46000,4.0,True,EMP-6XLYJM
+CUST-00544,Michael,Chen,Male,1990-07-27,36,michael.chen@example.com,(925) 699-9186,Denver,CO,USA,89513,Master,Data,ML Engineer,2024-04-04,2.6,116000,3.5,True,EMP-YBD4XD
+CUST-00545,Michael,Singh,Male,1982-07-25,44,michael.singh@yahoo.com,(240) 555-7212,Austin,TX,USA,70390,Bachelor,Finance,Finance Manager,2025-04-09,1.6,109500,1.6,True,EMP-20P6HG
+CUST-00546,Linda,Martinez,Female,2004-05-21,22,linda.martinez@example.com,(248) 532-7507,Phoenix,AZ,USA,93205,Bachelor,Sales,Sales Rep,2025-12-19,0.9,76000,2.4,True,EMP-TLOM34
+CUST-00547,Ryan,Lopez,Male,1971-01-25,55,ryan.lopez@mail.com,(520) 836-8146,Seattle,WA,USA,93817,Associate,Support,Support Lead,2011-11-11,15.0,50500,2.4,True,EMP-RMPNFG
+CUST-00548,Michael,Miller,Male,1961-08-25,65,michael.miller5088@mail.com,(277) 403-1529,Boston,MA,USA,21867,Master,Sales,Sales Manager,2021-12-22,4.9,101500,3.0,True,EMP-ZTO7D8
+CUST-00549,Grace,Lee,Female,1985-01-24,41,grace.lee@gmail.com,(226) 706-3677,Denver,CO,USA,38701,Associate,Support,Support Agent,2006-12-01,19.9,58500,3.1,True,EMP-FK84RP
+CUST-00550,Arjun,Garcia,Male,1965-07-22,61,arjun.garcia9518@example.com,(469) 641-6065,Springfield,IL,USA,57777,Master,Finance,Accountant,2010-11-13,16.0,149500,2.8,True,EMP-8E49IT
+CUST-00551,Michael,Rossi,Male,1975-07-02,51,michael.rossi@mail.com,(918) 860-9077,Seattle,WA,USA,39355,Bachelor,Engineering,Engineering Manager,2023-02-09,3.7,173000,4.0,True,EMP-PVC9AQ
+CUST-00552,Kevin,Taylor,Male,2001-09-15,25,kevin.taylor@yahoo.com,(228) 930-9793,Seattle,WA,USA,74331,Bachelor,Engineering,Senior Engineer,2026-01-12,0.8,102000,4.7,True,EMP-QTYLU5
+CUST-00553,Elizabeth,Singh,Female,1962-07-28,64,elizabeth.singh@mail.com,(801) 322-1163,Seattle,WA,USA,90458,High School,Support,Support Lead,2005-02-25,21.7,96000,3.7,True,EMP-IV1GGX
+CUST-00554,Linda,Hernandez,Female,1999-04-25,27,linda.hernandez@gmail.com,(551) 387-1570,Atlanta,GA,USA,50789,Bachelor,Finance,Finance Manager,2024-05-05,2.5,129500,3.1,True,EMP-DJHMXC
+CUST-00555,Linda,Moore,Female,2004-08-06,22,linda.moore@outlook.com,(741) 212-0076,New York,NY,USA,52842,Bachelor,HR,HR Generalist,2025-03-02,1.7,92500,3.9,True,EMP-NCGWRT
+CUST-00556,Linda,Clark,Female,1967-04-10,59,linda.clark@yahoo.com,(719) 352-7292,Atlanta,GA,USA,13976,Bachelor,Data,Data Analyst,2024-12-29,1.8,115500,3.9,True,EMP-KMGS6R
+CUST-00557,Mateo,Hernandez,Male,1963-07-08,63,mateo.hernandez@example.com,(452) 574-2316,Springfield,IL,USA,41385,PhD,Support,Support Lead,2015-01-18,11.8,90000,2.4,True,EMP-M6736Z
+CUST-00558,Omar,Williams,Male,1972-07-15,54,omar.williams@outlook.com,(489) 528-2219,Atlanta,GA,USA,68707,Master,Finance,Financial Analyst,2016-12-06,9.9,119000,4.4,True,EMP-PCADUV
+CUST-00559,Isabella,Rossi,Female,1962-09-23,64,isabella.rossi@outlook.com,(801) 965-9359,New York,NY,USA,81144,Associate,HR,Recruiter,2023-08-24,3.2,50500,3.7,True,EMP-BKG8B3
+CUST-00560,Yuki,Moore,Female,1973-04-08,53,yuki.moore@yahoo.com,(426) 929-5247,Austin,TX,USA,19563,Master,Finance,Financial Analyst,2006-01-02,20.8,172000,2.4,True,EMP-A7HY7A
+CUST-00561,Ryan,Garcia,Male,1991-04-09,35,ryan.garcia@example.com,(632) 896-9347,Springfield,IL,USA,92076,Bachelor,Engineering,DevOps Engineer,2015-07-01,11.3,105000,3.0,True,EMP-3N4G2J
+CUST-00562,Brian,Johnson,Male,1997-09-05,29,brian.johnson@example.com,(700) 268-3004,Miami,FL,USA,80377,Bachelor,Data,Data Engineer,2018-10-16,8.0,153000,4.5,True,EMP-ZKK4J1
+CUST-00563,Jessica,Williams,Female,1974-01-11,52,jessica.williams@mail.com,(597) 388-1369,Chicago,IL,USA,18834,Associate,HR,HR Manager,2005-10-20,21.0,98000,2.9,True,EMP-P1XS91
+CUST-00564,Patricia,Lee,Female,1996-03-23,30,patricia.lee@gmail.com,(589) 356-4780,Phoenix,AZ,USA,76269,High School,Data,Data Scientist,2020-12-05,5.9,127000,3.5,True,EMP-ZAP4VK
+CUST-00565,William,Jackson,Male,2001-11-27,24,william.jackson@outlook.com,(941) 529-6068,Austin,TX,USA,15037,High School,Engineering,Software Engineer,2024-04-19,2.5,133500,3.6,True,EMP-ACNU41
+CUST-00566,Hiroshi,Jackson,Male,2004-08-28,22,hiroshi.jackson@gmail.com,(966) 443-8037,Denver,CO,USA,90295,Bachelor,HR,HR Manager,2026-10-23,0.0,70000,3.1,False,EMP-FTMFWG
+CUST-00567,Emily,Garcia,Female,2004-05-09,22,emily.garcia@outlook.com,(432) 611-2048,Phoenix,AZ,USA,92116,Bachelor,Data,ML Engineer,2025-02-13,1.7,117000,3.1,True,EMP-0PNNLO
+CUST-00568,Matthew,Miller,Male,1963-08-13,63,matthew.miller9313@yahoo.com,(514) 418-6436,Seattle,WA,USA,28524,Bachelor,Marketing,Marketing Manager,2017-04-18,9.5,130500,2.7,True,EMP-1WBHTF
+CUST-00569,Yuki,Anderson,Female,1976-10-13,49,yuki.anderson@yahoo.com,(896) 776-2553,Miami,FL,USA,94048,Bachelor,Data,Data Scientist,2013-08-28,13.2,157500,2.2,True,EMP-I01RV1
+CUST-00570,Michael,Rossi,Male,1999-10-11,26,michael.rossi@gmail.com,(565) 407-2467,New York,NY,USA,37919,Bachelor,Support,Support Agent,2020-08-04,6.2,54500,2.9,False,EMP-V3RZKD
+CUST-00571,William,Garcia,Male,1998-06-30,28,william.garcia@example.com,(487) 906-4086,Atlanta,GA,USA,24858,Bachelor,Marketing,Content Writer,2020-10-10,6.1,97500,4.3,True,EMP-B5RR1V
+CUST-00572,Fatima,Lee,Female,1994-05-18,32,fatima.lee@mail.com,(270) 381-2210,New York,NY,USA,91793,Bachelor,Marketing,Marketing Manager,2022-09-17,4.1,120500,4.3,True,EMP-78HWK2
+CUST-00573,Kevin,Patel,Male,2004-08-14,22,kevin.patel@example.com,(732) 224-8021,Atlanta,GA,USA,51755,Master,Marketing,Marketing Specialist,2025-06-23,1.4,74500,3.5,True,EMP-J9MJ9X
+CUST-00574,Ryan,Jackson,Male,2005-07-21,21,ryan.jackson2141@mail.com,(911) 888-4428,New York,NY,USA,59170,Bachelor,Sales,Sales Manager,2026-07-14,0.3,62500,4.1,True,EMP-OM7ZTR
+CUST-00575,Jennifer,Thomas,Female,1963-03-13,63,jennifer.thomas@gmail.com,(276) 381-6117,Boston,MA,USA,18514,Associate,Engineering,Senior Engineer,2005-07-08,21.3,207000,3.8,True,EMP-AA35WF
+CUST-00576,Olivia,Rossi,Female,1997-01-11,29,olivia.rossi1999@gmail.com,(902) 438-3444,Miami,FL,USA,16553,Master,Engineering,QA Engineer,2020-01-31,6.7,91000,2.8,True,EMP-RH9VGK
+CUST-00577,Wei,Garcia,Male,2004-11-10,21,wei.garcia@mail.com,(916) 326-1241,Chicago,IL,USA,34667,Associate,Data,Data Engineer,2025-09-27,1.1,82000,3.8,True,EMP-O4KOXH
+CUST-00578,Sophia,Khan,Female,1971-10-04,54,sophia.khan@yahoo.com,(705) 552-0989,Austin,TX,USA,91244,Master,Finance,Financial Analyst,2010-08-24,16.2,102500,1.9,True,EMP-ZA0DV6
+CUST-00579,Grace,Nguyen,Female,1969-02-12,57,grace.nguyen@gmail.com,(711) 507-8013,Miami,FL,USA,51087,Bachelor,Support,Support Agent,2012-02-27,14.7,68500,2.5,True,EMP-YO5L28
+CUST-00580,Fatima,Clark,Female,1976-12-18,49,fatima.clark@example.com,(524) 590-2447,Chicago,IL,USA,62352,Bachelor,Finance,Financial Analyst,2021-11-01,5.0,96500,3.9,True,EMP-GVGDOF
+CUST-00581,Jessica,Smith,Female,1979-12-21,46,jessica.smith@example.com,(821) 941-8177,Phoenix,AZ,USA,66735,Bachelor,Support,Support Agent,2026-06-04,0.4,69500,3.2,True,EMP-MD8ZVF
+CUST-00582,Jessica,Anderson,Female,2005-03-07,21,jessica.anderson@example.com,(324) 813-2120,Austin,TX,USA,79420,Bachelor,Data,Data Engineer,2026-06-23,0.4,132000,3.9,True,EMP-N8CQPH
+CUST-00583,Sarah,Clark,Female,1965-06-01,61,sarah.clark@outlook.com,(330) 529-9376,Phoenix,AZ,USA,40005,Master,HR,HR Manager,2012-08-23,14.2,106000,2.5,True,EMP-RQASD1
+CUST-00584,Jennifer,Moore,Female,1976-08-04,50,jennifer.moore@example.com,(482) 928-2344,Miami,FL,USA,57681,Master,Sales,Sales Rep,2006-07-03,20.3,108000,3.2,True,EMP-AMWU28
+CUST-00585,Olivia,Patel,Female,1993-08-27,33,olivia.patel@mail.com,(736) 716-4627,Houston,TX,USA,42535,Master,HR,Recruiter,2016-09-13,10.1,77000,3.7,True,EMP-KHKBXP
+CUST-00586,Fatima,Singh,Female,1969-12-20,56,fatima.singh7319@example.com,(402) 923-9937,Atlanta,GA,USA,69419,Bachelor,Marketing,Content Writer,2022-01-05,4.8,75000,2.8,True,EMP-BLRF3N
+CUST-00587,Arjun,Kim,Male,1979-12-31,46,arjun.kim@outlook.com,(974) 782-0645,Seattle,WA,USA,77070,High School,HR,HR Manager,2023-10-03,3.1,100000,3.7,True,EMP-7FDFZD
+CUST-00588,Sophia,Hernandez,Female,1979-03-25,47,sophia.hernandez@gmail.com,(605) 911-2539,Los Angeles,CA,USA,81840,Master,Marketing,Content Writer,2013-12-26,12.8,108000,3.1,True,EMP-6JIXUB
+CUST-00589,Carlos,Johnson,Male,1991-01-28,35,carlos.johnson@gmail.com,(886) 605-0315,Chicago,IL,USA,76879,Master,Support,Support Lead,2015-02-01,11.7,68000,1.5,True,EMP-OCHBIR
+CUST-00590,Jennifer,Lee,Female,1972-12-24,53,jennifer.lee@outlook.com,(488) 472-9113,Springfield,IL,USA,59060,Bachelor,Data,Data Scientist,2008-06-01,18.4,157500,4.0,True,EMP-JH6OXQ
+CUST-00591,Grace,Kim,Female,1980-01-13,46,grace.kim@mail.com,(410) 404-9342,Chicago,IL,USA,49139,Master,Engineering,Senior Engineer,2005-12-08,20.9,146500,4.2,True,EMP-MBWU5J
+CUST-00592,Joshua,Smith,Male,1994-03-20,32,joshua.smith@yahoo.com,(971) 369-8055,Houston,TX,USA,72937,Bachelor,Marketing,SEO Analyst,2023-09-19,3.1,105000,3.9,True,EMP-7CDABB
+CUST-00593,Anthony,Smith,Male,1977-04-14,49,anthony.smith@outlook.com,(395) 633-6108,Miami,FL,USA,19974,Bachelor,HR,HR Manager,2026-07-24,0.3,55500,1.5,True,EMP-6KJ752
+CUST-00594,Michael,Kim,Male,1974-12-29,51,michael.kim@gmail.com,(911) 770-4475,New York,NY,USA,45398,High School,Engineering,Engineering Manager,2006-12-07,19.9,194500,3.2,True,EMP-FCYBR3
+CUST-00595,Susan,Smith,Female,2003-09-02,23,susan.smith@mail.com,(473) 224-4455,Los Angeles,CA,USA,34650,Associate,Support,Support Lead,2025-07-29,1.3,65000,3.9,False,EMP-BU4UZ2
+CUST-00596,Joshua,Lopez,Male,1967-04-07,59,joshua.lopez@gmail.com,(943) 764-8859,Denver,CO,USA,29096,Bachelor,Support,Support Lead,2015-08-07,11.2,69500,3.0,True,EMP-N91FY6
+CUST-00597,Sophia,Anderson,Female,1967-02-07,59,sophia.anderson@gmail.com,(896) 368-0700,Chicago,IL,USA,55017,Bachelor,Sales,Sales Manager,2025-09-28,1.1,77000,2.2,True,EMP-W04U92
+CUST-00598,Jennifer,Tanaka,Female,1970-10-22,55,jennifer.tanaka1834@mail.com,(368) 957-3715,Boston,MA,USA,99654,Master,Engineering,DevOps Engineer,2017-11-28,8.9,83000,3.2,True,EMP-4N7S3H
+CUST-00599,Mei,Chen,Female,1991-08-24,35,mei.chen@gmail.com,(200) 716-1766,Austin,TX,USA,74907,High School,Marketing,Marketing Specialist,2015-06-29,11.3,132000,3.6,True,EMP-1KHW8G
+CUST-00600,James,Martinez,Male,1992-01-04,34,james.martinez@gmail.com,(566) 877-6602,Austin,TX,USA,11385,Bachelor,Engineering,DevOps Engineer,2014-07-04,12.3,122000,2.9,True,EMP-KW7WVY
+CUST-00601,Carlos,Hernandez,Male,2004-02-08,22,carlos.hernandez@outlook.com,(801) 835-5751,Miami,FL,USA,99764,Bachelor,Marketing,Marketing Specialist,2026-01-28,0.8,103000,2.9,False,EMP-1DJDI3
+CUST-00602,Wei,Wilson,Male,1990-08-06,36,wei.wilson@outlook.com,(421) 828-6727,Denver,CO,USA,22445,High School,Engineering,Senior Engineer,2018-03-29,8.6,122000,3.4,True,EMP-BSCGJU
+CUST-00603,Anthony,Lee,Male,1961-06-22,65,anthony.lee@gmail.com,(815) 539-6991,Denver,CO,USA,24375,Bachelor,Data,Data Analyst,2025-03-28,1.6,116000,2.4,True,EMP-A1361B
+CUST-00604,Matthew,Hernandez,Male,1974-01-26,52,matthew.hernandez@mail.com,(342) 335-9915,Miami,FL,USA,83763,High School,Marketing,Marketing Manager,2023-02-18,3.7,105000,2.9,True,EMP-ASYWDR
+CUST-00605,Mei,Jackson,Female,2000-11-03,25,mei.jackson@example.com,(340) 323-0395,Los Angeles,CA,USA,31233,High School,Sales,Sales Rep,2025-01-04,1.8,88500,3.6,True,EMP-9NJC2G
+CUST-00606,Linda,Jackson,Female,1991-01-12,35,linda.jackson@gmail.com,(722) 212-1847,Chicago,IL,USA,78755,Bachelor,Sales,Sales Manager,2014-12-27,11.8,134000,3.3,True,EMP-3LIRHX
+CUST-00607,Isabella,Miller,Female,1994-04-17,32,isabella.miller@gmail.com,(978) 269-7826,Boston,MA,USA,77290,PhD,Finance,Accountant,2016-08-03,10.2,81000,3.4,True,EMP-14NIJC
+CUST-00608,Patricia,Clark,Female,1979-10-15,46,patricia.clark@outlook.com,(430) 966-2086,Houston,TX,USA,72831,Bachelor,Finance,Finance Manager,2021-04-18,5.5,149000,4.2,True,EMP-1FVK1P
+CUST-00609,Arjun,Williams,Male,2000-09-25,26,arjun.williams@mail.com,(549) 510-8770,Chicago,IL,USA,89337,Bachelor,Support,Support Lead,2021-06-13,5.4,55000,4.1,True,EMP-R14VUY
+CUST-00610,Carlos,Hernandez,Male,1961-06-08,65,carlos.hernandez@gmail.com,(477) 495-9739,Seattle,WA,USA,77307,Associate,HR,Recruiter,2016-08-06,10.2,102500,4.3,True,EMP-ML3SOJ
+CUST-00611,Jessica,Singh,Female,1993-09-17,33,jessica.singh2282@outlook.com,(732) 377-1920,Austin,TX,USA,48202,Bachelor,Sales,Sales Rep,2026-03-05,0.7,93000,3.4,True,EMP-M53NOZ
+CUST-00612,Aisha,Hernandez,Female,1989-08-07,37,aisha.hernandez@yahoo.com,(203) 268-3095,Los Angeles,CA,USA,43398,Master,Sales,Account Executive,2012-10-16,14.0,163000,4.4,True,EMP-3SPJ9W
+CUST-00613,Grace,Brown,Female,1978-04-17,48,grace.brown@example.com,(255) 242-1151,Seattle,WA,USA,46353,High School,Engineering,Engineering Manager,2008-02-19,18.7,117000,2.6,True,EMP-7YH6UA
+CUST-00614,Grace,Khan,Female,1987-05-09,39,grace.khan@outlook.com,(765) 562-3872,Houston,TX,USA,29884,High School,Data,Data Engineer,2012-12-10,13.9,166000,3.8,True,EMP-8NTAFU
+CUST-00615,Isabella,Brown,Female,1990-04-27,36,isabella.brown@gmail.com,(486) 309-0051,Houston,TX,USA,41296,Bachelor,Data,ML Engineer,2021-04-22,5.5,143500,3.4,True,EMP-NHDCZP
+CUST-00616,Grace,Singh,Female,2004-07-04,22,grace.singh@example.com,(221) 711-8315,Phoenix,AZ,USA,90692,Bachelor,Data,ML Engineer,2026-05-19,0.4,112000,3.5,True,EMP-ZVZN2H
+CUST-00617,Sophia,Wilson,Female,1990-02-26,36,sophia.wilson@outlook.com,(776) 449-1059,Houston,TX,USA,69276,Master,Marketing,Marketing Specialist,2024-06-19,2.4,116000,3.0,True,EMP-NR06DJ
+CUST-00618,Anthony,Lopez,Male,1974-12-20,51,anthony.lopez@outlook.com,(400) 237-6249,Chicago,IL,USA,57785,High School,Data,Data Scientist,2024-02-24,2.7,133500,1.9,False,EMP-DZBC7Q
+CUST-00619,Elizabeth,Clark,Female,1988-01-04,38,elizabeth.clark@example.com,(835) 253-9381,Houston,TX,USA,95802,Master,Marketing,Content Writer,2015-12-28,10.8,70000,2.7,True,EMP-PGA8VC
+CUST-00620,Anthony,Tanaka,Male,1970-12-03,55,anthony.tanaka@yahoo.com,(391) 451-0143,Denver,CO,USA,52661,Master,HR,Recruiter,2022-01-24,4.8,75500,3.3,True,EMP-SCEBFE
+CUST-00621,Elena,Rossi,Female,1976-02-03,50,elena.rossi@outlook.com,(972) 243-1098,Denver,CO,USA,59469,High School,Data,Data Engineer,2020-12-06,5.9,85500,3.1,True,EMP-YOTOS8
+CUST-00622,Grace,Lee,Female,1989-06-26,37,grace.lee@example.com,(275) 814-6021,Springfield,IL,USA,49117,High School,Data,ML Engineer,2021-04-14,5.5,172500,3.0,True,EMP-AR1H11
+CUST-00623,Elena,Rossi,Female,1964-03-03,62,elena.rossi@yahoo.com,(698) 608-7640,Springfield,IL,USA,70975,Bachelor,Data,Data Scientist,2008-03-11,18.6,86500,3.2,True,EMP-B867KB
+CUST-00624,Priya,Kim,Female,2001-08-03,25,priya.kim@example.com,(690) 269-5775,Phoenix,AZ,USA,53444,Associate,Sales,Sales Manager,2026-08-09,0.2,89000,2.3,False,EMP-FZJAHS
+CUST-00625,Wei,Wilson,Male,1966-03-17,60,wei.wilson7542@outlook.com,(976) 699-7100,Phoenix,AZ,USA,77367,High School,Sales,Sales Manager,2006-02-22,20.7,147000,3.7,True,EMP-C87NXP
+CUST-00626,Elizabeth,Jones,Female,2000-08-11,26,elizabeth.jones@yahoo.com,(336) 399-6854,Springfield,IL,USA,84618,Associate,Sales,Sales Rep,2025-06-04,1.4,65500,3.1,True,EMP-9H9FB0
+CUST-00627,Matthew,Thomas,Male,1962-06-10,64,matthew.thomas@yahoo.com,(581) 680-4228,Los Angeles,CA,USA,85634,Bachelor,Engineering,DevOps Engineer,2020-01-06,6.8,137000,3.5,True,EMP-FYZSKV
+CUST-00628,Matthew,Tanaka,Male,1978-06-05,48,matthew.tanaka@gmail.com,(614) 252-9694,Phoenix,AZ,USA,49366,Master,Sales,Account Executive,2026-01-30,0.7,89500,2.0,True,EMP-I25I67
+CUST-00629,Mei,Khan,Female,1979-07-18,47,mei.khan@example.com,(878) 267-5143,Seattle,WA,USA,17458,Bachelor,Sales,Account Executive,2006-10-27,20.0,85500,2.2,True,EMP-B7EI5R
+CUST-00630,Elena,Miller,Female,1978-01-29,48,elena.miller@example.com,(807) 585-1357,Phoenix,AZ,USA,23193,High School,Data,Data Analyst,2018-09-11,8.1,174000,2.2,True,EMP-672ZFB
+CUST-00631,Susan,Johnson,Female,1987-04-06,39,susan.johnson@yahoo.com,(369) 517-5409,Austin,TX,USA,23103,High School,Finance,Finance Manager,2026-07-17,0.3,115000,1.9,True,EMP-A7263R
+CUST-00632,Elena,Martinez,Female,1971-11-06,54,elena.martinez@mail.com,(858) 994-8435,Atlanta,GA,USA,22598,Bachelor,Sales,Sales Rep,2008-02-10,18.7,65500,3.6,True,EMP-4XZ3MS
+CUST-00633,Priya,Anderson,Female,1986-09-07,40,priya.anderson@yahoo.com,(260) 801-1928,Seattle,WA,USA,29356,High School,Data,ML Engineer,2012-05-25,14.4,146000,2.1,True,EMP-KLLIRO
+CUST-00634,Jessica,Taylor,Female,1981-12-20,44,jessica.taylor@gmail.com,(458) 598-3056,Springfield,IL,USA,75223,Bachelor,Data,ML Engineer,2012-09-27,14.1,92000,3.9,True,EMP-Q30ZX8
+CUST-00635,James,Clark,Male,1989-05-01,37,james.clark@yahoo.com,(818) 707-4552,Los Angeles,CA,USA,36510,Master,Marketing,Marketing Manager,2017-07-03,9.3,66500,1.6,True,EMP-MMWMD1
+CUST-00636,Daniel,Jones,Male,1962-09-03,64,daniel.jones@outlook.com,(804) 827-3222,Miami,FL,USA,67008,Master,Finance,Finance Manager,2016-04-29,10.5,94500,3.9,True,EMP-ZTT1BL
+CUST-00637,Elena,Kim,Female,1976-08-07,50,elena.kim7775@example.com,(507) 867-0634,Atlanta,GA,USA,40077,Bachelor,Data,Data Engineer,2025-09-14,1.1,100500,3.0,True,EMP-IH3IAB
+CUST-00638,Anthony,Jackson,Male,1973-08-24,53,anthony.jackson6829@gmail.com,(746) 877-9049,Phoenix,AZ,USA,47690,Master,Support,Support Agent,2018-06-19,8.4,72000,4.3,True,EMP-0GXAPL
+CUST-00639,Carlos,Smith,Male,1997-02-10,29,carlos.smith@gmail.com,(408) 946-2685,Chicago,IL,USA,57373,High School,Finance,Financial Analyst,2021-04-12,5.5,124500,2.8,True,EMP-TC954A
+CUST-00640,Robert,Singh,Male,1993-11-28,32,robert.singh@outlook.com,(723) 325-7884,Denver,CO,USA,97555,Bachelor,Sales,Sales Rep,2016-09-21,10.1,105000,2.9,True,EMP-G3TJA6
+CUST-00641,Robert,Garcia,Male,1983-12-22,42,robert.garcia@yahoo.com,(846) 559-0488,Boston,MA,USA,54588,Master,Support,Support Lead,2020-06-19,6.4,63500,2.0,True,EMP-3HGW10
+CUST-00642,Matthew,Tanaka,Male,1970-05-23,56,matthew.tanaka@example.com,(392) 203-9354,Springfield,IL,USA,56585,High School,Sales,Sales Manager,2019-05-31,7.4,87500,4.4,True,EMP-O485D4
+CUST-00643,Hiroshi,Jones,Male,1974-07-11,52,hiroshi.jones@example.com,(853) 524-4031,Boston,MA,USA,50902,Bachelor,Finance,Financial Analyst,2022-01-30,4.7,92000,2.7,True,EMP-BK8EJN
+CUST-00644,Anthony,Hernandez,Male,2001-06-29,25,anthony.hernandez@example.com,(491) 535-3027,Seattle,WA,USA,22199,Master,Engineering,Engineering Manager,2024-10-17,2.0,108000,3.5,True,EMP-NDJM5G
+CUST-00645,Hiroshi,Rossi,Male,1990-10-26,35,hiroshi.rossi@gmail.com,(929) 762-9459,Phoenix,AZ,USA,81573,Bachelor,Sales,Sales Manager,2023-05-05,3.5,117000,3.6,True,EMP-O7L5DL
+CUST-00646,William,Williams,Male,1967-10-03,58,william.williams@gmail.com,(470) 362-9680,Los Angeles,CA,USA,83556,Master,Marketing,Content Writer,2005-12-15,20.9,104000,1.9,True,EMP-XU5WAH
+CUST-00647,David,Khan,Male,1990-04-27,36,david.khan@mail.com,(392) 704-8971,New York,NY,USA,41183,High School,Finance,Accountant,2022-09-24,4.1,140000,3.5,True,EMP-3KE9OU
+CUST-00648,Sarah,Patel,Female,1979-02-08,47,sarah.patel@gmail.com,(964) 459-2100,Austin,TX,USA,85578,Associate,HR,HR Manager,2016-02-29,10.7,54500,3.4,False,EMP-IZIIBC
+CUST-00649,Elizabeth,Miller,Female,2005-08-30,21,elizabeth.miller1846@mail.com,(411) 657-2365,Houston,TX,USA,29265,Master,Finance,Accountant,2026-02-26,0.7,127000,4.1,True,EMP-OXYPHW
+CUST-00650,Brian,Lopez,Male,1963-09-05,63,brian.lopez@yahoo.com,(643) 674-2598,Houston,TX,USA,18048,Master,Marketing,Marketing Specialist,2015-12-20,10.9,141500,3.8,True,EMP-HDKKG1
+CUST-00651,Yuki,Williams,Female,1976-03-27,50,yuki.williams@mail.com,(688) 599-4417,Phoenix,AZ,USA,31031,Bachelor,Finance,Financial Analyst,2010-01-12,16.8,121000,4.2,True,EMP-IRH8S7
+CUST-00652,Anthony,Khan,Male,1972-02-08,54,anthony.khan@outlook.com,(613) 220-1031,Miami,FL,USA,84338,PhD,Engineering,Software Engineer,2011-02-05,15.7,214500,2.6,True,EMP-31YUW2
+CUST-00653,Carlos,Moore,Male,1995-10-11,30,carlos.moore@gmail.com,(692) 398-3069,Seattle,WA,USA,24216,Master,Support,Support Lead,2023-09-25,3.1,70000,2.6,True,EMP-VWY8UM
+CUST-00654,Isabella,Patel,Female,1990-03-16,36,isabella.patel@yahoo.com,(704) 433-7058,New York,NY,USA,83719,High School,Support,Support Agent,2018-07-16,8.3,57500,2.0,False,EMP-I5HO9C
+CUST-00655,Elizabeth,Davis,Female,1992-04-07,34,elizabeth.davis@yahoo.com,(487) 858-9644,Los Angeles,CA,USA,68961,Master,Engineering,Software Engineer,2018-10-02,8.1,83000,2.8,True,EMP-E22TW1
+CUST-00656,Carlos,Chen,Male,1970-12-25,55,carlos.chen@outlook.com,(421) 621-5418,Austin,TX,USA,23119,High School,Support,Support Agent,2020-08-10,6.2,72000,4.3,True,EMP-PMMQZA
+CUST-00657,Hiroshi,Smith,Male,1995-01-28,31,hiroshi.smith3155@yahoo.com,(502) 671-1003,Miami,FL,USA,96725,Bachelor,Engineering,Engineering Manager,2024-03-19,2.6,94500,2.2,True,EMP-6HW5KY
+CUST-00658,Robert,Tanaka,Male,1975-04-12,51,robert.tanaka@yahoo.com,(630) 311-1389,New York,NY,USA,30648,Associate,Data,Data Scientist,2013-05-27,13.4,87000,3.0,True,EMP-ZFZZ5T
+CUST-00659,Fatima,Garcia,Female,1971-09-04,55,fatima.garcia@mail.com,(655) 485-5172,Atlanta,GA,USA,44108,Bachelor,Data,Data Analyst,2026-05-23,0.4,113000,2.4,True,EMP-1QDU2E
+CUST-00660,Matthew,Khan,Male,1998-07-14,28,matthew.khan@mail.com,(730) 384-8831,Denver,CO,USA,40382,Master,Marketing,Content Writer,2026-04-14,0.5,89500,4.3,True,EMP-V5ITMT
+CUST-00661,Emily,Hernandez,Female,1996-12-31,29,emily.hernandez@mail.com,(425) 915-1464,New York,NY,USA,77889,High School,Marketing,Marketing Manager,2022-07-03,4.3,118000,1.8,True,EMP-T0LFJ4
+CUST-00662,John,Singh,Male,2004-09-05,22,john.singh@gmail.com,(852) 799-1328,Miami,FL,USA,20830,Bachelor,Engineering,QA Engineer,2025-02-01,1.7,82000,4.5,True,EMP-2TN20V
+CUST-00663,Kevin,Hernandez,Male,1964-02-26,62,kevin.hernandez1887@mail.com,(790) 752-7811,Phoenix,AZ,USA,47641,Bachelor,Sales,Sales Rep,2008-07-28,18.3,68000,2.2,True,EMP-KWBNBP
+CUST-00664,John,Patel,Male,2005-09-04,21,john.patel@gmail.com,(728) 481-8684,Phoenix,AZ,USA,29655,Bachelor,Data,Data Analyst,2026-07-13,0.3,102000,2.5,True,EMP-JILXN3
+CUST-00665,Patricia,Jackson,Female,1965-05-29,61,patricia.jackson@gmail.com,(671) 832-5817,New York,NY,USA,12227,Master,Marketing,Content Writer,2009-08-31,17.2,82000,2.1,True,EMP-275JT6
+CUST-00666,Anthony,Kim,Male,1963-12-30,62,anthony.kim@outlook.com,(935) 982-3075,Boston,MA,USA,79248,Bachelor,Marketing,Marketing Manager,2016-03-07,10.6,134500,2.6,True,EMP-CZWKGU
+CUST-00667,Mei,Martinez,Female,2004-02-02,22,mei.martinez@yahoo.com,(419) 306-5072,Springfield,IL,USA,43010,High School,Support,Support Agent,2025-05-14,1.5,51000,4.0,True,EMP-9OM115
+CUST-00668,David,Wilson,Male,1962-04-07,64,david.wilson@yahoo.com,(946) 223-1386,Seattle,WA,USA,71581,Bachelor,HR,Recruiter,2020-04-28,6.5,64500,3.9,True,EMP-S8T6AI
+CUST-00669,Kevin,Davis,Male,1961-06-14,65,kevin.davis@mail.com,(676) 824-1008,Boston,MA,USA,98300,Bachelor,Data,Data Analyst,2023-08-17,3.2,179000,2.7,True,EMP-9KHH83
+CUST-00670,Omar,Rodriguez,Male,1985-09-28,41,omar.rodriguez@mail.com,(296) 928-9828,Los Angeles,CA,USA,69604,Bachelor,Marketing,Marketing Specialist,2022-05-04,4.5,67000,3.3,True,EMP-HVWHHO
+CUST-00671,Sarah,Johnson,Female,2002-11-09,23,sarah.johnson@example.com,(598) 297-7564,Los Angeles,CA,USA,75625,Master,Support,Support Agent,2026-06-07,0.4,66000,1.3,True,EMP-39BD2E
+CUST-00672,Mateo,Moore,Male,1990-09-18,36,mateo.moore@gmail.com,(810) 322-6807,Springfield,IL,USA,10402,Master,Sales,Sales Manager,2021-08-04,5.2,109500,2.5,True,EMP-2ECLCE
+CUST-00673,Linda,Jackson,Female,1991-01-27,35,linda.jackson@outlook.com,(617) 399-2795,Springfield,IL,USA,30667,Master,HR,HR Manager,2022-09-15,4.1,73000,3.5,True,EMP-IJMCJB
+CUST-00674,Elizabeth,Moore,Female,1978-10-22,47,elizabeth.moore@mail.com,(604) 638-7133,Seattle,WA,USA,16076,Bachelor,Finance,Accountant,2005-06-24,21.3,157500,2.1,True,EMP-2ABG9S
+CUST-00675,Kevin,Wilson,Male,1966-11-15,59,kevin.wilson@example.com,(417) 302-2875,New York,NY,USA,38652,Bachelor,Marketing,SEO Analyst,2008-06-15,18.4,125500,2.9,True,EMP-SGUR4P
+CUST-00676,Mateo,Miller,Male,1989-02-26,37,mateo.miller@mail.com,(740) 658-3179,Miami,FL,USA,54906,Bachelor,Engineering,QA Engineer,2012-08-06,14.2,124000,4.1,False,EMP-0TOHXW
+CUST-00677,John,Brown,Male,1977-09-19,49,john.brown@outlook.com,(794) 924-1062,Miami,FL,USA,47925,Bachelor,Engineering,Senior Engineer,2018-08-02,8.2,187000,4.4,True,EMP-QJ3OVU
+CUST-00678,Grace,Lee,Female,1964-08-05,62,grace.lee4857@mail.com,(291) 734-4842,Atlanta,GA,USA,29029,Bachelor,Finance,Financial Analyst,2021-05-15,5.5,124500,3.4,True,EMP-UFUK15
+CUST-00679,David,Miller,Male,1994-01-23,32,david.miller@gmail.com,(256) 617-0376,Phoenix,AZ,USA,83126,Bachelor,Support,Support Lead,2018-03-03,8.7,77500,3.5,True,EMP-P6XGHU
+CUST-00680,Omar,Patel,Male,1985-09-09,41,omar.patel@yahoo.com,(341) 873-9193,Austin,TX,USA,12293,Master,HR,Recruiter,2026-05-13,0.5,69000,4.0,False,EMP-85EFZV
+CUST-00681,Mary,Jackson,Female,1980-07-29,46,mary.jackson@yahoo.com,(763) 591-9386,Seattle,WA,USA,59584,Bachelor,HR,HR Manager,2020-03-05,6.7,62000,1.9,True,EMP-ARPYYF
+CUST-00682,Omar,Hernandez,Male,1983-12-01,42,omar.hernandez@mail.com,(801) 991-5091,Phoenix,AZ,USA,76719,Bachelor,Support,Support Agent,2009-04-23,17.5,86000,4.1,True,EMP-F1AYSV
+CUST-00683,Jennifer,Johnson,Female,1981-06-15,45,jennifer.johnson@gmail.com,(226) 249-1084,Houston,TX,USA,59177,Bachelor,Engineering,Engineering Manager,2006-10-28,20.0,186500,3.5,True,EMP-WC0BOG
+CUST-00684,Hiroshi,Thomas,Male,1964-12-13,61,hiroshi.thomas@example.com,(707) 651-7253,New York,NY,USA,88490,Bachelor,Finance,Accountant,2013-04-06,13.6,94000,1.8,False,EMP-501OEE
+CUST-00685,Luca,Rossi,Male,1974-08-17,52,luca.rossi@gmail.com,(816) 268-4317,Denver,CO,USA,12979,Bachelor,Marketing,SEO Analyst,2025-09-14,1.1,49500,1.8,True,EMP-HI78LZ
+CUST-00686,Daniel,Lopez,Male,1999-05-28,27,daniel.lopez@example.com,(368) 894-1665,Boston,MA,USA,20301,Bachelor,Engineering,Software Engineer,2025-03-16,1.6,73500,2.9,True,EMP-P39LQT
+CUST-00687,Priya,Brown,Female,1992-05-17,34,priya.brown@yahoo.com,(372) 792-5292,Los Angeles,CA,USA,16263,High School,Finance,Financial Analyst,2025-03-25,1.6,83000,2.7,True,EMP-3PKBQY
+CUST-00688,Brian,Taylor,Male,1998-12-12,27,brian.taylor@mail.com,(214) 365-1511,Denver,CO,USA,74431,Master,Finance,Finance Manager,2024-08-08,2.2,116500,3.3,True,EMP-WJ7PUM
+CUST-00689,Grace,Thomas,Female,1978-01-27,48,grace.thomas@yahoo.com,(526) 618-0477,Boston,MA,USA,54364,Associate,Data,ML Engineer,2024-08-30,2.2,80500,4.5,True,EMP-2VZPY9
+CUST-00690,Isabella,Chen,Female,1990-04-26,36,isabella.chen6598@example.com,(585) 753-2353,Boston,MA,USA,21056,Bachelor,Support,Support Agent,2014-04-15,12.5,87000,2.3,True,EMP-LF9YXA
+CUST-00691,Aisha,Thomas,Female,1968-12-16,57,aisha.thomas4341@example.com,(784) 342-5363,Miami,FL,USA,84431,Bachelor,Engineering,QA Engineer,2016-09-23,10.1,170500,3.8,False,EMP-UTYIWT
+CUST-00692,David,Jones,Male,1983-10-18,42,david.jones@gmail.com,(936) 812-4108,Atlanta,GA,USA,76500,PhD,Finance,Finance Manager,2021-05-14,5.5,82500,2.1,False,EMP-M0SWXK
+CUST-00693,Aisha,Moore,Female,2003-09-21,23,aisha.moore@example.com,(611) 658-6397,Austin,TX,USA,72600,Associate,Marketing,Content Writer,2024-07-06,2.3,75000,1.5,True,EMP-J28CW9
+CUST-00694,Grace,Jackson,Female,1981-07-05,45,grace.jackson@example.com,(357) 332-5244,Chicago,IL,USA,77648,Bachelor,Support,Support Lead,2018-12-27,7.8,67000,4.8,True,EMP-XLSOGW
+CUST-00695,Kevin,Johnson,Male,2004-09-04,22,kevin.johnson@outlook.com,(782) 239-0501,Seattle,WA,USA,98212,High School,Support,Support Lead,2026-02-04,0.7,51000,4.2,True,EMP-04JGSQ
+CUST-00696,Jessica,Jones,Female,1966-02-28,60,jessica.jones@outlook.com,(789) 475-6412,Chicago,IL,USA,39123,Master,Finance,Accountant,2010-07-14,16.3,141500,3.3,False,EMP-UDOJY6
+CUST-00697,Luca,Singh,Male,1974-12-31,51,luca.singh@outlook.com,(426) 911-3641,Seattle,WA,USA,55000,Bachelor,Marketing,SEO Analyst,2008-10-05,18.1,153000,2.0,True,EMP-7DZNAX
+CUST-00698,Priya,Clark,Female,1984-10-09,41,priya.clark@mail.com,(429) 207-3181,Atlanta,GA,USA,50189,Bachelor,Sales,Sales Rep,2021-12-16,4.9,95000,4.1,False,EMP-3C36VF
+CUST-00699,Omar,Tanaka,Male,1968-01-29,58,omar.tanaka@outlook.com,(290) 533-4811,Phoenix,AZ,USA,69464,High School,Support,Support Lead,2005-11-05,21.0,50000,2.4,True,EMP-GWHP08
+CUST-00700,Matthew,Rossi,Male,1977-03-12,49,matthew.rossi@example.com,(858) 311-4644,New York,NY,USA,21421,High School,Engineering,DevOps Engineer,2026-07-12,0.3,139000,2.3,True,EMP-T9ZSUV
+CUST-00701,Carlos,Smith,Male,1981-12-06,44,carlos.smith@outlook.com,(366) 340-5421,Houston,TX,USA,83060,Master,Support,Support Lead,2016-07-14,10.3,67500,3.0,False,EMP-5VO1TK
+CUST-00702,William,Taylor,Male,1973-03-22,53,william.taylor@outlook.com,(572) 524-4719,Miami,FL,USA,33301,Bachelor,Finance,Financial Analyst,2011-04-10,15.6,131500,4.5,False,EMP-83PLE4
+CUST-00703,John,Jones,Male,1982-08-24,44,john.jones@outlook.com,(858) 318-5340,Houston,TX,USA,51599,High School,HR,HR Generalist,2019-07-10,7.3,117000,2.8,True,EMP-SWP0YK
+CUST-00704,Yuki,Moore,Female,1981-04-16,45,yuki.moore@mail.com,(427) 633-7356,Atlanta,GA,USA,93535,Master,HR,HR Manager,2021-01-28,5.8,85500,4.4,True,EMP-FANS0G
+CUST-00705,Ashley,Miller,Female,1972-01-20,54,ashley.miller@gmail.com,(264) 329-3279,Chicago,IL,USA,89505,High School,Finance,Finance Manager,2017-03-10,9.6,147500,1.3,True,EMP-DNADIJ
+CUST-00706,Daniel,Chen,Male,1976-03-25,50,daniel.chen@mail.com,(881) 666-2899,New York,NY,USA,33680,Master,HR,Recruiter,2008-09-14,18.1,123500,3.2,True,EMP-9UJEFU
+CUST-00707,Ryan,Jones,Male,2000-06-18,26,ryan.jones@mail.com,(304) 601-0869,Austin,TX,USA,82007,Master,Finance,Finance Manager,2026-02-01,0.7,89000,3.1,True,EMP-QCYH20
+CUST-00708,James,Hernandez,Male,1993-12-19,32,james.hernandez@yahoo.com,(950) 637-5356,Atlanta,GA,USA,96146,Master,HR,HR Generalist,2018-10-20,8.0,108000,3.5,True,EMP-TIFXZI
+CUST-00709,Ryan,Jackson,Male,1988-05-01,38,ryan.jackson@outlook.com,(424) 365-6440,Los Angeles,CA,USA,47990,Associate,Marketing,Marketing Specialist,2025-04-04,1.6,96500,3.4,True,EMP-J31W0G
+CUST-00710,Grace,Tanaka,Female,1976-10-02,49,grace.tanaka@mail.com,(882) 810-7676,Chicago,IL,USA,79074,Master,HR,HR Manager,2008-11-29,17.9,95500,2.1,True,EMP-6LUU6I
+CUST-00711,James,Rossi,Male,1997-04-05,29,james.rossi@gmail.com,(245) 471-9080,Springfield,IL,USA,74087,Bachelor,Finance,Finance Manager,2026-02-22,0.7,130000,4.2,True,EMP-SUMH0Z
+CUST-00712,Yuki,Lopez,Female,1990-08-23,36,yuki.lopez@yahoo.com,(987) 241-3309,Boston,MA,USA,12272,Bachelor,Marketing,SEO Analyst,2012-05-13,14.5,135000,2.5,True,EMP-CU2LQM
+CUST-00713,Daniel,Clark,Male,1999-10-12,26,daniel.clark@mail.com,(967) 556-0393,Chicago,IL,USA,22120,Bachelor,Finance,Financial Analyst,2026-06-22,0.4,69500,2.7,True,EMP-SC36U9
+CUST-00714,Daniel,Nguyen,Male,1973-11-17,52,daniel.nguyen@mail.com,(318) 412-2578,Atlanta,GA,USA,25476,Master,Engineering,QA Engineer,2008-04-04,18.6,148000,3.0,True,EMP-FE1YEN
+CUST-00715,William,Garcia,Male,1998-08-13,28,william.garcia@gmail.com,(741) 978-7170,Miami,FL,USA,42594,Associate,Engineering,Engineering Manager,2024-01-03,2.8,90000,3.8,True,EMP-KGNHAG
+CUST-00716,Yuki,Brown,Female,1986-12-30,39,yuki.brown@yahoo.com,(737) 343-5523,Los Angeles,CA,USA,11145,Bachelor,Engineering,DevOps Engineer,2013-05-19,13.4,92000,4.7,True,EMP-KE4VZN
+CUST-00717,Priya,Tanaka,Female,1963-10-01,62,priya.tanaka@gmail.com,(797) 708-0279,Houston,TX,USA,22736,Associate,Finance,Financial Analyst,2019-12-17,6.9,117500,2.1,True,EMP-PMLNL7
+CUST-00718,James,Rodriguez,Male,1995-10-14,30,james.rodriguez@gmail.com,(690) 436-9134,Chicago,IL,USA,74861,Bachelor,Marketing,Content Writer,2026-06-07,0.4,49500,3.4,True,EMP-Z8P5AI
+CUST-00719,Joshua,Moore,Male,1984-03-12,42,joshua.moore@gmail.com,(427) 918-4676,Phoenix,AZ,USA,14244,Associate,Support,Support Agent,2008-07-23,18.3,88500,1.4,True,EMP-68U1QP
+CUST-00720,Grace,Williams,Female,1977-07-30,49,grace.williams@outlook.com,(452) 457-7857,Austin,TX,USA,23949,High School,Support,Support Lead,2012-10-22,14.0,64000,3.1,True,EMP-BCE2EH
+CUST-00721,Aisha,Davis,Female,1977-04-23,49,aisha.davis@gmail.com,(757) 213-8468,Phoenix,AZ,USA,22770,Master,Support,Support Lead,2026-02-26,0.7,39000,3.1,True,EMP-BZ9ZQH
+CUST-00722,Arjun,Thomas,Male,1989-10-28,36,arjun.thomas@gmail.com,(494) 569-8694,Denver,CO,USA,46116,Bachelor,Finance,Accountant,2015-02-21,11.7,102500,3.9,True,EMP-ZAUGTT
+CUST-00723,Fatima,Anderson,Female,1973-10-16,52,fatima.anderson9768@outlook.com,(995) 405-9944,Houston,TX,USA,62766,Associate,Engineering,QA Engineer,2017-08-03,9.2,83500,4.3,True,EMP-6PFMCI
+CUST-00724,Carlos,Smith,Male,1980-04-30,46,carlos.smith944@outlook.com,(269) 319-0828,Springfield,IL,USA,68580,Bachelor,Engineering,QA Engineer,2011-12-20,14.9,228500,2.1,True,EMP-AXVT7C
+CUST-00725,Elena,Smith,Female,1990-09-07,36,elena.smith@outlook.com,(713) 238-9660,Miami,FL,USA,49010,Bachelor,Engineering,Engineering Manager,2018-02-07,8.7,183500,4.0,False,EMP-OV9WXH
+CUST-00726,Linda,Tanaka,Female,1981-08-05,45,linda.tanaka@example.com,(352) 421-7945,Boston,MA,USA,47572,PhD,Finance,Financial Analyst,2011-07-26,15.3,83000,3.2,True,EMP-IGLG08
+CUST-00727,Elena,Lee,Female,2001-09-30,25,elena.lee7309@gmail.com,(419) 678-0835,Phoenix,AZ,USA,77576,Bachelor,Data,Data Scientist,2024-06-01,2.4,161500,2.0,True,EMP-4XXWXJ
+CUST-00728,Matthew,Lopez,Male,1969-06-20,57,matthew.lopez@mail.com,(314) 285-7281,Atlanta,GA,USA,12937,Master,HR,HR Manager,2024-11-06,2.0,114000,3.2,True,EMP-KXB3CT
+CUST-00729,Emily,Martinez,Female,1996-12-22,29,emily.martinez@mail.com,(650) 719-6124,Los Angeles,CA,USA,67365,Master,Marketing,Content Writer,2020-12-29,5.8,94000,1.8,True,EMP-TPLX3G
+CUST-00730,Brian,Lee,Male,1986-08-01,40,brian.lee@gmail.com,(711) 890-9673,Springfield,IL,USA,45443,Master,Engineering,Engineering Manager,2024-02-24,2.7,149000,3.6,True,EMP-SQ1U97
+CUST-00731,Patricia,Rodriguez,Female,1968-03-30,58,patricia.rodriguez@gmail.com,(633) 315-5809,Houston,TX,USA,65987,High School,Finance,Finance Manager,2007-08-24,19.2,100000,3.5,True,EMP-K6YULN
+CUST-00732,Wei,Lee,Male,1964-10-24,61,wei.lee2978@outlook.com,(759) 454-4338,Atlanta,GA,USA,90190,Bachelor,Marketing,SEO Analyst,2020-09-29,6.1,104500,3.1,True,EMP-CAUDF9
+CUST-00733,Elena,Singh,Female,1965-04-27,61,elena.singh@yahoo.com,(997) 427-4356,Phoenix,AZ,USA,80073,Bachelor,HR,HR Manager,2017-04-06,9.6,63500,3.2,True,EMP-5EJR91
+CUST-00734,Grace,Lee,Female,1965-11-02,60,grace.lee6962@gmail.com,(974) 942-4067,Los Angeles,CA,USA,56890,Bachelor,Sales,Sales Manager,2006-08-29,20.2,82000,3.5,True,EMP-3HOIRO
+CUST-00735,Ryan,Garcia,Male,2003-02-08,23,ryan.garcia@yahoo.com,(369) 568-4561,Seattle,WA,USA,49595,Bachelor,HR,Recruiter,2024-07-12,2.3,74500,2.1,True,EMP-LBGKBU
+CUST-00736,Jennifer,Taylor,Female,2001-06-22,25,jennifer.taylor@example.com,(242) 759-8864,Chicago,IL,USA,10373,Master,Finance,Financial Analyst,2023-06-14,3.4,112500,4.0,True,EMP-JPO4DI
+CUST-00737,Grace,Garcia,Female,1965-04-11,61,grace.garcia@example.com,(454) 915-9531,Phoenix,AZ,USA,61881,Bachelor,HR,HR Manager,2014-06-21,12.4,106000,3.1,False,EMP-NL6DMJ
+CUST-00738,Patricia,Brown,Female,1965-12-09,60,patricia.brown@gmail.com,(569) 452-6250,Miami,FL,USA,15831,Bachelor,HR,HR Generalist,2020-03-29,6.6,64000,3.2,True,EMP-0IV1TO
+CUST-00739,Olivia,Davis,Female,1963-12-04,62,olivia.davis@example.com,(697) 207-0805,Los Angeles,CA,USA,13247,Bachelor,HR,HR Manager,2017-12-29,8.8,73000,3.4,True,EMP-K8JB79
+CUST-00740,Aisha,Patel,Female,1978-06-12,48,aisha.patel@example.com,(518) 522-6940,Springfield,IL,USA,57734,Bachelor,Engineering,QA Engineer,2012-05-01,14.5,202500,2.8,False,EMP-U2LLH2
+CUST-00741,Arjun,Jones,Male,1982-02-10,44,arjun.jones@yahoo.com,(544) 917-4738,Springfield,IL,USA,17103,High School,Marketing,SEO Analyst,2022-07-27,4.3,59500,3.5,True,EMP-7A7P4E
+CUST-00742,Joshua,Garcia,Male,1978-06-02,48,joshua.garcia@example.com,(268) 599-0454,Miami,FL,USA,23586,High School,Finance,Financial Analyst,2015-08-19,11.2,99500,3.7,True,EMP-N9S8TS
+CUST-00743,Patricia,Smith,Female,2004-11-25,21,patricia.smith@mail.com,(772) 330-3209,Denver,CO,USA,20372,Associate,HR,HR Manager,2026-06-13,0.4,109500,4.2,True,EMP-767JEZ
+CUST-00744,Susan,Kim,Female,2000-12-15,25,susan.kim@example.com,(977) 690-5605,Miami,FL,USA,39881,Bachelor,Engineering,Engineering Manager,2022-11-06,4.0,82000,3.7,True,EMP-TQM3G9
+CUST-00745,Joshua,Jones,Male,1963-07-13,63,joshua.jones@gmail.com,(970) 474-0772,Miami,FL,USA,14120,Bachelor,Support,Support Lead,2010-03-21,16.6,71500,2.6,True,EMP-KQ054C
+CUST-00746,Daniel,Jones,Male,1987-07-03,39,daniel.jones@example.com,(951) 286-7385,Atlanta,GA,USA,67460,Master,Support,Support Lead,2024-07-08,2.3,67000,3.8,True,EMP-KX0RB5
+CUST-00747,Susan,Tanaka,Female,1975-03-31,51,susan.tanaka@gmail.com,(596) 452-0683,Miami,FL,USA,43414,Bachelor,Engineering,Senior Engineer,2019-09-11,7.1,148000,1.6,True,EMP-2IZSFW
+CUST-00748,Ryan,Clark,Male,1985-10-07,40,ryan.clark@yahoo.com,(727) 270-6493,New York,NY,USA,67742,Bachelor,Support,Support Lead,2026-08-27,0.2,70000,3.3,True,EMP-P9KJYM
+CUST-00749,Mei,Johnson,Female,1992-06-30,34,mei.johnson@mail.com,(765) 309-0255,Seattle,WA,USA,94120,Bachelor,Finance,Finance Manager,2014-06-25,12.3,119000,3.6,True,EMP-VFQSX5
+CUST-00750,Grace,Lee,Female,1978-07-28,48,grace.lee@mail.com,(262) 513-5152,Boston,MA,USA,73077,Bachelor,HR,HR Generalist,2022-06-01,4.4,60000,4.0,True,EMP-4YJI35
+CUST-00751,Emily,Garcia,Female,1970-08-29,56,emily.garcia2166@yahoo.com,(305) 354-1846,Houston,TX,USA,94681,Bachelor,HR,Recruiter,2015-01-31,11.7,68500,1.5,False,EMP-F5HG57
+CUST-00752,David,Jones,Male,2005-01-03,21,david.jones734@gmail.com,(644) 588-1877,Houston,TX,USA,15938,Master,Data,ML Engineer,2026-01-02,0.8,68000,3.7,True,EMP-T3GNDC
+CUST-00753,Luca,Martinez,Male,1968-06-18,58,luca.martinez3998@gmail.com,(763) 856-2265,New York,NY,USA,35557,Bachelor,Support,Support Lead,2015-10-29,11.0,56000,4.1,True,EMP-32BH1A
+CUST-00754,Susan,Smith,Female,1988-03-17,38,susan.smith@outlook.com,(905) 247-7141,Miami,FL,USA,66734,PhD,HR,HR Manager,2017-07-04,9.3,87000,3.0,True,EMP-C6ON5Z
+CUST-00755,Joshua,Smith,Male,1971-03-15,55,joshua.smith@example.com,(833) 680-0687,Los Angeles,CA,USA,78523,Bachelor,Marketing,SEO Analyst,2018-10-10,8.1,123500,3.8,True,EMP-PTKFTU
+CUST-00756,Susan,Wilson,Female,1975-10-08,50,susan.wilson@mail.com,(779) 321-7741,Boston,MA,USA,79355,PhD,Data,ML Engineer,2017-02-10,9.7,132000,3.9,True,EMP-B2PN4U
+CUST-00757,Mary,Chen,Female,1989-12-04,36,mary.chen@mail.com,(665) 846-8552,New York,NY,USA,85669,Bachelor,Engineering,Senior Engineer,2012-12-23,13.9,150000,2.9,True,EMP-C419U7
+CUST-00758,Wei,Lopez,Male,1973-03-10,53,wei.lopez@outlook.com,(341) 699-4862,Los Angeles,CA,USA,60475,Bachelor,Marketing,Marketing Specialist,2015-12-01,10.9,96500,2.0,True,EMP-4TKVV7
+CUST-00759,Emily,Garcia,Female,1996-08-04,30,emily.garcia@yahoo.com,(470) 938-6003,Denver,CO,USA,44917,Master,Sales,Sales Rep,2022-09-30,4.1,102500,4.0,True,EMP-KR4L2E
+CUST-00760,William,Clark,Male,1973-10-01,52,william.clark@outlook.com,(424) 921-5606,Miami,FL,USA,63740,Bachelor,HR,HR Generalist,2005-05-28,21.4,138000,3.1,True,EMP-E4QGFU
+CUST-00761,Emily,Smith,Female,2000-06-05,26,emily.smith@gmail.com,(446) 292-2232,Boston,MA,USA,65008,High School,Finance,Finance Manager,2026-10-18,0.0,70500,4.3,True,EMP-NRCMUZ
+CUST-00762,Robert,Brown,Male,1981-10-01,44,robert.brown@mail.com,(872) 288-5160,Atlanta,GA,USA,34370,Bachelor,Data,Data Analyst,2023-12-05,2.9,120500,3.8,True,EMP-32BUHB
+CUST-00763,Arjun,Lee,Male,1975-02-09,51,arjun.lee241@gmail.com,(775) 928-5361,Miami,FL,USA,48408,Associate,Support,Support Agent,2019-08-30,7.2,44000,3.9,True,EMP-OTH4MV
+CUST-00764,Isabella,Singh,Female,1978-11-15,47,isabella.singh@gmail.com,(518) 751-1354,Atlanta,GA,USA,37946,Master,Support,Support Agent,2021-03-04,5.7,62000,1.6,True,EMP-F1XOYC
+CUST-00765,Jessica,Rossi,Female,1977-02-09,49,jessica.rossi@outlook.com,(630) 742-0990,Boston,MA,USA,63166,Master,Support,Support Lead,2024-10-07,2.1,71000,1.6,True,EMP-GT9967
+CUST-00766,Luca,Martinez,Male,1985-01-25,41,luca.martinez@yahoo.com,(341) 753-0777,Springfield,IL,USA,53364,Bachelor,Support,Support Lead,2026-05-12,0.5,61000,4.0,False,EMP-ZOQMC8
+CUST-00767,Daniel,Lee,Male,2005-08-01,21,daniel.lee@yahoo.com,(844) 916-5070,New York,NY,USA,13611,Bachelor,HR,HR Manager,2026-06-20,0.4,104500,2.0,True,EMP-89QSNV
+CUST-00768,William,Hernandez,Male,1977-09-15,49,william.hernandez@outlook.com,(934) 835-6077,Springfield,IL,USA,40645,Bachelor,Engineering,DevOps Engineer,2020-05-27,6.4,166000,3.7,True,EMP-GACEPL
+CUST-00769,Patricia,Smith,Female,1979-09-24,47,patricia.smith@yahoo.com,(387) 555-9637,New York,NY,USA,44030,Bachelor,Engineering,Engineering Manager,2012-03-02,14.7,106500,2.8,True,EMP-B4DPGE
+CUST-00770,Kevin,Chen,Male,1962-04-06,64,kevin.chen@mail.com,(209) 602-4716,Austin,TX,USA,98806,Bachelor,Engineering,DevOps Engineer,2025-06-28,1.3,98000,3.8,True,EMP-YUAM75
+CUST-00771,Patricia,Moore,Female,1961-02-23,65,patricia.moore@mail.com,(426) 869-5518,Los Angeles,CA,USA,90658,Bachelor,Engineering,Senior Engineer,2017-03-05,9.7,123000,4.5,True,EMP-1INUFN
+CUST-00772,John,Johnson,Male,1974-07-19,52,john.johnson@example.com,(760) 260-1207,Atlanta,GA,USA,81661,Bachelor,Engineering,QA Engineer,2019-06-13,7.4,83000,3.2,True,EMP-ZIRJYZ
+CUST-00773,Daniel,Lee,Male,1986-07-25,40,daniel.lee@outlook.com,(586) 976-2575,Miami,FL,USA,53800,Bachelor,Sales,Sales Rep,2026-05-01,0.5,65000,2.3,True,EMP-AR9LEO
+CUST-00774,Linda,Thomas,Female,1989-01-03,37,linda.thomas@mail.com,(353) 424-3626,Atlanta,GA,USA,50332,Bachelor,Engineering,Software Engineer,2024-01-30,2.7,95500,1.8,True,EMP-BB6PYM
+CUST-00775,Luca,Jackson,Male,1973-02-07,53,luca.jackson@example.com,(654) 425-2229,Houston,TX,USA,90775,Master,Engineering,DevOps Engineer,2008-05-25,18.4,218000,4.2,True,EMP-96M5U2
+CUST-00776,Olivia,Clark,Female,1993-11-14,32,olivia.clark@mail.com,(446) 629-2935,Chicago,IL,USA,11110,Master,HR,HR Generalist,2023-07-02,3.3,69500,3.1,True,EMP-GJ96ZE
+CUST-00777,Linda,Williams,Female,1995-01-24,31,linda.williams@outlook.com,(372) 301-9961,Miami,FL,USA,96540,Associate,Support,Support Lead,2022-03-05,4.7,38500,4.3,True,EMP-EURAND
+CUST-00778,Michael,Moore,Male,1992-07-01,34,michael.moore@example.com,(782) 967-7598,Seattle,WA,USA,71662,Associate,Sales,Sales Manager,2025-05-05,1.5,94500,2.0,True,EMP-BB9MIT
+CUST-00779,Robert,Jackson,Male,1966-12-19,59,robert.jackson@example.com,(518) 254-1572,Boston,MA,USA,77359,High School,HR,HR Manager,2015-10-04,11.1,126500,3.8,True,EMP-BTWTW4
+CUST-00780,William,Nguyen,Male,2002-02-07,24,william.nguyen@yahoo.com,(334) 967-8599,Los Angeles,CA,USA,24379,High School,Sales,Account Executive,2024-07-24,2.3,90500,3.4,True,EMP-ZY00EW
+CUST-00781,Anthony,Chen,Male,1990-12-07,35,anthony.chen@yahoo.com,(305) 449-6110,Chicago,IL,USA,35423,High School,Finance,Accountant,2020-11-04,6.0,109000,3.2,True,EMP-5OOA9C
+CUST-00782,Wei,Thomas,Male,1983-04-22,43,wei.thomas@example.com,(223) 867-2652,Atlanta,GA,USA,88409,High School,Engineering,Software Engineer,2018-09-16,8.1,150000,3.2,True,EMP-V4F0TE
+CUST-00783,Anthony,Davis,Male,1987-11-04,38,anthony.davis@mail.com,(407) 321-6877,Atlanta,GA,USA,73812,High School,Marketing,Marketing Specialist,2016-10-15,10.0,68500,2.9,True,EMP-N446Q1
+CUST-00784,Brian,Davis,Male,1995-11-13,30,brian.davis@example.com,(493) 997-4173,Atlanta,GA,USA,49387,Bachelor,HR,Recruiter,2025-01-06,1.8,73000,4.5,True,EMP-HL1ZUM
+CUST-00785,Grace,Wilson,Female,1976-01-06,50,grace.wilson@yahoo.com,(290) 502-2406,Chicago,IL,USA,43518,Associate,Support,Support Lead,2008-10-15,18.0,65500,3.6,False,EMP-07TLYD
+CUST-00786,Luca,Khan,Male,1967-09-17,59,luca.khan@example.com,(941) 518-1386,Atlanta,GA,USA,96247,Bachelor,Engineering,QA Engineer,2021-08-06,5.2,153000,2.6,True,EMP-MIE898
+CUST-00787,Kevin,Nguyen,Male,1982-06-30,44,kevin.nguyen@gmail.com,(906) 446-1270,Houston,TX,USA,20313,Master,Data,Data Engineer,2010-07-05,16.3,120000,4.0,True,EMP-ONZNQ0
+CUST-00788,Isabella,Hernandez,Female,1980-07-27,46,isabella.hernandez@example.com,(850) 543-3266,Miami,FL,USA,57250,PhD,Finance,Financial Analyst,2022-11-21,3.9,150000,2.9,True,EMP-4O7VS8
+CUST-00789,Arjun,Miller,Male,1996-11-10,29,arjun.miller@outlook.com,(786) 540-5019,Chicago,IL,USA,76590,High School,Sales,Account Executive,2020-03-15,6.6,86500,2.4,True,EMP-F2NNKQ
+CUST-00790,Matthew,Smith,Male,1990-04-07,36,matthew.smith4525@yahoo.com,(492) 253-4338,Miami,FL,USA,95283,Bachelor,HR,HR Generalist,2013-08-30,13.2,78500,2.6,False,EMP-73KLLZ
+CUST-00791,Wei,Lee,Male,1990-11-23,35,wei.lee3605@example.com,(743) 564-2736,Austin,TX,USA,28623,Master,Engineering,Software Engineer,2011-09-03,15.2,167500,2.9,True,EMP-D7KFN8
+CUST-00792,Susan,Anderson,Female,1976-02-10,50,susan.anderson@mail.com,(709) 398-2680,Phoenix,AZ,USA,94948,Master,Support,Support Agent,2020-04-04,6.6,69000,3.6,True,EMP-M0F6QE
+CUST-00793,Priya,Nguyen,Female,1979-01-05,47,priya.nguyen@outlook.com,(247) 981-5850,Houston,TX,USA,29988,Master,Marketing,Marketing Specialist,2005-01-28,21.8,69500,1.5,False,EMP-LS9B7R
+CUST-00794,William,Williams,Male,1994-03-13,32,william.williams@outlook.com,(787) 908-2022,Denver,CO,USA,38523,Master,Finance,Finance Manager,2019-05-16,7.5,75000,3.9,True,EMP-RFBENM
+CUST-00795,Omar,Singh,Male,1993-10-14,32,omar.singh@example.com,(452) 552-2094,Atlanta,GA,USA,58959,PhD,Finance,Financial Analyst,2018-03-08,8.6,122000,4.0,True,EMP-Y6FFY3
+CUST-00796,Mateo,Miller,Male,1993-10-01,32,mateo.miller9886@mail.com,(427) 562-3694,Phoenix,AZ,USA,26934,Associate,Sales,Account Executive,2024-08-16,2.2,108500,1.9,True,EMP-BO6TQS
+CUST-00797,Grace,Taylor,Female,1972-12-21,53,grace.taylor@gmail.com,(302) 562-9070,Houston,TX,USA,39132,Master,Marketing,Content Writer,2005-11-13,21.0,68000,3.7,False,EMP-R2W71T
+CUST-00798,Priya,Taylor,Female,1985-05-15,41,priya.taylor@yahoo.com,(907) 356-2320,Phoenix,AZ,USA,31153,Master,Data,Data Analyst,2009-04-04,17.6,113000,3.5,True,EMP-K9M94U
+CUST-00799,David,Khan,Male,1979-10-30,46,david.khan@outlook.com,(580) 871-0807,Springfield,IL,USA,61067,Associate,Data,ML Engineer,2023-06-02,3.4,169000,4.1,True,EMP-4EBO2J
+CUST-00800,James,Taylor,Male,1991-07-14,35,james.taylor@outlook.com,(875) 273-3600,Phoenix,AZ,USA,60510,Associate,Support,Support Agent,2014-09-26,12.1,76000,3.3,True,EMP-OUZXNL
+CUST-00801,Isabella,Johnson,Female,1985-02-06,41,isabella.johnson@outlook.com,(288) 638-4385,Atlanta,GA,USA,19439,High School,Engineering,DevOps Engineer,2023-12-05,2.9,94500,2.8,True,EMP-UYUN9V
+CUST-00802,Aisha,Taylor,Female,1993-10-31,32,aisha.taylor@outlook.com,(362) 882-0244,Denver,CO,USA,19321,Bachelor,Support,Support Lead,2014-01-05,12.8,84500,2.0,True,EMP-DL7U1P
+CUST-00803,Fatima,Jackson,Female,1964-05-20,62,fatima.jackson@mail.com,(636) 702-7927,Springfield,IL,USA,40320,High School,Engineering,Engineering Manager,2017-09-14,9.1,207000,4.7,True,EMP-PO1QMU
+CUST-00804,Aisha,Anderson,Female,1990-08-23,36,aisha.anderson@outlook.com,(407) 318-9873,Houston,TX,USA,22018,Bachelor,Finance,Financial Analyst,2026-05-13,0.5,104500,2.8,True,EMP-8Y2WGE
+CUST-00805,David,Brown,Male,2001-03-30,25,david.brown@mail.com,(776) 855-7472,New York,NY,USA,47236,Bachelor,Support,Support Agent,2023-12-16,2.9,57500,1.1,True,EMP-UOLXPO
+CUST-00806,Elena,Thomas,Female,2000-05-02,26,elena.thomas@outlook.com,(538) 233-0377,Houston,TX,USA,63307,Associate,Marketing,SEO Analyst,2024-11-24,1.9,80000,3.7,True,EMP-B09UW8
+CUST-00807,Jennifer,Brown,Female,1964-04-01,62,jennifer.brown@mail.com,(579) 807-7634,Chicago,IL,USA,11042,Associate,HR,Recruiter,2020-08-11,6.2,78500,2.0,True,EMP-QYPICL
+CUST-00808,Yuki,Patel,Female,1969-03-21,57,yuki.patel@mail.com,(505) 538-4288,Atlanta,GA,USA,48293,Master,Marketing,SEO Analyst,2012-10-27,14.0,146000,3.7,True,EMP-2KEUVI
+CUST-00809,Anthony,Rodriguez,Male,1977-02-23,49,anthony.rodriguez@mail.com,(977) 892-9197,Houston,TX,USA,32457,High School,HR,HR Generalist,2024-10-04,2.1,65000,3.4,True,EMP-E00HU3
+CUST-00810,Linda,Davis,Female,1998-10-05,27,linda.davis@yahoo.com,(979) 244-7846,Atlanta,GA,USA,52837,Bachelor,Marketing,SEO Analyst,2020-06-12,6.4,56000,2.4,True,EMP-2NRV4E
+CUST-00811,James,Johnson,Male,1978-03-05,48,james.johnson4558@mail.com,(228) 344-5828,Springfield,IL,USA,23977,High School,Engineering,Software Engineer,2008-04-30,18.5,194500,2.4,True,EMP-LOMZOL
+CUST-00812,Isabella,Smith,Female,1977-11-10,48,isabella.smith@mail.com,(505) 393-4249,Atlanta,GA,USA,52894,Bachelor,HR,HR Generalist,2009-11-25,16.9,138500,1.9,True,EMP-TN5KG3
+CUST-00813,William,Johnson,Male,1993-03-08,33,william.johnson@yahoo.com,(508) 437-7385,Denver,CO,USA,85949,Bachelor,Sales,Sales Manager,2018-02-09,8.7,79500,3.6,True,EMP-O33B29
+CUST-00814,Elizabeth,Lee,Female,1981-07-26,45,elizabeth.lee@outlook.com,(698) 648-4686,New York,NY,USA,18442,Bachelor,Data,Data Scientist,2024-11-16,2.0,155500,4.8,True,EMP-4CI248
+CUST-00815,David,Tanaka,Male,1966-02-21,60,david.tanaka@mail.com,(971) 976-2612,Springfield,IL,USA,36079,Associate,Marketing,Content Writer,2012-08-03,14.2,75500,3.5,True,EMP-EEO9H5
+CUST-00816,James,Davis,Male,1976-05-13,50,james.davis4156@example.com,(573) 210-7168,Los Angeles,CA,USA,65950,High School,Finance,Financial Analyst,2020-07-11,6.3,73500,3.5,True,EMP-3I0GXH
+CUST-00817,David,Davis,Male,1970-02-10,56,david.davis@mail.com,(334) 247-2081,Denver,CO,USA,80802,Bachelor,Data,Data Analyst,2010-04-10,16.6,88500,4.4,True,EMP-327AQF
+CUST-00818,William,Martinez,Male,1981-10-30,44,william.martinez@gmail.com,(759) 673-1664,Denver,CO,USA,72427,Bachelor,Support,Support Lead,2024-09-16,2.1,66500,2.8,True,EMP-D2V57B
+CUST-00819,Aisha,Davis,Female,1976-12-18,49,aisha.davis@mail.com,(384) 359-5188,Austin,TX,USA,88485,High School,Marketing,SEO Analyst,2019-02-09,7.7,65000,3.0,True,EMP-KJS08R
+CUST-00820,Wei,Lee,Male,1996-11-13,29,wei.lee3053@gmail.com,(913) 554-9057,Los Angeles,CA,USA,64516,Master,Engineering,Engineering Manager,2018-05-04,8.5,150000,1.7,False,EMP-9C45RY
+CUST-00821,Mateo,Jones,Male,1999-07-28,27,mateo.jones@outlook.com,(982) 312-8093,Atlanta,GA,USA,23372,Associate,HR,HR Generalist,2022-10-28,4.0,97500,4.2,False,EMP-0IUGA4
+CUST-00822,William,Brown,Male,1962-03-14,64,william.brown2887@example.com,(396) 399-0024,Austin,TX,USA,80723,Master,Support,Support Agent,2010-11-06,16.0,76000,4.6,True,EMP-P6ASSS
+CUST-00823,Mary,Rodriguez,Female,2003-12-25,22,mary.rodriguez@example.com,(557) 273-5131,New York,NY,USA,34833,Master,Support,Support Lead,2026-02-05,0.7,60500,3.2,True,EMP-6OWH8V
+CUST-00824,Mei,Davis,Female,1994-05-20,32,mei.davis@outlook.com,(357) 217-6854,Denver,CO,USA,20558,Master,Marketing,SEO Analyst,2022-02-25,4.7,114500,3.3,True,EMP-VAN0FV
+CUST-00825,Robert,Hernandez,Male,1996-07-29,30,robert.hernandez3578@gmail.com,(450) 674-2525,Seattle,WA,USA,94640,Bachelor,Sales,Sales Manager,2025-06-30,1.3,104000,3.7,True,EMP-8BNMJS
+CUST-00826,Linda,Miller,Female,1999-01-23,27,linda.miller@yahoo.com,(429) 921-2572,Austin,TX,USA,18419,Master,HR,HR Generalist,2020-06-14,6.4,54000,2.3,True,EMP-8GC0S6
+CUST-00827,Kevin,Jackson,Male,1979-07-02,47,kevin.jackson7135@mail.com,(743) 534-4294,Denver,CO,USA,82911,Bachelor,Marketing,Marketing Manager,2011-09-07,15.1,145500,2.8,True,EMP-E4A2G7
+CUST-00828,Fatima,Kim,Female,1975-02-03,51,fatima.kim@mail.com,(488) 608-5092,Seattle,WA,USA,25565,Bachelor,HR,HR Manager,2012-05-05,14.5,123000,2.1,True,EMP-GVZPFC
+CUST-00829,James,Martinez,Male,1995-08-10,31,james.martinez746@outlook.com,(723) 781-1833,Phoenix,AZ,USA,21802,Bachelor,HR,HR Manager,2018-06-07,8.4,113000,3.1,True,EMP-OV9JYD
+CUST-00830,Omar,Chen,Male,1998-07-09,28,omar.chen@yahoo.com,(904) 963-2754,New York,NY,USA,10279,High School,Engineering,DevOps Engineer,2021-06-17,5.4,184000,4.4,True,EMP-TGO5AW
+CUST-00831,Susan,Rodriguez,Female,1972-01-29,54,susan.rodriguez@yahoo.com,(627) 830-2800,Boston,MA,USA,96505,Master,Finance,Finance Manager,2005-01-16,21.8,175000,1.8,True,EMP-TP3174
+CUST-00832,Luca,Miller,Male,1966-04-16,60,luca.miller@mail.com,(964) 285-8284,Austin,TX,USA,54069,Bachelor,Support,Support Lead,2024-10-19,2.0,76500,2.3,True,EMP-IT8D9G
+CUST-00833,Daniel,Davis,Male,1995-11-20,30,daniel.davis@mail.com,(391) 672-9831,Austin,TX,USA,18296,Bachelor,HR,Recruiter,2025-07-10,1.3,80000,3.7,True,EMP-7A8RNX
+CUST-00834,Sophia,Tanaka,Female,1994-10-04,31,sophia.tanaka@mail.com,(988) 276-2087,Austin,TX,USA,71222,Bachelor,HR,Recruiter,2026-09-21,0.1,51500,2.1,False,EMP-ZMVUTI
+CUST-00835,Sophia,Nguyen,Female,1994-09-11,32,sophia.nguyen@example.com,(608) 746-6299,New York,NY,USA,32389,Bachelor,Finance,Financial Analyst,2018-05-19,8.4,134000,3.4,True,EMP-LHWV6F
+CUST-00836,Sarah,Patel,Female,1963-05-11,63,sarah.patel@outlook.com,(793) 822-0368,Austin,TX,USA,68333,Bachelor,Finance,Financial Analyst,2005-03-15,21.6,156000,2.2,True,EMP-P9K1UO
+CUST-00837,Luca,Smith,Male,1967-05-23,59,luca.smith@mail.com,(784) 491-6645,Phoenix,AZ,USA,46149,High School,Finance,Finance Manager,2020-03-31,6.6,110000,2.4,True,EMP-SKOI4S
+CUST-00838,Jessica,Wilson,Female,1999-04-13,27,jessica.wilson8789@mail.com,(819) 370-8433,Phoenix,AZ,USA,61707,Master,Support,Support Lead,2026-07-21,0.3,56500,4.5,True,EMP-5BO8BO
+CUST-00839,James,Tanaka,Male,1994-02-16,32,james.tanaka@mail.com,(769) 752-9390,Boston,MA,USA,82816,Associate,Support,Support Agent,2020-08-31,6.2,55500,2.8,True,EMP-3TW0J4
+CUST-00840,Luca,Lopez,Male,1989-10-08,36,luca.lopez@example.com,(895) 553-6395,Chicago,IL,USA,98974,Bachelor,Marketing,SEO Analyst,2018-04-24,8.5,133000,3.5,True,EMP-8MKU1G
+CUST-00841,Aisha,Nguyen,Female,1978-05-18,48,aisha.nguyen@outlook.com,(869) 321-8696,Atlanta,GA,USA,71879,Associate,Engineering,Software Engineer,2016-04-10,10.6,186000,1.6,True,EMP-HNYBJK
+CUST-00842,Elizabeth,Patel,Female,2003-04-20,23,elizabeth.patel@mail.com,(583) 368-4929,Denver,CO,USA,15061,Bachelor,Sales,Sales Rep,2025-12-03,0.9,128500,2.1,False,EMP-WPRLPG
+CUST-00843,Michael,Patel,Male,1984-01-29,42,michael.patel@gmail.com,(710) 514-7870,Houston,TX,USA,60960,Bachelor,Finance,Financial Analyst,2019-07-11,7.3,127500,3.6,True,EMP-VVLD3I
+CUST-00844,Ryan,Smith,Male,1999-12-10,26,ryan.smith@example.com,(810) 257-0054,Phoenix,AZ,USA,42654,Bachelor,Sales,Sales Manager,2023-11-25,2.9,67500,2.4,True,EMP-572I2F
+CUST-00845,Isabella,Garcia,Female,1988-07-01,38,isabella.garcia@example.com,(891) 528-9079,Austin,TX,USA,52562,Associate,HR,HR Manager,2025-05-29,1.4,62500,3.6,True,EMP-4F4DES
+CUST-00846,Sophia,Patel,Female,1976-11-04,49,sophia.patel@gmail.com,(515) 813-1519,New York,NY,USA,43859,Bachelor,Sales,Account Executive,2025-07-20,1.3,50500,2.6,True,EMP-NH1K50
+CUST-00847,Linda,Tanaka,Female,1968-03-02,58,linda.tanaka1952@outlook.com,(817) 408-0600,Miami,FL,USA,53695,Associate,Support,Support Agent,2017-10-23,9.0,63000,2.5,True,EMP-HC2YIX
+CUST-00848,Arjun,Johnson,Male,1975-06-17,51,arjun.johnson@mail.com,(691) 756-7785,Boston,MA,USA,35729,High School,Data,ML Engineer,2023-03-20,3.6,172500,2.4,True,EMP-LEYO3H
+CUST-00849,Sarah,Taylor,Female,2001-11-21,24,sarah.taylor@mail.com,(485) 590-8135,Boston,MA,USA,21484,Master,HR,Recruiter,2022-08-08,4.2,74000,3.8,False,EMP-VO79I3
+CUST-00850,Hiroshi,Patel,Male,1989-04-11,37,hiroshi.patel@mail.com,(801) 788-9598,Austin,TX,USA,13800,Bachelor,Support,Support Agent,2019-08-24,7.2,52000,1.7,True,EMP-MIA63Y
+CUST-00851,Susan,Brown,Female,1971-08-01,55,susan.brown@gmail.com,(599) 483-8431,Springfield,IL,USA,77725,Bachelor,Finance,Finance Manager,2016-09-16,10.1,96000,3.5,True,EMP-NG6N1R
+CUST-00852,Yuki,Jones,Female,1998-07-31,28,yuki.jones@mail.com,(751) 823-1212,New York,NY,USA,28043,Bachelor,Data,Data Scientist,2020-08-10,6.2,81500,3.5,False,EMP-QCALUK
+CUST-00853,Olivia,Rossi,Female,1978-06-12,48,olivia.rossi4357@yahoo.com,(422) 853-0486,Chicago,IL,USA,37514,Bachelor,HR,Recruiter,2013-10-10,13.1,137000,3.8,True,EMP-ECI9RT
+CUST-00854,Olivia,Lee,Female,2004-08-12,22,olivia.lee@gmail.com,(679) 790-0769,Austin,TX,USA,58549,Bachelor,Support,Support Lead,2026-08-10,0.2,60500,4.3,True,EMP-H2D3LS
+CUST-00855,Wei,Khan,Male,1963-03-13,63,wei.khan@gmail.com,(789) 446-9576,Houston,TX,USA,20462,High School,Data,Data Scientist,2020-02-07,6.7,120500,4.1,False,EMP-LXLE0B
+CUST-00856,Omar,Hernandez,Male,1997-10-22,28,omar.hernandez1656@mail.com,(411) 610-1141,Phoenix,AZ,USA,54990,Master,Sales,Sales Manager,2018-09-07,8.1,139000,3.2,True,EMP-O6CYSV
+CUST-00857,Daniel,Lopez,Male,1965-10-31,60,daniel.lopez@yahoo.com,(969) 640-1480,Miami,FL,USA,58066,Bachelor,Engineering,DevOps Engineer,2019-01-21,7.8,123500,3.1,True,EMP-X43IRG
+CUST-00858,Linda,Brown,Female,1987-02-04,39,linda.brown@example.com,(445) 682-7965,Springfield,IL,USA,33817,Bachelor,Finance,Accountant,2021-10-04,5.1,64500,3.3,True,EMP-1NA6KS
+CUST-00859,Emily,Rodriguez,Female,1962-04-30,64,emily.rodriguez@gmail.com,(531) 849-3354,Los Angeles,CA,USA,53877,Bachelor,Engineering,DevOps Engineer,2025-01-13,1.8,84500,3.0,True,EMP-98BYTE
+CUST-00860,James,Rodriguez,Male,1974-05-03,52,james.rodriguez@yahoo.com,(848) 465-4433,Houston,TX,USA,69413,High School,Marketing,Content Writer,2008-01-06,18.8,149500,3.4,True,EMP-7UUBRJ
+CUST-00861,Hiroshi,Garcia,Male,1973-07-02,53,hiroshi.garcia@yahoo.com,(559) 314-3885,Phoenix,AZ,USA,53076,Bachelor,HR,Recruiter,2016-06-02,10.4,90000,2.2,True,EMP-Q5A838
+CUST-00862,Michael,Singh,Male,1987-10-18,38,michael.singh@example.com,(719) 705-3367,Houston,TX,USA,81876,Bachelor,Sales,Sales Manager,2012-09-02,14.2,122000,3.8,False,EMP-IIO1Q3
+CUST-00863,Matthew,Chen,Male,1966-10-07,59,matthew.chen@gmail.com,(629) 223-3052,Atlanta,GA,USA,81427,High School,Engineering,Senior Engineer,2026-02-17,0.7,177000,2.9,True,EMP-87C45I
+CUST-00864,Mateo,Johnson,Male,1977-05-25,49,mateo.johnson@outlook.com,(906) 706-9692,Chicago,IL,USA,45666,High School,Engineering,Senior Engineer,2011-01-09,15.8,199500,2.3,True,EMP-24XCRW
+CUST-00865,William,Jones,Male,2004-07-27,22,william.jones8913@example.com,(788) 616-3353,Miami,FL,USA,34029,Associate,Finance,Accountant,2026-07-26,0.3,96000,4.8,True,EMP-2GA3YY
+CUST-00866,Arjun,Brown,Male,1971-08-15,55,arjun.brown@gmail.com,(590) 420-0823,New York,NY,USA,72244,High School,Engineering,Engineering Manager,2009-04-26,17.5,134500,3.0,True,EMP-G7FBV2
+CUST-00867,Brian,Rossi,Male,1996-11-05,29,brian.rossi@example.com,(547) 676-7795,Atlanta,GA,USA,89287,Bachelor,Sales,Sales Rep,2019-03-17,7.6,92000,2.0,True,EMP-M28AQW
+CUST-00868,Daniel,Singh,Male,1994-11-17,31,daniel.singh7397@yahoo.com,(277) 870-6387,Los Angeles,CA,USA,74961,High School,Data,Data Analyst,2023-07-16,3.3,132500,1.5,True,EMP-L71029
+CUST-00869,Hiroshi,Garcia,Male,2001-05-31,25,hiroshi.garcia@mail.com,(348) 430-4940,New York,NY,USA,48421,Master,Marketing,Content Writer,2023-06-10,3.4,72500,2.4,True,EMP-XAMHV1
+CUST-00870,James,Lee,Male,1975-01-01,51,james.lee4999@example.com,(561) 523-1546,Springfield,IL,USA,39445,Master,HR,Recruiter,2005-07-05,21.3,76000,3.0,True,EMP-VKU8YJ
+CUST-00871,Sophia,Lee,Female,1982-11-27,43,sophia.lee@mail.com,(749) 795-1489,Springfield,IL,USA,32377,Master,Engineering,Engineering Manager,2007-12-13,18.9,106000,4.2,False,EMP-Z025JU
+CUST-00872,Elizabeth,Miller,Female,1980-10-31,45,elizabeth.miller@example.com,(967) 436-7181,New York,NY,USA,96160,Bachelor,HR,HR Generalist,2016-10-15,10.0,75000,4.6,True,EMP-BK4EPB
+CUST-00873,Elena,Khan,Female,1993-04-20,33,elena.khan@mail.com,(485) 753-4407,Atlanta,GA,USA,76828,Bachelor,Finance,Financial Analyst,2016-11-13,10.0,151000,4.4,True,EMP-FI8OJG
+CUST-00874,David,Williams,Male,1993-06-09,33,david.williams@yahoo.com,(413) 979-3568,Austin,TX,USA,10259,High School,Finance,Accountant,2017-04-30,9.5,153000,3.3,True,EMP-209QVW
+CUST-00875,Omar,Moore,Male,1968-11-16,57,omar.moore@mail.com,(294) 593-9301,Los Angeles,CA,USA,92283,Associate,Sales,Sales Rep,2007-09-03,19.2,103500,2.2,True,EMP-70UT10
+CUST-00876,Brian,Smith,Male,1984-03-02,42,brian.smith@mail.com,(635) 691-4227,Boston,MA,USA,60922,Associate,Support,Support Agent,2026-05-01,0.5,38500,1.5,True,EMP-4VJHP6
+CUST-00877,Wei,Williams,Male,1984-11-17,41,wei.williams8576@gmail.com,(344) 977-9393,Austin,TX,USA,50507,Associate,HR,HR Generalist,2017-06-15,9.4,103500,2.4,True,EMP-4ANLIO
+CUST-00878,Wei,Hernandez,Male,1969-08-07,57,wei.hernandez@example.com,(642) 652-2429,Atlanta,GA,USA,17034,High School,Sales,Sales Manager,2011-05-11,15.5,123000,2.2,False,EMP-Z3ZTDS
+CUST-00879,Matthew,Moore,Male,1967-02-25,59,matthew.moore@example.com,(712) 271-8140,New York,NY,USA,44351,Bachelor,Data,Data Scientist,2026-07-22,0.3,159500,3.2,True,EMP-M8OF7M
+CUST-00880,Mary,Smith,Female,1965-11-18,60,mary.smith1429@yahoo.com,(628) 271-2894,Boston,MA,USA,92778,PhD,Data,Data Engineer,2017-05-17,9.5,165000,3.4,True,EMP-5O5CVH
+CUST-00881,Mei,Anderson,Female,2001-11-13,24,mei.anderson@gmail.com,(940) 963-2879,Chicago,IL,USA,36280,PhD,HR,HR Generalist,2023-05-12,3.5,84500,3.4,False,EMP-WCDB68
+CUST-00882,Mary,Taylor,Female,1978-03-16,48,mary.taylor@example.com,(519) 590-0753,Houston,TX,USA,50037,Bachelor,Support,Support Agent,2022-04-25,4.5,77000,4.6,True,EMP-HWN8DD
+CUST-00883,James,Lopez,Male,1965-01-13,61,james.lopez@example.com,(631) 285-8047,Miami,FL,USA,63717,Bachelor,Sales,Sales Rep,2016-01-12,10.8,142000,4.4,True,EMP-0EQ8O9
+CUST-00884,Mei,Chen,Female,1983-09-23,43,mei.chen@example.com,(836) 652-6697,Springfield,IL,USA,81536,Bachelor,Data,Data Engineer,2024-03-13,2.6,83000,3.9,True,EMP-QCFCHA
+CUST-00885,Linda,Rossi,Female,1986-06-14,40,linda.rossi@mail.com,(478) 414-5039,Atlanta,GA,USA,17031,Bachelor,Marketing,Marketing Manager,2013-10-04,13.1,149000,4.1,True,EMP-T8FMW4
+CUST-00886,Susan,Lopez,Female,1968-12-28,57,susan.lopez@outlook.com,(290) 984-2027,New York,NY,USA,23248,Bachelor,Marketing,Marketing Manager,2019-10-21,7.0,110500,3.8,True,EMP-CFI4PL
+CUST-00887,Elena,Rossi,Female,1993-11-03,32,elena.rossi8200@mail.com,(614) 614-4254,Boston,MA,USA,12396,Bachelor,HR,HR Generalist,2020-03-21,6.6,94000,4.0,False,EMP-GF5LXK
+CUST-00888,Matthew,Clark,Male,1998-09-28,28,matthew.clark@gmail.com,(445) 708-2331,Springfield,IL,USA,23170,Master,Engineering,Engineering Manager,2022-06-27,4.3,149000,3.0,False,EMP-HCZDQ3
+CUST-00889,Robert,Williams,Male,2002-10-07,23,robert.williams@outlook.com,(708) 965-1620,Houston,TX,USA,87292,Master,Sales,Sales Manager,2025-08-30,1.2,117000,3.4,True,EMP-0515F9
+CUST-00890,Grace,Singh,Female,1973-02-10,53,grace.singh@gmail.com,(736) 536-5974,Los Angeles,CA,USA,11235,Bachelor,HR,HR Generalist,2019-07-15,7.3,73000,2.4,True,EMP-ITZA7U
+CUST-00891,Yuki,Khan,Female,1974-12-10,51,yuki.khan@gmail.com,(625) 308-6991,Denver,CO,USA,13603,Bachelor,HR,HR Manager,2022-01-21,4.8,53500,2.1,True,EMP-9F6Y5V
+CUST-00892,Emily,Taylor,Female,1993-06-06,33,emily.taylor1977@mail.com,(308) 207-2982,Seattle,WA,USA,47590,Bachelor,Support,Support Lead,2019-02-01,7.7,42500,3.9,True,EMP-8BGJ5G
+CUST-00893,Daniel,Wilson,Male,1994-12-02,31,daniel.wilson@yahoo.com,(591) 764-5773,Springfield,IL,USA,69754,Bachelor,HR,HR Manager,2015-11-08,11.0,117500,3.2,True,EMP-PYCWEU
+CUST-00894,Elizabeth,Williams,Female,2001-11-29,24,elizabeth.williams@outlook.com,(209) 422-3237,Springfield,IL,USA,57707,High School,Sales,Sales Manager,2026-08-14,0.2,57500,3.3,True,EMP-2KH0ET
+CUST-00895,Hiroshi,Jones,Male,1971-02-27,55,hiroshi.jones@outlook.com,(635) 815-1222,Boston,MA,USA,12027,Bachelor,Engineering,Senior Engineer,2009-12-11,16.9,94500,1.7,True,EMP-6NZ1Z9
+CUST-00896,Priya,Chen,Female,1991-09-07,35,priya.chen@yahoo.com,(533) 217-1941,Atlanta,GA,USA,46193,Master,Support,Support Lead,2019-05-27,7.4,51000,2.6,False,EMP-R3VP8L
+CUST-00897,Luca,Hernandez,Male,1997-12-10,28,luca.hernandez@outlook.com,(300) 337-3837,Boston,MA,USA,87630,Bachelor,Support,Support Lead,2018-11-09,8.0,82500,3.3,True,EMP-JN7BYV
+CUST-00898,Matthew,Khan,Male,2003-12-18,22,matthew.khan@example.com,(990) 486-6927,Phoenix,AZ,USA,70630,Bachelor,Support,Support Agent,2025-08-22,1.2,53500,2.9,True,EMP-AH3QN2
+CUST-00899,Aisha,Kim,Female,1975-09-06,51,aisha.kim@yahoo.com,(742) 216-3042,Miami,FL,USA,67973,Bachelor,Engineering,Software Engineer,2009-11-09,17.0,105000,4.0,True,EMP-LQGBUL
+CUST-00900,Yuki,Wilson,Female,1977-01-04,49,yuki.wilson@yahoo.com,(456) 339-0168,Boston,MA,USA,68368,Bachelor,HR,Recruiter,2023-09-15,3.1,68500,3.6,True,EMP-84Z7HT
+CUST-00901,Isabella,Anderson,Female,1983-08-06,43,isabella.anderson@yahoo.com,(821) 253-6659,Chicago,IL,USA,98057,Bachelor,Data,Data Engineer,2025-01-12,1.8,125000,3.3,False,EMP-9VICMN
+CUST-00902,Anthony,Smith,Male,1966-12-14,59,anthony.smith417@mail.com,(810) 660-7029,Denver,CO,USA,43734,Master,Data,Data Engineer,2017-12-16,8.9,128000,2.4,True,EMP-LQ0S5R
+CUST-00903,Sophia,Rodriguez,Female,1977-11-09,48,sophia.rodriguez@yahoo.com,(350) 385-7812,Atlanta,GA,USA,37532,Master,Finance,Finance Manager,2024-05-07,2.5,60000,4.0,True,EMP-HCG7FD
+CUST-00904,Wei,Tanaka,Male,1964-06-07,62,wei.tanaka@outlook.com,(998) 501-2582,Springfield,IL,USA,90843,Master,HR,Recruiter,2007-09-16,19.1,140500,2.1,True,EMP-TUIN74
+CUST-00905,Daniel,Lee,Male,1994-04-30,32,daniel.lee3067@gmail.com,(894) 607-4401,Atlanta,GA,USA,74940,Master,Support,Support Agent,2015-04-24,11.5,48000,3.1,True,EMP-CQ5AH9
+CUST-00906,Jessica,Thomas,Female,1984-09-15,42,jessica.thomas@gmail.com,(669) 387-4158,New York,NY,USA,46655,Bachelor,Engineering,Senior Engineer,2011-07-14,15.3,174500,4.1,True,EMP-PU2PIT
+CUST-00907,Hiroshi,Johnson,Male,1985-02-11,41,hiroshi.johnson@example.com,(763) 532-1781,New York,NY,USA,89118,Associate,Data,Data Scientist,2025-10-04,1.1,104000,2.1,True,EMP-9RTD6E
+CUST-00908,Sarah,Lopez,Female,1986-07-16,40,sarah.lopez@gmail.com,(861) 539-2812,Springfield,IL,USA,69456,Master,Engineering,Engineering Manager,2009-10-24,17.0,210000,3.5,True,EMP-HRWWNQ
+CUST-00909,Omar,Clark,Male,1978-03-04,48,omar.clark@mail.com,(222) 373-0730,New York,NY,USA,81518,High School,Marketing,Marketing Specialist,2021-10-13,5.0,90500,3.4,True,EMP-GBGCN3
+CUST-00910,Sarah,Patel,Female,1971-07-21,55,sarah.patel4580@outlook.com,(453) 411-2839,New York,NY,USA,10859,PhD,HR,HR Generalist,2010-01-19,16.8,73000,2.9,True,EMP-362M9E
+CUST-00911,Ryan,Martinez,Male,1961-10-18,64,ryan.martinez@outlook.com,(491) 911-3410,Houston,TX,USA,91760,Associate,Support,Support Agent,2014-01-30,12.7,73000,2.4,True,EMP-4OFPAT
+CUST-00912,Elena,Khan,Female,1997-02-15,29,elena.khan3777@gmail.com,(969) 812-6435,Phoenix,AZ,USA,51032,Master,Engineering,Engineering Manager,2019-10-25,7.0,190000,3.5,True,EMP-CF8OCQ
+CUST-00913,Emily,Garcia,Female,1994-08-01,32,emily.garcia244@example.com,(300) 800-2169,Phoenix,AZ,USA,33699,Bachelor,Finance,Accountant,2017-01-31,9.7,123000,3.7,True,EMP-N0EP8R
+CUST-00914,Omar,Kim,Male,1989-04-15,37,omar.kim@example.com,(984) 434-0433,Los Angeles,CA,USA,10591,Bachelor,Data,Data Scientist,2025-09-23,1.1,69000,3.6,True,EMP-6LECFD
+CUST-00915,Sarah,Clark,Female,1984-11-18,41,sarah.clark5811@gmail.com,(506) 443-0808,Phoenix,AZ,USA,77819,Master,Data,ML Engineer,2021-02-22,5.7,162500,4.3,True,EMP-FQ9N04
+CUST-00916,Robert,Moore,Male,1990-09-28,36,robert.moore@mail.com,(804) 384-0121,Phoenix,AZ,USA,49650,Master,Finance,Financial Analyst,2026-02-23,0.7,83500,3.2,True,EMP-W3HHIG
+CUST-00917,Sophia,Brown,Female,1965-10-30,60,sophia.brown@outlook.com,(481) 258-8515,Chicago,IL,USA,53718,Bachelor,Sales,Account Executive,2015-06-25,11.3,130000,3.7,True,EMP-3T9LP2
+CUST-00918,Brian,Rossi,Male,1988-04-21,38,brian.rossi295@mail.com,(421) 998-5224,Denver,CO,USA,58920,High School,Data,ML Engineer,2023-10-09,3.1,134000,2.3,True,EMP-GM1TM2
+CUST-00919,Susan,Singh,Female,1976-12-28,49,susan.singh@outlook.com,(213) 292-2777,Boston,MA,USA,31302,Associate,Marketing,SEO Analyst,2009-03-26,17.6,116000,1.9,True,EMP-GAAZPG
+CUST-00920,Patricia,Jones,Female,1979-10-01,46,patricia.jones@example.com,(569) 640-3181,Phoenix,AZ,USA,34262,High School,Support,Support Lead,2025-01-02,1.8,50500,3.5,True,EMP-IC0DHN
+CUST-00921,Luca,Patel,Male,1996-12-22,29,luca.patel@yahoo.com,(205) 911-0766,Phoenix,AZ,USA,65033,PhD,Support,Support Agent,2022-03-15,4.6,42500,3.1,True,EMP-LKDYP4
+CUST-00922,Mei,Clark,Female,1980-02-22,46,mei.clark@yahoo.com,(533) 433-7586,Houston,TX,USA,32736,Associate,Finance,Financial Analyst,2016-10-16,10.0,139000,1.9,True,EMP-X4YH5H
+CUST-00923,Linda,Smith,Female,1989-02-22,37,linda.smith@mail.com,(598) 557-4522,Miami,FL,USA,47710,High School,Engineering,Senior Engineer,2019-10-06,7.1,117500,3.1,True,EMP-XNN861
+CUST-00924,Jessica,Rossi,Female,1994-08-16,32,jessica.rossi9903@outlook.com,(548) 302-8382,New York,NY,USA,82152,Bachelor,Support,Support Agent,2021-03-22,5.6,78000,4.0,True,EMP-WGKG5K
+CUST-00925,Wei,Martinez,Male,1987-11-09,38,wei.martinez@outlook.com,(401) 713-6368,Denver,CO,USA,85051,Bachelor,Data,Data Analyst,2012-11-29,13.9,119000,2.3,True,EMP-1NI4EU
+CUST-00926,Anthony,Chen,Male,1994-01-10,32,anthony.chen@example.com,(809) 547-3721,Boston,MA,USA,75648,Master,Marketing,SEO Analyst,2020-12-20,5.9,55500,3.2,False,EMP-GOKLVA
+CUST-00927,Hiroshi,Singh,Male,1975-07-01,51,hiroshi.singh@yahoo.com,(850) 620-1537,Los Angeles,CA,USA,48482,Associate,Sales,Sales Manager,2020-01-27,6.8,92500,4.5,True,EMP-JQONTQ
+CUST-00928,Mei,Rodriguez,Female,1975-12-07,50,mei.rodriguez@example.com,(268) 576-4864,Austin,TX,USA,21420,Bachelor,Marketing,Marketing Specialist,2021-12-08,4.9,68500,4.4,True,EMP-RZUD1L
+CUST-00929,Wei,Kim,Male,1980-10-11,45,wei.kim@mail.com,(237) 433-4062,Phoenix,AZ,USA,68223,Bachelor,Data,ML Engineer,2013-02-24,13.7,138000,3.4,True,EMP-ARPH3Q
+CUST-00930,Luca,Jones,Male,1994-05-04,32,luca.jones@yahoo.com,(829) 216-8386,Springfield,IL,USA,69260,Bachelor,Support,Support Lead,2025-08-30,1.2,73000,2.8,True,EMP-LV3N1U
+CUST-00931,Joshua,Nguyen,Male,1961-06-21,65,joshua.nguyen@yahoo.com,(224) 959-5159,Miami,FL,USA,93582,Bachelor,HR,HR Generalist,2024-06-24,2.3,105000,4.0,True,EMP-UFEQJ4
+CUST-00932,Jennifer,Jackson,Female,1962-05-15,64,jennifer.jackson@example.com,(611) 981-2668,New York,NY,USA,85743,Master,Marketing,Marketing Specialist,2013-10-07,13.1,76000,3.2,False,EMP-UG44C9
+CUST-00933,Carlos,Brown,Male,1996-05-02,30,carlos.brown@mail.com,(668) 955-0099,Miami,FL,USA,79978,Bachelor,Sales,Account Executive,2025-08-18,1.2,64000,3.5,True,EMP-VFHZT8
+CUST-00934,Robert,Nguyen,Male,1985-03-04,41,robert.nguyen@yahoo.com,(779) 825-6857,Austin,TX,USA,68935,High School,Finance,Financial Analyst,2019-06-29,7.3,130500,3.4,True,EMP-MTGN9T
+CUST-00935,Sarah,Jackson,Female,1988-09-02,38,sarah.jackson@mail.com,(958) 277-7633,Houston,TX,USA,80618,High School,Support,Support Lead,2010-03-21,16.6,82000,3.2,False,EMP-NNXXYM
+CUST-00936,Michael,Wilson,Male,1968-09-01,58,michael.wilson@outlook.com,(659) 993-0759,Chicago,IL,USA,24999,Bachelor,Support,Support Agent,2019-09-02,7.2,63500,3.0,True,EMP-QBBWBX
+CUST-00937,Wei,Garcia,Male,1996-06-27,30,wei.garcia@example.com,(506) 739-5345,Chicago,IL,USA,13957,Bachelor,HR,HR Generalist,2021-08-26,5.2,89000,3.1,True,EMP-X88GXW
+CUST-00938,Robert,Anderson,Male,2005-05-05,21,robert.anderson@mail.com,(312) 375-7737,Atlanta,GA,USA,63234,Bachelor,Finance,Accountant,2026-02-27,0.7,117500,3.4,True,EMP-4IEC1G
+CUST-00939,Jessica,Nguyen,Female,1988-02-15,38,jessica.nguyen@outlook.com,(542) 734-7938,Houston,TX,USA,10769,High School,Sales,Sales Rep,2022-05-06,4.5,84500,3.7,True,EMP-XXKXNO
+CUST-00940,Hiroshi,Williams,Male,1991-05-23,35,hiroshi.williams@yahoo.com,(614) 921-0963,Seattle,WA,USA,42758,Bachelor,Data,ML Engineer,2012-03-14,14.6,109000,1.1,False,EMP-KNE1YB
+CUST-00941,Sarah,Chen,Female,1989-06-14,37,sarah.chen@example.com,(485) 895-0266,Los Angeles,CA,USA,41859,Master,Finance,Finance Manager,2021-12-13,4.9,136500,2.6,True,EMP-SFMZQR
+CUST-00942,Emily,Chen,Female,1992-12-05,33,emily.chen6736@yahoo.com,(839) 741-6680,Houston,TX,USA,47185,Bachelor,Marketing,Content Writer,2013-11-11,13.0,92500,2.9,True,EMP-384XG0
+CUST-00943,Susan,Patel,Female,1981-01-03,45,susan.patel@mail.com,(274) 664-9325,Chicago,IL,USA,86468,Bachelor,Marketing,Content Writer,2017-08-23,9.2,108500,4.2,True,EMP-968XF6
+CUST-00944,Daniel,Hernandez,Male,1975-04-23,51,daniel.hernandez@mail.com,(999) 644-0202,Boston,MA,USA,49466,High School,HR,Recruiter,2015-05-30,11.4,112000,3.3,True,EMP-8363DH
+CUST-00945,Mateo,Williams,Male,2004-10-16,21,mateo.williams2066@example.com,(677) 608-2405,New York,NY,USA,90863,Master,Engineering,Software Engineer,2025-10-24,1.0,105000,4.5,True,EMP-XIBK7C
+CUST-00946,Linda,Smith,Female,1972-07-21,54,linda.smith@yahoo.com,(233) 805-8849,Denver,CO,USA,66987,Bachelor,Sales,Sales Manager,2008-06-01,18.4,158000,3.0,True,EMP-27E6L8
+CUST-00947,John,Moore,Male,1991-03-22,35,john.moore@yahoo.com,(304) 837-4276,Houston,TX,USA,83229,Master,Engineering,QA Engineer,2024-10-15,2.0,179500,2.1,False,EMP-73T93X
+CUST-00948,Priya,Jackson,Female,2004-11-13,21,priya.jackson@yahoo.com,(618) 618-1646,Denver,CO,USA,78969,Bachelor,Finance,Financial Analyst,2026-01-09,0.8,77000,4.6,True,EMP-16X14A
+CUST-00949,Joshua,Taylor,Male,1998-09-29,28,joshua.taylor@outlook.com,(833) 523-6630,Chicago,IL,USA,22705,High School,Sales,Account Executive,2021-07-12,5.3,140500,3.2,True,EMP-GR8CP1
+CUST-00950,John,Jones,Male,2001-07-30,25,john.jones9566@mail.com,(949) 388-4815,Houston,TX,USA,50699,Bachelor,HR,Recruiter,2024-09-18,2.1,60000,2.7,True,EMP-2RA0T5
+CUST-00951,Ryan,Williams,Male,1961-05-29,65,ryan.williams@gmail.com,(844) 234-9131,Springfield,IL,USA,56829,High School,Sales,Sales Manager,2006-09-17,20.1,144500,2.5,True,EMP-5VCMGJ
+CUST-00952,Luca,Rossi,Male,1972-10-01,53,luca.rossi@outlook.com,(528) 662-4269,Seattle,WA,USA,45553,Master,Sales,Sales Manager,2017-03-20,9.6,129000,3.0,True,EMP-VEOX3A
+CUST-00953,Mary,Lee,Female,2005-03-09,21,mary.lee@yahoo.com,(454) 818-8944,Seattle,WA,USA,29609,Associate,Sales,Sales Manager,2026-03-02,0.7,92000,1.5,True,EMP-N110BS
+CUST-00954,Emily,Kim,Female,1963-05-16,63,emily.kim@gmail.com,(546) 292-6260,Boston,MA,USA,47025,Bachelor,HR,HR Manager,2005-04-12,21.5,71500,3.5,True,EMP-0MPH7V
+CUST-00955,Ashley,Rodriguez,Female,1973-06-17,53,ashley.rodriguez@gmail.com,(819) 771-7912,New York,NY,USA,15578,Bachelor,Support,Support Agent,2022-03-29,4.6,75000,4.6,True,EMP-VWT0Y5
+CUST-00956,Sarah,Williams,Female,1993-09-14,33,sarah.williams@gmail.com,(766) 546-9189,Chicago,IL,USA,16166,Bachelor,Support,Support Lead,2022-09-29,4.1,54000,2.6,True,EMP-EXB92Y
+CUST-00957,William,Smith,Male,1991-08-04,35,william.smith@outlook.com,(485) 503-7868,Denver,CO,USA,17432,Master,Finance,Finance Manager,2012-02-27,14.7,123500,4.2,True,EMP-76C1K0
+CUST-00958,Sarah,Lee,Female,1979-06-06,47,sarah.lee@outlook.com,(977) 790-6159,Springfield,IL,USA,10363,Bachelor,Marketing,Marketing Specialist,2007-12-20,18.9,143500,2.2,True,EMP-0KERTQ
+CUST-00959,Brian,Moore,Male,2002-03-19,24,brian.moore@example.com,(208) 579-0721,New York,NY,USA,26943,Master,Marketing,Marketing Specialist,2024-04-29,2.5,50500,3.5,True,EMP-4WVAHB
+CUST-00960,David,Johnson,Male,1964-10-15,61,david.johnson@yahoo.com,(404) 985-7537,Chicago,IL,USA,58631,Bachelor,Sales,Sales Manager,2008-01-14,18.8,61000,3.4,True,EMP-EXGOBZ
+CUST-00961,Patricia,Jones,Female,1987-09-04,39,patricia.jones5716@example.com,(244) 526-4683,Seattle,WA,USA,82985,PhD,Sales,Account Executive,2026-03-13,0.6,69000,3.6,False,EMP-IDUWET
+CUST-00962,Sophia,Kim,Female,1987-02-22,39,sophia.kim8674@yahoo.com,(579) 352-2020,Seattle,WA,USA,74660,Bachelor,Marketing,Marketing Specialist,2017-02-09,9.7,68000,2.8,True,EMP-A8O34L
+CUST-00963,Mary,Thomas,Female,1987-05-18,39,mary.thomas@gmail.com,(401) 561-1030,Austin,TX,USA,57968,Bachelor,Data,Data Analyst,2024-12-29,1.8,113500,1.8,False,EMP-YCI08P
+CUST-00964,Ryan,Anderson,Male,1983-06-27,43,ryan.anderson@gmail.com,(414) 451-9678,Denver,CO,USA,52781,Bachelor,HR,HR Manager,2006-05-22,20.4,90000,2.6,True,EMP-80ND3Y
+CUST-00965,Elena,Johnson,Female,1975-12-03,50,elena.johnson@outlook.com,(744) 607-7122,Atlanta,GA,USA,49366,Master,Finance,Financial Analyst,2006-10-17,20.0,155500,3.4,True,EMP-NEI5ZR
+CUST-00966,Priya,Jackson,Female,2002-01-04,24,priya.jackson6132@example.com,(471) 450-0097,Houston,TX,USA,94199,High School,Finance,Accountant,2025-09-06,1.1,130000,2.3,True,EMP-PIG3YV
+CUST-00967,Jessica,Rossi,Female,1992-07-16,34,jessica.rossi@yahoo.com,(529) 445-2684,Springfield,IL,USA,61745,Master,Sales,Account Executive,2018-10-24,8.0,56000,2.9,True,EMP-XJP7WZ
+CUST-00968,Luca,Clark,Male,1963-12-12,62,luca.clark@outlook.com,(905) 200-1069,New York,NY,USA,65480,Bachelor,Data,Data Scientist,2010-05-07,16.5,178000,3.8,True,EMP-KE8RCV
+CUST-00969,Mateo,Smith,Male,1984-03-13,42,mateo.smith@example.com,(258) 653-5301,Los Angeles,CA,USA,67202,Bachelor,Sales,Sales Manager,2023-11-26,2.9,72000,3.5,True,EMP-8EA329
+CUST-00970,William,Garcia,Male,1974-05-19,52,william.garcia2467@yahoo.com,(718) 916-0553,Denver,CO,USA,62222,Bachelor,Marketing,SEO Analyst,2009-11-24,16.9,78500,3.7,True,EMP-2AUBNB
+CUST-00971,Susan,Patel,Female,1965-02-25,61,susan.patel4985@yahoo.com,(945) 254-2167,Los Angeles,CA,USA,75019,Bachelor,Finance,Finance Manager,2023-06-26,3.3,62000,3.5,True,EMP-2NGQEU
+CUST-00972,Arjun,Tanaka,Male,2004-10-21,21,arjun.tanaka@yahoo.com,(849) 613-4298,Houston,TX,USA,63952,Master,Finance,Financial Analyst,2026-02-19,0.7,72000,3.4,True,EMP-VXHSHV
+CUST-00973,Elena,Tanaka,Female,1988-08-02,38,elena.tanaka@mail.com,(957) 835-5160,Los Angeles,CA,USA,51101,High School,Sales,Account Executive,2022-06-06,4.4,133500,3.4,True,EMP-H31PHE
+CUST-00974,Hiroshi,Rodriguez,Male,1998-12-06,27,hiroshi.rodriguez@example.com,(866) 276-1709,Los Angeles,CA,USA,53194,Bachelor,Data,Data Engineer,2025-02-22,1.7,131000,2.5,True,EMP-ZGQ095
+CUST-00975,Daniel,Tanaka,Male,1972-09-25,54,daniel.tanaka@mail.com,(549) 607-7554,Phoenix,AZ,USA,76062,Bachelor,Marketing,Marketing Specialist,2011-09-26,15.1,75500,4.0,True,EMP-S6EQXX
+CUST-00976,Ryan,Nguyen,Male,1986-11-04,39,ryan.nguyen@mail.com,(914) 940-4184,Springfield,IL,USA,85436,Bachelor,HR,Recruiter,2008-02-10,18.7,91000,2.7,True,EMP-UT5JAY
+CUST-00977,Fatima,Patel,Female,1969-04-17,57,fatima.patel@outlook.com,(655) 357-3298,Houston,TX,USA,61769,Master,Finance,Accountant,2017-02-23,9.7,90000,4.0,True,EMP-5PNEDL
+CUST-00978,Fatima,Nguyen,Female,1979-02-20,47,fatima.nguyen@mail.com,(969) 976-5873,Seattle,WA,USA,74688,Bachelor,Marketing,Content Writer,2019-12-05,6.9,130500,2.6,True,EMP-ABSM2O
+CUST-00979,Joshua,Nguyen,Male,1979-04-14,47,joshua.nguyen5856@gmail.com,(509) 466-1125,Seattle,WA,USA,77147,Bachelor,Sales,Account Executive,2012-04-17,14.5,70000,4.4,True,EMP-23HOTP
+CUST-00980,Ryan,Tanaka,Male,2002-11-02,23,ryan.tanaka@example.com,(474) 357-3476,Denver,CO,USA,77199,Bachelor,Engineering,Software Engineer,2024-05-17,2.5,120500,2.3,True,EMP-LBWTBV
+CUST-00981,Jennifer,Miller,Female,1963-07-24,63,jennifer.miller@outlook.com,(810) 696-9434,New York,NY,USA,73829,High School,HR,Recruiter,2022-04-11,4.6,80000,2.8,True,EMP-JHOJAL
+CUST-00982,Wei,Miller,Male,1981-09-19,45,wei.miller@outlook.com,(855) 854-3649,Denver,CO,USA,85109,Bachelor,Sales,Sales Rep,2016-06-05,10.4,154500,4.2,True,EMP-WTF9AZ
+CUST-00983,Emily,Jones,Female,1990-11-16,35,emily.jones@gmail.com,(825) 217-7678,Seattle,WA,USA,35062,Master,HR,HR Generalist,2024-06-20,2.4,113500,1.6,True,EMP-0XQTQV
+CUST-00984,Joshua,Williams,Male,1978-02-14,48,joshua.williams@mail.com,(941) 332-9934,Austin,TX,USA,51943,Master,HR,HR Manager,2021-03-09,5.6,61500,4.1,True,EMP-3JUFXH
+CUST-00985,Mary,Khan,Female,1970-04-11,56,mary.khan@outlook.com,(499) 728-3437,Miami,FL,USA,22931,Master,HR,Recruiter,2021-12-22,4.9,69500,2.4,True,EMP-O4H86D
+CUST-00986,Omar,Rossi,Male,1976-07-03,50,omar.rossi@gmail.com,(548) 776-5118,Boston,MA,USA,64305,Bachelor,Data,Data Analyst,2011-08-13,15.2,191000,4.4,False,EMP-IQFXEW
+CUST-00987,William,Garcia,Male,2001-10-19,24,william.garcia7726@mail.com,(931) 755-7340,Miami,FL,USA,17291,Bachelor,Support,Support Lead,2026-06-20,0.4,66000,3.9,False,EMP-UZC2PL
+CUST-00988,Hiroshi,Moore,Male,1971-07-04,55,hiroshi.moore@gmail.com,(267) 561-9554,Atlanta,GA,USA,18493,Bachelor,Finance,Finance Manager,2005-11-22,20.9,164500,1.8,True,EMP-N91WG3
+CUST-00989,Omar,Rodriguez,Male,1979-01-14,47,omar.rodriguez8385@example.com,(281) 354-3896,Boston,MA,USA,87814,Bachelor,Engineering,Software Engineer,2024-04-26,2.5,91500,2.3,False,EMP-2VWMD5
+CUST-00990,William,Lee,Male,1972-08-25,54,william.lee@mail.com,(227) 864-8002,Springfield,IL,USA,10923,Master,Support,Support Lead,2019-09-16,7.1,76000,3.7,True,EMP-V5BVH2
+CUST-00991,Brian,Jackson,Male,1991-01-23,35,brian.jackson@mail.com,(822) 665-0757,Phoenix,AZ,USA,41799,Master,Finance,Accountant,2023-06-21,3.4,119000,3.1,True,EMP-SOS0I9
+CUST-00992,Sophia,Chen,Female,2005-06-07,21,sophia.chen@example.com,(423) 302-5290,Denver,CO,USA,53158,Bachelor,Data,Data Analyst,2026-02-21,0.7,147500,3.6,True,EMP-P6MXSW
+CUST-00993,Omar,Rodriguez,Male,1988-10-23,37,omar.rodriguez@outlook.com,(265) 515-7919,Phoenix,AZ,USA,16737,Bachelor,Sales,Sales Manager,2020-06-02,6.4,102500,2.0,True,EMP-IXLBO9
+CUST-00994,Ryan,Kim,Male,1971-08-05,55,ryan.kim@example.com,(832) 657-8810,Los Angeles,CA,USA,17004,Master,Finance,Accountant,2005-11-03,21.0,136000,2.5,False,EMP-2WMSJ9
+CUST-00995,Mary,Singh,Female,1978-05-07,48,mary.singh@yahoo.com,(526) 691-3582,Phoenix,AZ,USA,75353,Bachelor,Support,Support Agent,2005-06-27,21.3,49000,4.1,True,EMP-8NZF6Y
+CUST-00996,Sarah,Brown,Female,1980-07-13,46,sarah.brown@mail.com,(772) 577-4985,Miami,FL,USA,94218,Associate,Data,Data Scientist,2020-12-09,5.9,77000,2.5,True,EMP-N9NTWJ
+CUST-00997,Hiroshi,Anderson,Male,2004-05-26,22,hiroshi.anderson@example.com,(598) 380-2004,Houston,TX,USA,55269,Master,Sales,Sales Manager,2025-10-26,1.0,115000,2.9,True,EMP-CWJ77E
+CUST-00998,Wei,Smith,Male,2004-12-22,21,wei.smith@outlook.com,(861) 493-1620,Chicago,IL,USA,39874,Master,Engineering,DevOps Engineer,2026-06-10,0.4,144000,4.0,True,EMP-N6ZJUY
+CUST-00999,Ashley,Smith,Female,1967-12-04,58,ashley.smith@yahoo.com,(989) 229-2483,Boston,MA,USA,65673,PhD,Marketing,SEO Analyst,2011-06-23,15.4,123500,4.6,True,EMP-UXN3E6
+CUST-01000,Priya,Thomas,Female,1998-08-04,28,priya.thomas@example.com,(520) 964-6457,Miami,FL,USA,41524,Bachelor,Marketing,Marketing Specialist,2023-08-29,3.2,81000,2.2,True,EMP-EY9JVB
